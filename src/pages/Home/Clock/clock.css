@@ -1,0 +1,24 @@
+.clock-data h1{
+  font-size: 2rem !important;
+}
+.clock-data h5{
+  font-size: 1.25rem !important;
+}
+h1,
+h5 {
+  padding: 0;
+  margin: 0;
+}
+
+
+@media only screen and (max-width: 992px) {
+    .clock-wrapper {
+        justify-content: center;
+    }
+    .clock-data h1{
+        font-size: 1.1rem !important;
+    }
+    .clock-data h5 {
+        font-size: 0.9rem !important;
+    }
+}

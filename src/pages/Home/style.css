@@ -1,0 +1,89 @@
+.timer-count {
+    padding: 60px 0;
+    background: #0a1d37;
+    height: 360px;
+    margin: 60px ;
+}
+.clock-top-content h4 {
+    font-size: 2rem;
+}
+.clock-top-content h3 {
+    font-size: 1.3rem;
+}
+.count-down-col a {
+    text-decoration: none;
+    color: unset;
+  }
+ 
+.timer-count img {
+    width: 70% !important;
+    height: 60% !important;
+    object-fit: contain;
+    border-radius: 40px !important;
+}
+.store-btn {
+    background: #fff;
+    color: #0a1d37 !important;
+    font-weight: 600;
+    margin-top: 40px;
+    padding: 8px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+.store-btn a:hover {
+    color: #0a1d37;
+} 
+@media only screen and (max-width: 768px) {
+    section {
+      padding: 40px 0px;
+       
+    }
+  }
+@media only screen and (max-width: 992px) {
+    .counter_img {
+        display: none;
+    }
+    .clock-top-content {
+        text-align: center;
+    }
+    .clock-top-content h4 {
+        font-size: 0.9rem !important;
+    }
+    .clock-top-content h3 {
+        font-size: 1rem !important;
+    }
+    .count-down-col {
+        text-align: center;
+    }
+}
+.homeProducts{ padding: 25px 0px;}
+
+.filterTab li{margin-left: 20px; position: relative;}
+.filterTab li a{color: #000; text-decoration: none; font-size: 20px; transition: all 0.3s ease-in-out; position: relative; font-weight: 600;}
+.filterTab li:hover a, .filterTab li a.act{color: #3bb77e !important; transform: translateY(-10px); }
+
+.homeProducts .productRow{ display: flex; padding: 30px 0px; margin: 0px -15px; flex-wrap: wrap;}
+.homeProducts .productRow.loading{opacity: 0.5; filter: blur(5px);}
+
+.homeProducts .productRow .item{width: 25%;  padding: 15px 15px;}
+.homeProductWrapper .productRow .item{width: 20%;}
+
+.homeProductsRow2 .prodSlider .item{padding:15px 5px;  padding-right: 25px  !important;}
+
+
+.topProductsSection{padding: 35px 0px;}
+
+
+.newsLetterSection{width: 100%; height: auto;}
+.newsLetterSection .box{background: url(../../assets/images/bg.png); width: 100%; height: auto; padding: 60px 80px; border-radius: 30px; overflow: hidden;}
+
+.newsLetterSection .box .info{width: 55%;}
+.newsLetterSection .box .info h2{font-size: 60px; font-weight: 600; line-height: 70px; opacity: 0.8;}
+.newsLetterSection .box .info p{font-size: 22px; opacity: 0.8;}
+.newsLetterSection .box .img{width: 45%;}
+.newsLetterSection .box .img img{position: relative; top: 60px;}
+.newsLetterSection .box  .newsLetterBanner{position: relative !important; left: 0px !important; bottom: inherit !important;}
+
+ 
