@@ -1,0 +1,326 @@
+
+.txt-c h1 {
+    margin-bottom: 50px;
+    margin-top: 100px;
+    position: relative;
+    text-align: center;
+    color: var(--searchIcon);
+  }
+  @media (max-width:477px) {
+    .txt-c h1{
+        margin-top: 50px;
+    }
+  }
+  .txt-c h1::before,
+  .txt-c h1::after {
+    content: "";
+    background-color: var(--searchIcon);
+    transform: translateX(-50%);
+    position: absolute;
+    left: 50%;
+  }
+  .txt-c h1::before {
+    width: 80px;
+    height: 2px;
+    bottom: -20px;
+  }
+  .txt-c h1::after {
+    bottom: -29px;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    border: 4px solid var(--secondary);
+  }
+.about {
+    padding: 40px 80px;
+    display: flex;
+    align-items: center;
+  }
+  @media (max-width:477px) {
+    .about{
+        padding: 20px;
+        flex-direction: column;
+    }
+}
+.about img {
+    width: 50%;
+    height: auto;
+}
+@media (max-width:477px) {
+    .about img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+.about div {
+    padding-left: 40px;
+    width: 50%;
+}
+@media (max-width:477px) {
+    .about div {
+        padding-left: 0px;
+        width: 100%;
+    }
+}
+.about h2 {
+    font-size: 35px;
+    line-height: 54px;
+    color: var(--title);
+}
+@media (max-width:477px) {
+    .about h2 {
+        font-size: 30px;
+    }
+}
+.about p {
+    font-size: 16px;
+    color: var(--subtitle);
+    margin: 15px 0 20px 0;
+}
+/* start feature */
+.features {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    background-color:  var(--secondary);
+}
+@media (max-width:477px) {
+    .features {
+        padding-top: 20px;
+        padding-bottom: 70px;
+    }
+}
+.features .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    gap: 40px;
+    margin-top: 50px;
+}
+
+.features .box {
+    text-align: center;
+    border: 1px solid #ccc;
+}
+.features .box .img-holder {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+.features .box .img-holder::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.features .box .img-holder::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    border-style: solid;
+    border-width: 0px 0px 100px 500px;
+    border-color: transparent transparent  #fff transparent ;
+    transition: 0.3s;
+}
+.features .box .img-holder img {
+    max-width: 100%;
+    width: 100%;
+}
+.features .box:hover .img-holder::after {
+    border-width: 170px 500px 170px 0px;
+}
+.features .box h2 {
+    position: relative;
+    font-size: 35px;
+    width: fit-content;
+    margin: auto;
+    color: var(--title);
+}
+.features .box h2::after {
+    content: "";
+    position: absolute;
+    bottom: -20px;
+    left: 15px;
+    height: 5px;
+    width: calc(100% - 30px);
+}
+.features .box p{
+    line-height: 2;
+    font-size: 20px;
+    padding: 25px;
+    margin: 30px 0;
+    color: #777;
+
+}
+.features .box a {
+    display: block;
+    border: 3px solid transparent;
+    width: fit-content;
+    margin: 0 auto 30px;
+    font-weight: bold;
+    font-size: 22px;
+    padding: 10px 30px;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+.features .quality .img-holder::before {
+    background-color: rgb( 224 64 54 / 60%)
+}
+.features .quality h2::after {
+    background-color: #f44036;
+}
+.features .quality a{
+    color: #f44036;
+    border-color: #f44036;
+    background: linear-gradient(to right, #f44036 50% , white 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+}
+.features .box:hover a {
+    background-position: left bottom;
+    color: white;
+}
+.features .challenge .img-holder::before {
+    background-color: rgb( 0 150 136 / 60%)
+}
+.features .challenge h2::after {
+    background-color: #009688;
+}
+.features .challenge a{
+    color:  #009688;
+    border-color:  #009688; 
+    background: linear-gradient(to right,  #009688 50% , white 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+}
+.features .box:hover a {
+    background-position: left bottom;
+    color: white;
+}
+.features .passion .img-holder::before {
+    background-color: rgb( 3 169 244 / 60%)
+}
+.features .passion h2::after {
+    background-color:  #03a9f4;
+}
+/* End feature */
+
+
+/* /start team member */
+.perfoileTestimonials {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    background-color: var(--teamMember);
+}
+@media (max-width:477px) {
+       section {
+        padding: 0px 0px;
+        }
+        .perfoileTestimonials{
+            padding-top: 20px;
+        }
+}
+.perfoileTestimonials .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    gap: 40px;
+    margin-top: 50px;
+}
+.perfoileTestimonials .box {
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgb( 0 0 0 /7%);
+    border-radius: 6px;
+    position: relative;
+}
+.perfoileTestimonials .box img {
+    position: absolute;
+    width: 100px;
+    height: 100px; 
+    top: -20px;
+    right: -10px;
+    border-radius: 50%;
+    border: 10px solid #ececec;
+}
+.perfoileTestimonials .box h3 {
+    margin: 0 0 10px;
+    color: var(--svgproducthover);
+}
+.perfoileTestimonials .box .title {
+    display: block;
+    margin-bottom: 10px;
+    color: var(--subtitle);
+}
+.perfoileTestimonials .box .rate .filled {
+    color: #ffc107;
+    margin-left: 5px;
+}
+.perfoileTestimonials .box .rate .far {
+    color: var(--svgproducthover);
+    margin-left: 5px;
+}
+.perfoileTestimonials .box p {
+    line-height: 1.5;
+    color: var(--subtitle);
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+/* End team member */
+/* Start Skills */
+.skills {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: var(--skills)
+    }
+  .skills h2 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #009688;
+    margin: 0 0 50px;
+    text-align: center;
+  }
+  .skills .skill-box {
+    background-color: var(--bgHeader);
+    display: flex;
+    padding: 15px;
+    margin-bottom: 15px;
+  }
+  @media (max-width: 767px) {
+    .skills .skill-box {
+      display: block;
+    }
+  }
+  .skills .skill-box .skill-name {
+    font-weight: bold;
+    width: 140px;
+    text-align: center;
+    line-height: 30px;
+    color: var(--title);
+  }
+  @media (max-width: 767px) {
+    .skills .skill-box .skill-name {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+  }
+  .skills .skill-box .skill-progress {
+    height: 30px;
+    width: 100%;
+    background-color: #f6f6f6;
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden;
+  }
+  .skills .skill-box .skill-progress span {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 100%;
+    background-color: #009688;
+    transition: all .5s;
+  }
+  /* End Skills */

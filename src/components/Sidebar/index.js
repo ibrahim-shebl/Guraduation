@@ -4,7 +4,7 @@ import Checkbox from '@mui/material/Checkbox';
 import Radio from '@mui/material/Radio';
 import { Button } from '@mui/material';
 import FilterAltOutlinedIcon from '@mui/icons-material/FilterAltOutlined';
-import bannerImg from '../../assets/images/banner1.jpg';
+import bannerImg from '../../assets/images/banner3.webp';
 import { Link, useParams } from 'react-router-dom';
 import RadioGroup from '@mui/material/RadioGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
@@ -14,7 +14,6 @@ import FormLabel from '@mui/material/FormLabel';
 import RangeSlider from 'react-range-slider-input';
 import 'react-range-slider-input/dist/style.css';
 
-// import { MyContext } from '../../App';
 
 function valuetext(value) {
     return `${value}°C`;
@@ -89,8 +88,7 @@ const Sidebar = (props) => {
 
         setValue2(price)
 
-        //setValue(price);
-        //filterByPrice(price[0], price[1]);
+        
 
 
 
@@ -143,7 +141,7 @@ const Sidebar = (props) => {
                 <div className='card border-0 shadow'>
                     <h3>Fill by price</h3>
 
-                    <RangeSlider value={value} onInput={setValue} min={100} max={60000} step={5} />
+                    <RangeSlider className="details_rate" value={value} onInput={setValue} min={10} max={60000} step={5} />
 
 
                     <div className='d-flex pt-2 pb-2 priceRange'>
@@ -160,6 +158,7 @@ const Sidebar = (props) => {
                                 aria-labelledby="demo-radio-buttons-group-label"
                                 defaultValue="female"
                                 name="radio-buttons-group"
+                                 
                             >
                                 {
                                     brandFilters.length !== 0 &&
@@ -206,7 +205,7 @@ const Sidebar = (props) => {
 
 
 
-                {/* <img src={bannerImg} className='w-100' /> */}
+                 
 
              
             </div>

@@ -1,19 +1,79 @@
 import React, { useState, useEffect, useRef } from 'react';
-import SliderBanner from './slider/index';
 import Banners from '../../components/banners';
 import './style.css';
 import Product from '../../components/product';
-import Banner4 from '../../assets/images/banner4.jpg';
-import {Row,Col } from "reactstrap";
-import {motion} from 'framer-motion'
-import counterImg from '../../assets/images/sales.jpg'
+import { Row, Col, Container } from "reactstrap";
+import { motion } from 'framer-motion'
 import { Link } from "react-router-dom";
-import Slider from "react-slick";
-import Clock from './Clock/Clock';
- 
- 
+import products from "../../assets/data/products.js";
+import Services from '../../pages/services/Services.js'
+import Landing from './landing/Landing.js';
+import RihabAlsala from '../rihab alsala/RirhabAlsala.js';
+import heroImg from "../../assets/images/hero-img.png"
+import SaleTime from '../timesale/SaleTime.js';
+import { toast } from "react-toastify";
+import testionalImg from '../../assets/images/Testi 1.png'
+//  Description the Popular Product : These products are available within the offer, and there is a filter so that if you want specific products and search for them for a long time, it will show you a picture of the product, the name of the product, the new price, and its old price, which is owned by any company or factory, and it will also rate the customers who bought it before, and after that, if you like it and want to buy it, you will go to AddToCart.
 const Home = (props) => {
+    const [username, setUsername] = useState('');
+    const [email, setEmail] = useState('');
+    const [message, setMessage] = useState('');
 
+    const handleUsernameChange = (e) => setUsername(e.target.value);
+    const handleEmailChange = (e) => setEmail(e.target.value);
+    const handleMessageChange = (e) => setMessage(e.target.value);
+
+    const handleSubmit = (e) => {
+        e.preventDefault();
+
+        const apiUrl = 'https://mohmed.testworks.top/public/api/add-testimonial';
+
+        fetch(apiUrl, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                name: username,
+                email: email,
+                commit: message,
+            }),
+        })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+                toast.success('Added successfully');
+                setUsername('');
+                setEmail('');
+                setMessage('');
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                alert('Failed to send data. Please try again later.');
+            });
+    };
+    const [testimonials, setTestimonials] = useState([]);
+
+    useEffect(() => {
+        const fetchTestimonials = async () => {
+            try {
+                const response = await fetch('https://mohmed.testworks.top/public/api/get-testimonial');
+                if (!response.ok) {
+                    throw new Error('Failed to fetch testimonials');
+                }
+                const data = await response.json();
+                setTestimonials(data);
+            } catch (error) {
+                console.error('Error fetching testimonials:', error);
+            }
+        };
+
+        fetchTestimonials();
+    }, []);
+
+
+    const year = new Date().getFullYear();
     const [prodData, setprodData] = useState(props.data)
     const [catArray, setcatArray] = useState([])
     const [activeTab, setactiveTab] = useState();
@@ -23,18 +83,17 @@ const Home = (props) => {
     const [bestSells, setBestSells] = useState([]);
     const [isLoadingProducts, setIsLoadingProducts] = useState(false);
 
-    const productRow=useRef();
-    // const context = useContext(MyContext);
-
+    const productRow = useRef();
     var settings = {
         dots: false,
-        // infinite: context.windowWidth<992 ? false : true,
+        infinite: true,
         speed: 500,
-        slidesToShow: 3,
+        slidesToShow: 4,
         slidesToScroll: 1,
         fade: false,
-        // arrows: context.windowWidth<992 ? false : true,
+        arrows: true
     };
+
 
     const catArr = [];
 
@@ -53,7 +112,7 @@ const Home = (props) => {
 
         setactiveTab(list2[0])
 
-        window.scrollTo(0,0);
+        window.scrollTo(0, 0);
 
     }, [])
 
@@ -75,9 +134,9 @@ const Home = (props) => {
                                 })
 
                             setActiveTabData(arr)
-                            setTimeout(()=>{
+                            setTimeout(() => {
                                 setIsLoadingProducts(false);
-                            },[1000]);
+                            }, [1000]);
                         }
                     }
                 })
@@ -113,43 +172,61 @@ const Home = (props) => {
     }, [])
 
 
+    const [category, setCategory] = useState("ALL");
+    const [allProducts, setAllProducts] = useState(products);
+
+
+    useEffect(() => {
+        if (category === "ALL") {
+            setAllProducts(products);
+        }
+
+        if (category === "sofa") {
+            const filteredProducts = products.filter(
+                (item) => item.category === "sofa"
+            );
+
+            setAllProducts(filteredProducts);
+        }
+
+        if (category === "mobile") {
+            const filteredProducts = products.filter(
+                (item) => item.category === "mobile"
+            );
+
+            setAllProducts(filteredProducts);
+        }
+
+        if (category === "watch") {
+            const filteredProducts = products.filter(
+                (item) => item.category === "watch"
+            );
+
+            setAllProducts(filteredProducts);
+        }
+
+        if (category === "labtop") {
+            const filteredProducts = products.filter(
+                (item) => item.category === "labtop"
+            );
+
+            setAllProducts(filteredProducts);
+        }
+    }, [category]);
 
 
     return (
-        <div style={{display:'block'}}>
-            <SliderBanner />
+        <div style={{ display: 'block' }}>
+            <Landing />
             <Banners />
-            
-        
-             
-           <section className='timer-count'>
-            <div className='container-fluid'>
-                <Row>
-                    <Col lg='6' md='12' className="count-down-col">
-                        <div className="clock-top-content">
-                            <h4 className="text-white mb-2">Big Sell</h4>
-                            <h3 className="text-white mb-3">All products are included in the offer</h3>
-                        </div>
-                        <Clock />
-
-                        <motion.button whileTap={{scale:1.2}} className="buy-btn store-btn">
-                            <Link to="/shop">Watch Products</Link>
-                        </motion.button>
-                        
-                    </Col>
-                    <Col lg='6' md='12' className="text-end counter_img">
-                        <img src={counterImg} alt="" />
-                    </Col>
-                </Row>
-            </div>
-           </section>
-
-
+            <section>
+                <SaleTime />
+            </section>
             <section className='homeProducts homeProductWrapper'>
                 <div className='container-fluid'>
-                    <div className='d-flex align-items-center homeProductsTitleWrap'>
-                        <h2 className='hd mb-0 mt-0 res-full'>Popular Products</h2>
-                        <ul className='list list-inline ml-auto filterTab mb-0 res-full'>
+                    <h2 class="main-title">Popular Products</h2>
+                    <div className=' align-items-center homeProductsTitleWrap'>
+                        <ul className='list list-inline filterTab mb-0 res-full'>
 
                             {
                                 catArray.length !== 0 &&
@@ -161,7 +238,7 @@ const Home = (props) => {
                                                 onClick={() => {
                                                     setactiveTab(cat)
                                                     setactiveTabIndex(index);
-                                                    productRow.current.scrollLeft=0;
+                                                    productRow.current.scrollLeft = 0;
                                                     setIsLoadingProducts(true);
                                                 }}
                                             >
@@ -176,7 +253,7 @@ const Home = (props) => {
                     </div>
 
 
-                    <div className={`productRow ${isLoadingProducts===true && 'loading'}`} ref={productRow}>
+                    <div className={`productRow ${isLoadingProducts === true && 'loading'}`} ref={productRow}>
 
                         {
                             activeTabData.length !== 0 &&
@@ -197,45 +274,96 @@ const Home = (props) => {
 
 
 
+            <Services />
+            <section className="hero-section">
+                <Container>
+                    <Row>
+                        <Col lg='6' md='6'>
+                            <div className="hero-content">
+                                <p className="hero-subtitle">Trending Product In {year} </p>
+                                <h2>Welcome To Auction on A Wide Range of Products</h2>
+                                <p>Welcome to an auction on a wide range of products. For those who wish to attend the auction and bidding, please enter through the link.</p>
+                                <motion.button whileTap={{ scale: 1.2 }} className="buy-btn">
+                                    <Link to="/auction">SHOP NOW</Link>
+                                </motion.button>
+                            </div>
+                        </Col>
+                        <Col lg='6' md='6'>
+                            <div className="hero-img">
+                                <img src={heroImg} alt="" />
+                            </div>
+                        </Col>
+                    </Row>
+                </Container>
+            </section>
 
+            <section className='Auction-product' id="auction">
+                <RihabAlsala />
+            </section>
 
-
-            <section className='homeProducts homeProductsRow2 pt-0'>
-                <div className='container-fluid'>
-                    <div className='d-flex align-items-center'>
-                        <h2 className='hd mb-0 mt-0'>Daily Best Sells</h2>
-
-                    </div>
-
-                    <br className='res-hide' /><br  className='res-hide'/>
-                    <div className='row'>
-                        <div className='col-md-3 pr-5 res-hide'>
-                            <img src={Banner4} className='w-100' />
-                        </div>
-
-                        <div className='col-md-9'>
-                            <Slider {...settings} className='prodSlider'>
-
-                                {
-                                    bestSells.length !== 0 &&
-                                    bestSells.map((item, index) => {
-                                        return (
-                                            <div className='item' key={index}>
-                                                <Product tag={item.type} item={item} />
-                                            </div>
-                                        )
-                                    })
-                                }
-
-                            </Slider>
-                        </div>
-                    </div>
-
-
+            <section id="banner" class="my-5 py-5">
+                <div class="container">
+                    <h1>Welcome to our customers.</h1>
+                    <h4>Here is the view of factory and corporate auctions.</h4>
+                    <button class="text-uppercase"><Link to='/factoriesauction'>Go To Mazad</Link></button>
                 </div>
             </section>
 
+            <section className='end_testionial'>
+                <h2 className='main-title'>Testimonials</h2>
+                <div className="testimonials">
+                    <div className='testionial-container'>
+                        <h2>Testimonials</h2>
+                        {testimonials.map((testimonial, index) => (
+                            <div className="ts-box" key={index}>
+                                <p>{testimonial.description}</p>
+                                <div className="person-info">
+                                    <img src={testionalImg} alt="" />
+                                    <h4>{testimonial.name}</h4>
+                                    <p>{testimonial.email}</p>
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                    <div className="clearfix"></div>
+                </div>
 
+            </section>
+            <section>
+                <div className="testional_contact">
+                    <div className="overlay"></div>
+                    <div className="container">
+                        <h2>Leave your message</h2>
+                        <form onSubmit={handleSubmit}>
+                            <div className="left">
+                                <input
+                                    type="text"
+                                    placeholder="Your Name"
+                                    name="username"
+                                    value={username}
+                                    onChange={handleUsernameChange}
+                                />
+                                <input
+                                    type="email"
+                                    placeholder="Your Email"
+                                    name="email"
+                                    value={email}
+                                    onChange={handleEmailChange}
+                                />
+                                <input type="submit" value="Send" />
+                            </div>
+                            <div className="right">
+                                <textarea
+                                    name="message"
+                                    placeholder="Your Message"
+                                    value={message}
+                                    onChange={handleMessageChange}
+                                ></textarea>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
         </div>
     )
 }

@@ -1,0 +1,50 @@
+.plumb .box{
+    flex: 1 1 30rem;
+    border-radius: .5rem;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    height: auto;
+}
+.plumb .box .plum_content{
+    padding: 2rem;
+    background-color: var(--secondary);
+}
+.plum_img {
+    width: 350px;
+    height: 340px !important;
+}
+.plumb .box .plum_content h3 a{
+font-size: 1.25rem !important;
+color: var(--title);
+margin-bottom: 10px !important;
+}
+.plumb .box .plum_content h3 i{
+    color: var(--blue);
+}
+.plumb .box .plum_content p{
+    font-size: 1.7rem;
+    color: #666;
+    padding: 1rem 0;
+}
+.plumb .box .plum_content .stars i{
+    font-size: 20px;
+    color: var(--blue);
+}
+.plumb .box .plum_content .price{
+    font-size: 22px;
+    color: var(--title);
+    padding-top: 1rem;
+}
+.plum_btn{
+    display: inline-block;
+    margin-top: 1rem;
+    color: var(--blue);
+    padding: 8px 10px;
+    border: 1px solid var(--blue);
+    cursor: pointer;
+    font-size: 20px;
+    background: rgba(255, 165, 0, .2);
+}.plum_btn:hover{
+    color: #fff;
+    background: var(--blue);
+}

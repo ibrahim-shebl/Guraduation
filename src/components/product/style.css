@@ -1,4 +1,5 @@
-.productThumb{width: 100%; height: auto;  border: 1px solid rgba(0,0,0,0.1); overflow: hidden; border-radius: 15px; padding:25px; transition: all 0.3s ease-in-out; position: relative;}
+ 
+.productThumb{  border: 1px solid var(--borderProduct); overflow: hidden; border-radius: 15px; padding:25px; transition: all 0.3s ease-in-out; position: relative;}
 
 .productThumb .badge{position: absolute; top: 0px; left: 0px; display: inline-block;
 background: red; z-index: 10; color: #fff; padding: 10px 25px; font-size: 16px;
@@ -19,22 +20,31 @@ border-bottom-right-radius: 50px; border-top-left-radius: 5px; text-transform: c
 
 .productThumb:hover .imgWrapper .overlay{opacity: 1; transform: scale(1); }
 
-.productThumb .imgWrapper .overlay ul{background: #fff; width: 140px; height: auto; border-radius: 10px; border: 1px solid #BCE3C9; }
+.productThumb .imgWrapper .overlay ul{background: var(--secondary); width: 140px; height: auto; border-radius: 10px; border: 1px solid #BCE3C9; }
 .productThumb .imgWrapper .overlay ul li{margin-right: 0px !important;}
 .productThumb .imgWrapper .overlay ul li a{display: block; padding: 10px; border-right:  1px solid #BCE3C9;}
-.productThumb .imgWrapper .overlay ul li a svg{color: #3bb77e !important;}
-.productThumb .imgWrapper .overlay ul li a:hover svg{color: #000 !important; opacity: 0.7;}
+.productThumb .imgWrapper .overlay ul li a svg{color: var(--svgproducthover) !important;}
+.productThumb .imgWrapper .overlay ul li a:hover svg{color: var(--title) !important; opacity: 0.7;}
  
 
 .productThumb:hover .imgWrapper img{transform: scale(1.1);}
-
-.productThumb .catName{color: #000; opacity: 0.8; font-size: 14px;}
+.ratecss {
+     color: var(--svgproducthover) !important;
+}
+.css-1c99szj-MuiRating-icon {
+   color: var(--title);
+}
+.productThumb .catName{color: var(--title); opacity: 0.8; font-size: 14px;}
 .productThumb .title{margin: 10px 0px;}
-.productThumb .title a{color: #000; font-weight: 600; font-size: 22px; text-decoration: none; line-height: 22px;}
-.productThumb .brand{color: rgba(0,0,0,0.6);}
+.productThumb .title a{color: var(--title); font-weight: 600; font-size: 22px; text-decoration: none; line-height: 22px;}
+.productThumb .brand{color: var(--subtitle);}
 .productThumb .brand a{text-decoration: none;}
-
-.productThumb button{font-size: 20px !important; color: #3bb77e !important; padding: 5px 25px !important; background: #def9ec !important; text-transform: capitalize !important;}
+.productThumb button{font-size: 22px !important; color: var(--svgproducthover) !important; padding: 7px 25px !important; background: var(--productbutton) !important; text-transform: capitalize !important;}
 .productThumb button:hover{background: #3bb77e !important;
      color: #fff !important;}
+ 
+.rs {
+     color: var(--svgproducthover) !important;
+}
 
+ 

@@ -1,0 +1,17 @@
+.game__section {
+  background: linear-gradient(#212245b2, #212245b2),
+    url("../../../assets/images/game.webp");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 220px 0px;
+}
+.game__section h2 {
+  font-weight: 600;
+}
+@media only screen and (max-width: 768px) {
+  .game__section {
+    padding: 120px 0px;
+  }
+}

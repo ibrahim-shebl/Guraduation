@@ -3,22 +3,15 @@ import { Link, useParams } from 'react-router-dom';
 import './style.css'
 import Sidebar from '../../components/Sidebar';
 import Product from '../../components/product';
-import { Button } from '@mui/material';
-import GridViewOutlinedIcon from '@mui/icons-material/GridViewOutlined';
-import FilterListOutlinedIcon from '@mui/icons-material/FilterListOutlined';
-
-// import { MyContext } from '../../App';
 
 const Listing = (props) => {
-    const [isOpenDropDown, setisOpenDropDown] = useState(false);
-    const [isOpenDropDown2, setisOpenDropDown2] = useState(false);
-    const [showPerPage, setHhowPerPage] = useState(3);
+    // const [isOpenDropDown, setisOpenDropDown] = useState(false);
+    // const [isOpenDropDown2, setisOpenDropDown2] = useState(false);
+    // const [showPerPage, setHhowPerPage] = useState(3);
 
     const [data, setData] = useState([]);
 
-    // const context = useContext(MyContext);
-
-    const [currentId, setCurrentId] = useState()
+    // const [currentId, setCurrentId] = useState()
 
     let { id } = useParams();
 
@@ -280,7 +273,7 @@ const Listing = (props) => {
 
                     <div className='listingData'>
                         <div className='row'>
-                            <div className='col-md-3 sidebarWrapper'>
+                            <div className='col-md-3 sidebarWrapper listzoom'>
 
                                 {
                                     data.length !== 0 && <Sidebar data={props.data} currentCatData={data} filterByBrand={filterByBrand} filterByPrice={filterByPrice} filterByRating={filterByRating} />

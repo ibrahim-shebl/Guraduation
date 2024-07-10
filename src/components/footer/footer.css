@@ -1,39 +1,137 @@
-.footerWrapper{padding: 45px 0px; width: 100%;}
-.footerWrapper .footerBoxes .box{background: #F4F6FA; padding: 25px 25px; border-radius: 15px; } 
-
-.footerWrapper .footerBoxes .box .info{padding-left: 25px;}
-.footerWrapper .footerBoxes .box  img{position: relative; transition: all 0.2s ease-in-out;}
-.footerWrapper .footerBoxes .box .info h4{font-size: 25px; font-weight: 600;}
-.footerWrapper .footerBoxes .box .info p{margin-bottom: 0px; font-size: 20px; opacity: 0.8; }
-.footerWrapper .footerBoxes .box:hover img{transform: translateY(-5px);}
-
-footer p, footer a{font-size: 18px;}
-
+.footerWrapper{padding: 45px 0px; width: 100%; margin-top: 20px;}
+.footer_container {
+  padding: 0px 45px;
+}
+hr {
+  color: var(--title) !important;
+}
+footer p, footer a{font-size: 22px; color: var(--title);}
+footer p svg,
+footer p strong {
+  color: #3bb77e;
+}
 footer{padding: 60px 0px; padding-bottom: 0px;}
-
-footer .part1 .img {
-    width: 200px;
-    height: 80px;
+@media (max-width: 767px) {
+  footer {
+    text-align: center;
+    padding: 0px 0px;
+  }
+  .auction_img {
+    margin-bottom: 30px;
+  }
+  .footer_contact {
+    margin-bottom: 30px;
+  }
+  
 }
-footer .part1 svg{color: #3bb77e  !important;}
 
-footer  h3{color: #000; font-weight: 600; margin-bottom: 20px;}
-footer .part2 ul li{list-style: none; margin-bottom: 13px;}
-footer .part2 ul li a{color:#000; opacity: 0.8; font-size: 500; transition: all 0.2s ease-in-out; text-decoration: none;}
-footer .part2 ul li a:hover{text-decoration: none;color: #3bb77e  !important; opacity: 1; padding-left: 5px;}
+ /* start footer */
+  footer .footer_box h3 {
+    margin: 0 0 20px;
+  }
+  footer .footer_box .social {
+    display: flex;
+  }
+  @media (max-width: 767px) {
+    footer .footer_box .social {
+      justify-content: center;
+    }
+  }
+  footer .footer_box .social li {
+    margin-right: 15px;
+  }
+  footer .footer_box .social li a {
+    background-color: #313131;
+    color: #b9b9b9;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    font-size: 30px;
+    transition:  0.3s;
+  }
+  footer .footer_box .social li a:hover i {
+    color: #fff;
+  }
+  footer .footer_box .social .facebook:hover {
+    background-color: #1877f2;
+  }
+  footer .footer_box .social .twitter:hover {
+    background-color: #1da1f2;
+  }
+  footer .footer_box .social .linkedin:hover {
+    background-color: #ff0000;
+  }
+  @media (max-width: 767px) {
+    footer {
+      text-align: center;
+    }
+  }
+  footer .footer_box .links li {
+    padding: 15px 0;
+    transition:  0.3s;
+  }
+  
+  footer .footer_box .links li:not(:last-child) {
+    border-bottom: 1px solid #444;
+  }
+  footer .footer_box .links li:hover {
+    padding-left: 10px;
+  }
+  footer .footer_box .links li:hover a {
+    color: var(--svgproducthover);
+  }
+  footer .footer_box .links li a {
+    color: var(--title);
+    transition: 0.3s;
+  }
+  footer .footer_box .links li a::before {
+    font-family: "Font Awesome 5 Free";
+    content: "\F101";
+    font-weight: 900;
+    margin-right: 10px;
+    color:  #2196f3;
+  }
+  @media (max-width: 767px) {
+    .footer_box {
+      margin-top: 5px;
+    }
+  }
+  footer .footer_box .line {
+    display: flex;
+    align-items: center;
+    color: var(--title);
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+  footer .footer_box .line i {
+    font-size: 25px;
+    color:  #2196f3;
+    margin-right: 10px;
+  }
+  @media (max-width: 767px) {
+    footer .footer_box .line i {
+      margin-right: 0;
+      margin-bottom: 15px;
+    }
+  }
+  footer .footer_box .line .info {
+    line-height: 1.7;
+    flex: 1;
+  }
+  footer .footer_box .line .info span {
+    display: block;
+  }
+  /* end footer */
 
-footer .lastStrip{padding: 15px 0px;}
 
-.phNo svg{ font-size: 45px !important; opacity: 0.8;}
-.phNo .info {
-    margin-left: 12px;
 
-}
-.phNo h3{ font-size:32px !important; line-height: 35px !important;}
-.phNo p{ font-size: 16px !important; opacity: 0.8;}
 
-footer .lastStrip .part3 h5{margin-bottom: 0px;}
-footer .lastStrip .part3 ul{margin-bottom: 0px; padding-left: 25px;}
-footer .lastStrip .part3 ul li a{display: flex; align-items: center; justify-content: center; width: 40px; height: 40px; background: #3bb77e; border-radius: 50%; transition: all 0.2s ease-in-out !important;}
-footer .lastStrip .part3 ul li a svg{color: #fff !important;}
-footer .lastStrip .part3 ul li a:hover{background:rgb(51, 51, 51);}
+
+
+
+
+
+
+

@@ -1,0 +1,100 @@
+  .rihab {
+    padding-top: 50px;
+    position: relative;
+  }
+  .rihab .box {
+    position: relative;
+  }
+  .rihab .box::before,
+  .rihab .box::after {
+    content: "";
+    background-color: #f3f3f3;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    border-radius: 10px;
+    transition:  0.3s;
+  }
+  .rihab .box::before {
+    width: calc(100% - 60px);
+    z-index: -2;
+  }
+  .rihab .box::after {
+    z-index: -1;
+    background-color: #e4e4e4;
+    width: 0;
+  }
+  .rihab .box:hover::after {
+    width: calc(100% - 60px);
+  }
+  .rihab .box .data {
+    display: flex;
+    align-items: center;
+    padding-top: 60px;
+  }
+  .rihab .box .data img {
+    width: calc(100% - 60px);
+    transition:  0.3s;
+    border-radius: 10px;
+  }
+  .rihab .box:hover img {
+    filter: grayscale(100%);
+  }
+  .rihab .box .data .social {
+    width: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  .rihab .box .data .social a {
+    width: 60px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .rihab .box .data .social a:hover i {
+    color:  #2196f3;
+  }
+  .rihab .box .data .social i {
+    color: #777;
+    transition:  0.3s;
+  }
+  .des {
+    padding-left: 80px;
+  }
+.des h3 {
+    font-size: 17px;
+    padding-top: 15px;
+    padding: 25px 0px;
+    transition:  0.3s
+}
+.des h3 a {
+  color: #000;
+}
+.rihab .box:hover .des h3 a {
+  color: #777;
+}
+.product-card-bottom .price {
+    color:  #0a1d37;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding-left: 60px;
+}
+.product-card-bottom span {
+    padding-right: 10px;
+}
+.product-card-bottom span i {
+    font-size: 1.5rem;
+    padding: 5px;
+    background: #0a1d37;
+    color: #fff;
+    border-radius: 50px;
+    cursor: pointer;
+   
+}
+  
+  
+ 

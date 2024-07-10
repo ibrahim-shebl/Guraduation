@@ -1,0 +1,108 @@
+.section-p1 {
+    padding: 40px 80px;
+  }
+  @media (max-width:477px) {
+    .section-p1{
+        padding: 20px;
+    }
+}
+
+   #prodetails {
+    display: flex;
+    margin-top: 20px;
+    background-color: var(--rehabproduct);
+}
+@media (max-width:477px) {
+    #prodetails {
+        display: flex;
+        flex-direction: column;
+    }
+}
+#prodetails .single-pro-image {
+    width: 40%;
+    margin-right: 50px;
+}
+@media (max-width:477px) {
+    #prodetails .single-pro-image {
+        width: 100%;
+        margin-right: 0;
+    }
+}
+#prodetails .single-pro-image img{
+    width: 100%;
+}
+.small-img-group {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.small-img-col {
+    flex-basis: 24%;
+    cursor: pointer;
+}
+#prodetails .single-pro-details {
+    width: 50%;
+    padding-top: 30px;
+}
+@media (max-width:477px) {
+    #prodetails .single-pro-details {
+        width: 100%;
+    }
+}
+#prodetails .single-pro-details h6 {
+  font-size: 18px;
+}
+#prodetails .single-pro-details h4 {
+    padding: 40px 0 20px 0;
+    font-size: 25px;
+    font-family: "Spartan", sans-serif !important;
+}
+#prodetails .single-pro-details h2 {
+    font-size: 28px;
+    font-family: "Spartan", sans-serif !important;
+}
+#prodetails .single-pro-details select {
+    display: block;
+    padding: 5px 10px;
+    margin-bottom: 10px;    
+}
+#prodetails .single-pro-details input {
+    margin-right: 10px;
+    padding-left: 10px;
+    width: 50px;
+    height: 47px;
+    font-size: 16px;
+    color: #000;
+}
+#prodetails .single-pro-details input:focus {
+    outline: none;
+}
+button.normal {
+  background-color: #fff;
+  font-size: 14px;
+  padding: 15px 30px;
+  font-weight: 600;
+  border: none;
+  color: #000;
+  margin: 10px 0;
+  transition: .3s;
+  border-radius: 4px;
+  outline: none;
+  cursor: pointer;
+}  
+#prodetails .single-pro-details button {
+    background-color: #088178;
+    color: #fff;
+}
+
+#prodetails .single-pro-details span {
+    line-height: 25px;
+}
+.plub {
+  margin-bottom: 50px;
+}
+.rihab .related__Product-title {
+  color: var(--title);
+  margin-bottom: 10px;
+}
+ 

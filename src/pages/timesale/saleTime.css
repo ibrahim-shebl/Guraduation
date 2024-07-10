@@ -1,0 +1,128 @@
+/* start events */
+.events {
+    padding-top: 50px;
+    padding-bottom: 100px;
+    position: relative;
+}
+@media (max-width: 767px) {
+  .events {
+    padding-bottom: 0px !important;
+  }
+}
+.events .container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+.events img {
+  max-width: 450px;
+}
+@media (max-width: 991px) {
+  .events img {
+    margin-bottom: 25px;
+    max-width: 340px;
+  }
+}
+.events .info {
+  flex: 1;
+}
+.events .info .time {
+  display: flex;
+  align-items: center;
+  margin: 20px auto;
+  gap: 10px;
+  justify-content: center;
+}
+@media (max-width: 344px) {
+  .events .info .time {
+    gap: 0px;
+  }
+}
+.events .info .time .unit {
+  border: 1px solid #d4d4d4;
+  border-radius: 6px;
+  text-align: center;
+  width: 75px;
+  transition: 0.3s;
+}
+.events .info .time .unit span {
+  display: block;
+  transition: 0.3s;
+}
+.events .info .time .unit span:first-child {
+  font-size: 35px;
+  padding: 15px;
+  color: #2196f3;
+  font-weight: bold;
+}
+.events .info .time .unit span:last-child {
+  padding: 8px 10px;
+  font-size: 13px;
+  border-top: 1px solid #d4d4d4;
+}
+.events .info .time .unit:hover,
+.events .info .time .unit:hover span:last-child {
+  border-color: #2196f3;
+}
+.events .title {
+  text-align: center;
+  margin: 40px 0 20px 0;
+  font-size: 30px;
+  color: var(--title);
+}
+.events .description {
+  text-align: center;
+  line-height: 1.7;
+  font-size: 19px;
+  color: #777;
+}
+.events .subscribe {
+  width: 100%;
+  margin-top: 50px;
+}
+.events .subscribe form {
+  width: 600px;
+  margin: 20px auto;
+  padding: 4px 9px;
+  background-color: #f6f5f5;
+  border-radius: 50px;
+  display: flex;
+  gap: 20px;
+}
+@media (max-width: 767px) {
+  .events .subscribe form {
+    max-width: 100%;
+    padding: 20px;
+    flex-direction: column;
+    border-radius: 0;
+  }
+}
+.events .subscribe form p {
+  padding: 20px;
+  margin: auto;
+  flex: 1;
+  font-size: 20px;
+  font-weight: bold;
+}
+.events .subscribe form a {
+    display: block;
+        width: fit-content;
+        margin: 30px auto 40px;
+        background-color: #2196f3;
+        border-radius: 50px;
+        border: none;
+        padding: 15px 20px;
+        font-weight: bold;
+        color: #fff;
+        transition: 0.3s;
+}
+@media (max-width: 767px) {
+  .events .subscribe form a {
+    border-radius: 0;
+  }
+}
+.events .subscribe form a:hover {
+  background-color: #1787e0;
+}
+/* end events */

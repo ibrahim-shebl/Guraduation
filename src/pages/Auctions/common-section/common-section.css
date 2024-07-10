@@ -1,0 +1,15 @@
+.auction__section {
+  background: linear-gradient(#212245b2, #212245b2),
+    url("../../../assets/images/acution.jpg");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0px;
+  /* margin-top: 30px; */
+}
+@media only screen and (max-width: 768px) {
+  .auction__section {
+    padding: 120px 0px;
+  }
+}

@@ -1,250 +1,151 @@
 import React from 'react';
 import './footer.css';
-
-import Icon1 from '../../assets/images/icon-1.svg';
-import Icon2 from '../../assets/images/icon-2.svg'
-import Icon3 from '../../assets/images/icon-3.svg'
-import Icon4 from '../../assets/images/icon-4.svg'
-import Icon5 from '../../assets/images/icon-5.svg'
-import Logo from '../../assets/images/logo.jpg';
+import Logo from '../../assets/images/logo-ibid.png';
 import { Link } from 'react-router-dom';
 import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import HeadphonesOutlinedIcon from '@mui/icons-material/HeadphonesOutlined';
 import EmailOutlinedIcon from '@mui/icons-material/EmailOutlined';
 import WatchLaterOutlinedIcon from '@mui/icons-material/WatchLaterOutlined';
-import paymentImage from '../../assets/images/payment-method.png';
-
-import appStore from '../../assets/images/app-store.jpg';
-import googlePlay from '../../assets/images/google-play.jpg';
 import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import InstagramIcon from '@mui/icons-material/Instagram';
 import YouTubeIcon from '@mui/icons-material/YouTube';
-import Newsletter from '../../components/newsletter/index';
-import NewsletterImg from '../../assets/images/newsletter.png';
-
+import footer_link from '../../assets/data/foorer';
+import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 const Footer = () => {
     return (
         <>
-
- 
-
+        <hr className='ml-9 mr-9'></hr>
+        <div className='headerzoom'>
             <div className='footerWrapper'>
-                <div className='footerBoxes'>
-                    <div className='container-fluid'>
-                        <div className='row'>
-                            <div className='col'>
-                                <div className='box d-flex align-items-center w-100'>
-                                    <span><img src={Icon1} /></span>
-                                    <div className='info'>
-                                        <h4>Best prices & offers</h4>
-                                        <p>Orders $50 or more</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className='col'>
-                                <div className='box d-flex align-items-center w-100'>
-                                    <span><img src={Icon2} /></span>
-                                    <div className='info'>
-                                        <h4>Free delivery</h4>
-                                        <p>Orders $50 or more</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className='col'>
-                                <div className='box d-flex align-items-center w-100'>
-                                    <span><img src={Icon3} /></span>
-                                    <div className='info'>
-                                        <h4>Great daily deal</h4>
-                                        <p>Orders $50 or more</p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div className='col'>
-                                <div className='box d-flex align-items-center w-100'>
-                                    <span><img src={Icon4} /></span>
-                                    <div className='info'>
-                                        <h4>Wide assortment</h4>
-                                        <p>Orders $50 or more</p>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div className='col'>
-                                <div className='box d-flex align-items-center w-100'>
-                                    <span><img src={Icon5} /></span>
-                                    <div className='info'>
-                                        <h4>Easy returns</h4>
-                                        <p>Orders $50 or more</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-
-
                 <footer>
-                    <div className='container-fluid'>
+                    <div className='footer_container'>
                         <div className='row'>
-                            <div className='col-md-3 part1'>
+                            <div className='col-md-3 auction_img'>
                                 <Link to='/'><img src={Logo} className='img' /></Link>
                                 <br /><br />
-                                <p>An Auction Site For Buying And Selling Products. </p>
+                                <p>This is an electronic site for electronic commerce, in addition to being an auction site, and it has a section for auctions of companies and factories in the scrap trade. </p>
                                 <br />
-
-                                <p><LocationOnOutlinedIcon /> <strong>Address</strong>: Menoufia, Shebin El-Kom, Stadium Street.</p>
-                                <p><HeadphonesOutlinedIcon /> <strong>Call Us:</strong> (+20) - 1025946540</p>
-                                <p><EmailOutlinedIcon /> <strong>Email:</strong> sale@Auction.com</p>
-                                <p><WatchLaterOutlinedIcon /> <strong>Hours:</strong> 10:00 - 18:00, Sat - Thu </p>
+                                <p><EmailOutlinedIcon /> <strong>Email :</strong> Auction@gmail.com</p>
+                                <p><WatchLaterOutlinedIcon /> <strong>Hours :</strong> 10:00 - 18:00, Sat - Thu </p>
 
                             </div>
 
 
-                            <div className='col-md-6 part2'>
+                            <div className='col-md-9'>
                                 <div className='row'>
-                                    <div className='col'>
-                                        <h3>Company</h3>
-                                        <ul class="footer-list mb-sm-5 mb-md-0">
-                                            <li><Link to="#">About Us</Link></li>
-                                            <li><Link to="#">Delivery Information</Link></li>
-                                            <li><Link to="#">Privacy Policy</Link></li>
-                                            <li><Link to="#">Terms &amp; Conditions</Link></li>
-                                            <li><Link to="#">Contact Us</Link></li>
-                                            <li><Link to="#">Support Center</Link></li>
-                                            <li><Link to="#">Careers</Link></li>
-                                        </ul>
-                                    </div>
-
-                                    <div className='col'>
-                                        <h3>Account</h3>
-                                        <ul class="footer-list mb-sm-5 mb-md-0">
-                                            <li><Link to="#">Sign In</Link></li>
-                                            <li><Link to="#">View Cart</Link></li>
-                                            <li><Link to="#">My Wishlist</Link></li>
-                                            <li><Link to="#">Track My Order</Link></li>
-                                            <li><Link to="#">Help Ticket</Link></li>
-                                            <li><Link to="#">Shipping Details</Link></li>
-                                            <li><Link to="#">Compare Products</Link></li>
-                                        </ul>
+                                    <div className='col-md-3 ml-5'>
+                                        <h3 className="text-xl uppercase text-designColor tracking-wider">
+                                            Quick Link.
+                                        </h3>
+                                        <div className='footer_box'>
+                                            <ul className="links">
+                                                {footer_link.map((item, index) => (
+                                                    <li key={index}>
+                                                        <Link to={item.path}>
+                                                            {item.display}
+                                                        </Link>
+                                                    </li>
+                                                ))}
+                                            </ul>
+                                        </div>
                                     </div>
 
 
-                                    <div className='col'>
-                                        <h3>Corporate</h3>
-                                        <ul class="footer-list mb-sm-5 mb-md-0">
-                                            <li><Link to="#">Become A Vendor</Link></li>
-                                            <li><Link to="#">Affiliate Program</Link></li>
-                                            <li><Link to="#">Farm Bussiness</Link></li>
-                                            <li><Link to="#">Farm Careers</Link></li>
-                                            <li><Link to="#">Our Suppliers</Link></li>
-                                            <li><Link to="#">Accessibility</Link></li>
-                                            <li><Link to="#">Pormotions</Link></li>
-                                        </ul>
+
+
+                                    <div className='col ml-6 footer_contact'>
+                                        <h3 className="text-xl uppercase text-designColor tracking-wider">
+                                            Contact.
+                                        </h3>
+                                        <div className="footer_box">
+                                            <div className="line">
+                                                <i className="fas fa-map-marker-alt fa-fw"></i>
+                                                <div className="info">Address : Menoufia, Shebin El-Kom, Stadium Street.</div>
+                                            </div>
+                                            <div className="line">
+                                                <i className="far fa-clock fa-fw"></i>
+                                                <div className="info">Business Hours: From 10:00 To 18:00</div>
+                                            </div>
+                                            <div className="line">
+                                                <i className="fas fa-phone-volume fa-fw"></i>
+                                                <div className="info">
+                                                    <span>+201025946540</span>
+                                                    <span>+201150609077</span>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
 
 
                                     <div className='col'>
-                                        <h3>Popular</h3>
-                                        <ul class="footer-list mb-sm-5 mb-md-0">
-                                            <li><Link to="#">Electronics</Link></li>
-                                            <li><Link to="#">Fashion</Link></li>
-                                            <li><Link to="#">Groceries</Link></li>
-                                            {/* <li><Link to="#">Terms &amp; Conditions</Link></li>
-                                            <li><Link to="#">Contact Us</Link></li>
-                                            <li><Link to="#">Support Center</Link></li>
-                                            <li><Link to="#">Careers</Link></li> */}
-                                        </ul>
+                                        <div className="footer_box">
+                                            <h3 className="text-xl uppercase text-designColor tracking-wider">Social Media.</h3>
+                                            <ul className="social">
+                                                <li>
+                                                    <Link to="https://www.facebook.com/?ref=homescreenpwa" className="facebook">
+                                                    <i class="fab fa-facebook-f"></i>
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link to="" className="twitter">
+                                                        <i class="fa-brands fa-twitter"></i>
+                                                    </Link>
+                                                </li>
+                                                <li>
+                                                    <Link to="https://www.linkedin.com/in/ebrahim-shebl-0ab761276/" className="linkedin">
+                                                        <i className="ri-linkedin-line"></i>
+                                                    </Link>
+                                                </li>
+                                            </ul>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
-
-
-                            <div className='col-md-3 part3'>
-                                <h3>Install App</h3>
-                                <br className='res-hide'/>
-                                <p>From App Store or Google Play</p>
-
-                                <div className='d-flex'>
-                                    <Link to={''}><img src={appStore} width={150} /></Link>
-                                    <Link to={''}><img src={googlePlay} className='mx-2' width={150} /></Link>
-                                </div>
-
-                                <br />
-
-                                <p>Secured Payment Gateways</p>
-                                <img src={paymentImage} />
-                            </div>
-
                         </div>
 
 
                         <hr />
-
-
-
-                        <div className='row lastStrip'>
-                            <div className='col-md-3 part_1'>
-                                <p>© 2024, Auction - By Full Stack  Developer
-                                    All rights reserved</p>
-                            </div>
-
-                            <div className='col-md-6 d-flex part_2'>
-                                <div className='m-auto d-flex align-items-center phWrap'>
-                                    <div className='phNo d-flex align-items-center mx-5'>
-                                        <span><HeadphonesOutlinedIcon /></span>
-                                        <div className='info'>
-                                            <h3 className='text-g mb-0'>01025946540</h3>
-                                            <p className='mb-0'>Support Center</p>
-                                        </div>
-                                    </div>
-
-                                    <div className='phNo d-flex align-items-center  mx-5'>
-                                        <span><HeadphonesOutlinedIcon /></span>
-                                        <div className='info'>
-                                            <h3 className='text-g mb-0'>01025946540</h3>
-                                            <p className='mb-0'>Support Center</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div className='col-md-3 part3  part_3'>
-                                <div className='d-flex align-items-center'>
-                                    <h5>Follow Us</h5>
-                                    <ul className='list list-inline'>
-                                        <li className='list-inline-item'>
-                                            <Link to={''}><FacebookOutlinedIcon /></Link>
-                                        </li>
-                                        <li className='list-inline-item'>
-                                            <Link to={''}><TwitterIcon /></Link>
-                                        </li>
-                                        <li className='list-inline-item'>
-                                            <Link to={''}><InstagramIcon /></Link>
-                                        </li>
-                                        <li className='list-inline-item'>
-                                            <Link to={''}><YouTubeIcon /></Link>
-                                        </li>
-
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
                 </footer>
 
 
             </div>
+        </div>
         </>
     )
 }
 
 export default Footer;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

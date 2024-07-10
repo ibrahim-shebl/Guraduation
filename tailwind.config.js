@@ -1,12 +1,9 @@
-/** @type {import('tailwindcss').Config} */
+ /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
-      maxWidth: {
-        container: "1440px",
-      },
-      screens: {
+      screens:{
         xs: "320px",
         sm: "375px",
         sml: "500px",
@@ -17,10 +14,14 @@ module.exports = {
         xl: "1280px",
       },
       fontFamily: {
-        titleFont: "Roboto",
-        bodyFont: "Poppins",
+        bodyFont: ["Poppins", "sans-serif"],
+        titleFont: ["Montserrat", "sans-serif"],
       },
       colors: {
+        bodyColor: "#212428",
+        lightText: "#c4cfde",
+        boxBg: "linear-gradient(145deg, #1e2024, #23272b)",
+        designColor: "#ff014f",
         amazon_blue: "#131921",
         amazon_light: "#232F3E",
         amazon_yellow: "#febd69",
@@ -30,6 +31,7 @@ module.exports = {
         footerBottom: "#131A22",
       },
       boxShadow: {
+        shadowOne: "10px 10px 19px #1c1e22, -10px -10px 19px #262a2e",
         testShadow: "0px 0px 32px 1px rgba(199,199,199,1)",
         amazonInput: "0 0 3px 2px rgb(228 121 17 / 50%)",
       },
@@ -37,4 +39,3 @@ module.exports = {
   },
   plugins: [],
 };
-

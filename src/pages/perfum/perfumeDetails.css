@@ -1,0 +1,84 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+} 
+@media (max-width: 767px){
+    .content, header {
+        flex-direction: column;
+        justify-content: center;
+    } 
+}
+.content .text{
+    color: #fff;
+    width: 40%;
+    margin-top: 20px;
+} 
+@media (max-width: 767px){
+    .content .text{
+        width: 100%;
+    } 
+}
+.content .text h2{
+    font-size: 30px;
+    text-transform: uppercase;
+    color: var(--title);
+    
+} 
+.content .text h3{
+    font-size: 27px;
+    text-transform: uppercase;
+    color: var(--title);
+    font-weight: bold;
+    margin-bottom: 15px;
+    
+} 
+@media (max-width: 767px){
+    .content .text h2{
+        font-size: 20px;
+    }
+}
+.content .text p{
+    font-size: 20px;
+    line-height: 1.3;
+    margin-bottom: 20px;
+    margin-top: -20px;
+} 
+@media (max-width: 767px){
+    .content .text p{
+        font-size: 16px;
+        margin: 15px 0;
+    } 
+}
+.content .text a{
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+    background-color: var(--title);
+    color: var(--primary);
+    transition: .3s;
+} 
+.content .image {
+    width: 30%;
+}
+@media (max-width: 767px){
+    .content .image {
+        width: 100%;
+    }
+}
+.content .image img{
+    width: 400px;
+    margin-top: 30px;
+}
+@media (max-width: 767px){
+    .content .image img{
+        width: 250px;
+        margin-top: 30px;
+    }
+}
+.content .text a:hover {
+    background-color: #247ec8;
+    color:  #fff
+}

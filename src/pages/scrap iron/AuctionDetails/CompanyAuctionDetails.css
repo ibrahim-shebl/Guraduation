@@ -1,0 +1,215 @@
+ 
+  .company_Auction {
+    text-transform: uppercase;
+    margin: 30px auto 75px;
+    border: 2px solid var(--borderTitle);
+    color: var(--title);
+    padding: 10px 20px;
+    font-size: 30px;
+    width: fit-content;
+    position: relative;
+    z-index: 1;
+    transition: 0.3s;
+}
+@media (max-width:767px) {
+    .company_Auction{
+      font-size: 13px !important;
+      margin-bottom: 0px;
+    }
+    .advertisement {
+        padding-top: 30px !important;
+    }
+    .gallery {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+     
+}
+.company_Auction::before,
+.company_Auction::after {
+  content: "";
+  width: 12px;
+  height: 12px;
+  background-color: #1787e0;
+  position: absolute;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.company_Auction::before {
+  left: -30px;
+}
+.company_Auction::after {
+  right: -30px;
+}
+.company_Auction:hover::before {
+  z-index: -1;
+  animation: left-move 0.5s linear forwards;
+}
+.company_Auction:hover::after {
+  z-index: -1;
+  animation: right-move 0.5s linear forwards;
+}
+.company_Auction:hover {
+  color: white;
+  border: 2px solid white;
+  transition-delay: 0.5s;
+}
+ .advertisement {
+     padding-top: 60px;
+     padding-bottom: 60px;
+ }
+ .special-heading {
+     color: var(--title);
+     text-align: center;
+     font-weight: 800;
+     font-size: 50px;
+     letter-spacing: -3px;
+     margin: 0;
+ }
+
+ @media (max-width:767px) {
+     .special-heading {
+         font-size: 27px;
+     }
+ }
+
+ .advertisement .advertisement-content {
+     margin-top: 100px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-between;
+
+
+ }
+
+ @media (max-width: 991px) {
+     .advertisement .advertisement-content {
+         flex-direction: column;
+         text-align: center;
+         margin-top: 50px;
+     }
+ }
+
+ .advertisement .advertisement-content .advertisement-image {
+     position: relative;
+     height: 375px;
+     width: 250px;
+ }
+
+ @media (max-width: 991px) {
+     .advertisement .advertisement-content .advertisement-image {
+         margin: 0 auto -140px;
+     }
+ }
+
+ .advertisement .advertisement-content .advertisement-image::before {
+     content: "";
+     position: absolute;
+     background-color: #ebeced;
+     width: 100px;
+     height: calc(100% + 80px);
+     top: -40px;
+     left: -20;
+     z-index: -1;
+
+ }
+
+ @media (max-width: 991px) {
+
+     .advertisement .advertisement-content .advertisement-image::before,
+     .advertisement .advertisement-content .advertisement-image::after {
+         display: none;
+         text-align: center;
+     }
+ }
+
+ .advertisement .advertisement-content .advertisement-image img {
+    max-width: 100%;
+ }
+
+ .advertisement .advertisement-content .text {
+     flex-basis: calc(100% - 500px);
+ }
+
+ .advertisement .advertisement-content .text p:first-of-type {
+     font-weight: bold;
+     line-height: 2;
+     margin-bottom: 50px;
+ }
+
+ .advertisement .advertisement-content .text hr {
+     width: 50%;
+     display: inline-block;
+     border-color: #10cab7;
+ }
+
+ .advertisement .advertisement-content .text p:last-of-type {
+     line-height: 2;
+     color: #777;
+ }
+
+  
+
+  /* Start Gallery */
+  .gallery {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    position: relative;
+    background-color: var(--bgColor);
+
+}
+.gallery .container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    gap: 40px;
+
+}
+.gallery .box {
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0px 12px 20px 0px rgb(0 0 0 / 13%) , 0px 2px  4px 0px rgb(0 0 0 / 12%);
+}
+.gallery .box .image {
+    position: relative;
+    overflow: hidden;
+}
+.gallery .box .image::before {
+    content: "";
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    background-color: rgb(255 255 255 /20%); 
+    z-index: 2;
+}
+.gallery .box .image:hover::before {
+    animation: flashing 0.7s;
+}
+.gallery .box img {
+    max-width: 100%;
+    transition: 0.3s;
+}
+.gallery .box .image:hover img {
+    transform: rotate(5deg) scale(1.1);
+
+}
+
+/* End Gallery */
+
+ /* start animation */
+
+ @keyframes flashing {
+    0% , 40% {
+        opacity: 1;
+
+    }
+    100% {
+        opacity: 0;
+        height: 200%;
+        width: 200%;
+    }
+}
