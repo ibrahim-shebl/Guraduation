@@ -16,18 +16,13 @@ const data = {
                             "description_ar": "Breeze through every task with new AI capabilities made possible by a power-packed Intel® processor built for the most demanding projects. Plus, 1TB of built-in storage² and up to 2TB of expandable storage with a microSD card³ give you space to save it all.",
                             "description_en": "Breeze through every task with new AI capabilities made possible by a power-packed Intel® processor built for the most demanding projects. Plus, 1TB of built-in storage² and up to 2TB of expandable storage with a microSD card³ give you space to save it all.",
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187775461307.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61q+tQCXfUL._AC_UF894,1000_QL80_.jpg",
                             "price": "25000",
                             "quantity": "2",
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718777546942.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187775461539.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187775461510.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187775461886.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718777546908.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718777546985.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187775471994.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187775471066.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlnFN1uzUrFK9Kn64B51MIrlFi0Up4DOXVQelt4ho7IRPKtlT4K5XOEDbQn-Wc9k49Gjo&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ63GspfjaD9yEbu10-W_QBesi4lXMXXLM4ELP3J1y7cg1S42wAgvAefdO7XewHYwJ_a70&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAp5Gzs2mbUWF-YiYmU3CoaoFEjcF11Vse02RTw4verN9_xZSV4nTWcjUxzwMP086l7rk&usqp=CAU",
                             ],
                             "brand": "Beelink"
                         },
@@ -40,15 +35,14 @@ const data = {
 
                             "description_en": "Introducing the Latest ThinkBook 15 Gen 4 - the perfect commercial laptop that is both budget-friendly and MIL-SPEC tested to 810H requirements for sturdy build and business security. With its sleek design and robust features, the ThinkBook 15 is the budget friendly replacement for the Lenovo ThinkPad E15.12th Generation Intel Deca-Core i5-1235U (10 cores 12 threads, P-core 1.3 / 4.4GHz, E-core 0.9 / 3.3GHz, 12MB Cache); 16GB DDR4 Memory; 512GB PCIe NVMe M.2 SSD (2 x 256GB PCIe NVMe M.2 SSD. Dual-SSD Feature, One for Windows OS, One for Data Storage to make a more secure backup method)15.6",
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718778957920.jpg",
+                            "photo": "https://p1-ofp.static.pub/fes/cms/2022/03/28/bw00bw3vxtmwo8fjf56ffx6pgw4u8s914789.jpg",
                             "price": "26000",
                             "quantity": "6",
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718778957790.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718778957800.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718778957431.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718778957820.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187789571199.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJi-sdRhGue6L7KXzGd4ZChQnmUttABd-H_QNq2PatpXQvpNtgNZ4I6svMalMUkYVWscI&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHyGgv5lq-v9XSblZ3G8eVhUWFRzS8uotiDiYTQjuapG4OrRpFeilaeNqQkNs_epjpqns&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4IsF7JcOoTDd3uSrKYkfW0tL5QKFfF9WtlquM6qfr8ZKoXtL5e48z7F2sBcPHi357IAE&usqp=CAU",
+                                 
                             ],
                             "brand": "Lenovo"
                         },
@@ -62,18 +56,16 @@ const data = {
                             "description_en": "Intel 12th Gen Deca-Core Core i5-1235U (10 cores 12 threads, base clock speed 1.3GHz, max turbo to 4.4GHz, 12MB L3 Cache); 40GB DDR4 Memory (8GB Soldered + 32GB SODIMM); 1TB PCIe NVMe M.2 SSD (2 x 512GB PCIe NVMe M.2 SSD. Dual-SSD Feature, One for Windows OS, One for Data Storage to make a more secure backup method); MIL-STD-810H Military Standard; Up to 12 Hours Long-Last Battery Life",
 
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187796001174.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/81jeoLo8gTL._AC_UF894,1000_QL80_.jpg",
                             "price": "35000",
                             "quantity": "2",
 
                             "images": [
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779601634.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779601777.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187796011680.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187796011973.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779601300.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779601896.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2KIoZ0gXZzY2lWTnbaybezGgAPvFubrl3EAEkTOZtlgKk3_EkGOV7c8N_m4Zs-bIiZ5U&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGDbde-ksr_dxmjQSV4aGB1_9mnTBXrfA3i1wFGeMrVypOAk3ydHA_GclG6JIZ9VWTsM0&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmgYXZzKyP_vbvL_vHheciZFTbFEkLx2CNJ1_fL83EkEdAccEVPDAV5zE6q7uRm4TRXAg&usqp=CAU",
+                                
                             ],
                             "brand": "Lenovo"
                         },
@@ -84,19 +76,16 @@ const data = {
                             "description_ar": "High Performance Gaming Mini PC — The Beelink SER6 Mini PC is powered by AMD Ryzen 9 6900HX(8 Core/16 Thread, TSMC 6nm FinFET,16MB L3 Smart Cache), Support Up to 4.9GHz frequency. Mini PC has Dual Optional Mode, Balance mode(Default TDP 45W) will reduce fan noise and power consumption, Performancemode(MAX 54W) will offer you ultimate processing power, is 20% increased compared to the SER6 Pro 7735HS, which is widely used for AAA gaming, Home Entertainment, office software etc.",
                             "description_en": "High Performance Gaming Mini PC — The Beelink SER6 Mini PC is powered by AMD Ryzen 9 6900HX(8 Core/16 Thread, TSMC 6nm FinFET,16MB L3 Smart Cache), Support Up to 4.9GHz frequency. Mini PC has Dual Optional Mode, Balance mode(Default TDP 45W) will reduce fan noise and power consumption, Performancemode(MAX 54W) will offer you ultimate processing power, is 20% increased compared to the SER6 Pro 7735HS, which is widely used for AAA gaming, Home Entertainment, office software etc.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187798111792.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRobz6eeYdget8SNza8mrQPmQUCrY9dpLicQ&s",
                             "price": "19000",
                             "quantity": "3",
 
                             "images": [
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779812705.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779812407.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779812450.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779812190.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187798121719.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187798121952.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718779812134.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReyXswPT8q5oczaxnYd6r9UVuzFl3Z7EhBc2DjWFKol0Q5X6AQ-2NrX9bRCh_nKU2FqjA&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJAPG0SxrtGGI5FM1KPd50wqoIYMG-fWFO-n6UH-g_GjMIjX7wdmlePoOhMrRH77JlhFk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWlYG3frxt3GBNV-apKIAPR4JZzEKmipLDImIJd1dNQiecZkKeaycjgFpYu_lKHfZSv1Y&usqp=CAU",
+                                 
                             ],
                             "brand": "Beelink"
                         },
@@ -107,7 +96,7 @@ const data = {
                             "description_ar": "[Compact size but multi-purpose]——The size is 4.2 x 4.2 x 0.7-Inches. It is very convenient to be carried anywhere, like office, entertainment venue, home. Powered by N4020 processor Dual Core(4M Cache, 1.10GHz up to 2.8GHz). It has 4GB LPDDR4 memory and 64GB eMMC storage. Keep away to the System Freezing And Buffering because it has stable low-power processor with powerful performance.",
                             "description_en": "[Compact size but multi-purpose]——The size is 4.2 x 4.2 x 0.7-Inches. It is very convenient to be carried anywhere, like office, entertainment venue, home. Powered by N4020 processor Dual Core(4M Cache, 1.10GHz up to 2.8GHz). It has 4GB LPDDR4 memory and 64GB eMMC storage. Keep away to the System Freezing And Buffering because it has stable low-power processor with powerful performance.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718780003170.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61itSU1gKRL.jpg",
                             "price": "27000",
                             "quantity": "1",
                             "unit": [
@@ -119,12 +108,11 @@ const data = {
                             ],
                             "images": [
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780003540.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780003604.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780003469.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187800031461.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187800031011.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187800031628.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRej3b63sDBSPDNTwwABTuGmFnbDFC8cTsu4VPWI_YwAgCdZjO8E-G0NfWpAvWT291NvU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFm2DnwBTCbvzTTXxW8jekbT5CZ_IwRTXHQYg0n4iH4ZVHIx6xmlTNaZFaFXwvc5iF2k4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOYVie9Nm81b6uVt0hQVB_yUp2njgpqS4XUbBv-VXpJF_blZsZz_yyjFkPDKo35ZDoww&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq1NR_f3IerPMenPNfenEIu2HzSZGX2JhzRvjHSk2JFfRlyumGcRzFPC6_xkvblWd3MEQ&usqp=CAU",
+                                
                             ],
                             "brand": "Beelink"
                         },
@@ -135,7 +123,7 @@ const data = {
                             "description_ar": "GET MORE ON YOUR SCREEN Immerse yourself in stunning visuals on the 15.6 Full HD IPS touchscreen display of the Lenovo Ideapad 3i laptop computer. With a resolution of 1920 x 1080, 45% NTSC, and 300 nits brightness, every detail comes to life on the Lenovo laptop. The narrow bezel design provides a captivating and expansive viewing experience. This commitment to screen real estate gives the lightweight Lenovo IdeaPad laptop one of the highest active area ratios of its class.",
                             "description_en": "GET MORE ON YOUR SCREEN Immerse yourself in stunning visuals on the 15.6 Full HD IPS touchscreen display of the Lenovo Ideapad 3i laptop computer. With a resolution of 1920 x 1080, 45% NTSC, and 300 nits brightness, every detail comes to life on the Lenovo laptop. The narrow bezel design provides a captivating and expansive viewing experience. This commitment to screen real estate gives the lightweight Lenovo IdeaPad laptop one of the highest active area ratios of its class.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187801581829.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkJCYsIyViXA7XqpNMuHQZXNyCrPkkjOkDAA&s",
                             "price": "20000",
                             "quantity": "20",
                             "unit": [
@@ -146,13 +134,11 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187801581149.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780158163.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187801591705.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780159521.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187801591010.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187801591206.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187801591018.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO6S4Nc7imM-ss7es008m17t1rGjGfZHhNxw8Yizv_UI1RjwD34BrVeReGRTrwQgsR3Q8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOGHOqjIYjA_cXhM2H7iYaZEzVBPZG9trsdCsgzYrw8bRap-1qCYdZlspHf25ZHqUlmM&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWElXEAN8svAlkKQ3sqQ7HpgOsXjL9s9Ra0V0p54SY9Dc88Nmk8Ouln9KPO-yxPz4B_8I&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoFI8_PxctOqH_wm3Fww5Zb8EBwnwmboGIxG3YOFy2Po1rDPuR-fam5gQE1XddtEaetHE&usqp=CAU",
+                                 
                             ],
                             "brand": "Lenovo"
                         },
@@ -163,7 +149,7 @@ const data = {
                             "description_ar": " Rockchip RK3588 Octa-core: Mini PC has an Octa-core 64-bit processor, its frequency is up to 2.4GHz. Integrated with ARM Mali-G610 MP4 quad-core GPU and built-in AI accelerator NPU, it provides 6Tops computing power and supports mainstream deep learning frameworks. Can deliver strong performance in various AI application scenarios.",
                             "description_en": " Rockchip RK3588 Octa-core: Mini PC has an Octa-core 64-bit processor, its frequency is up to 2.4GHz. Integrated with ARM Mali-G610 MP4 quad-core GPU and built-in AI accelerator NPU, it provides 6Tops computing power and supports mainstream deep learning frameworks. Can deliver strong performance in various AI application scenarios.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718780379772.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2rBJgwLymzGsXzELp08G52StjJOB7iZPqiA&s",
                             "price": "22000",
                             "quantity": "13",
                             "unit": [
@@ -174,13 +160,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780380962.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187803801999.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780380602.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187803801980.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780380568.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780380495.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187803801344.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQU2h_55cXc7P2e5weXxbuIw8Bs00WFffCo5hBij5zVuaG92FQNg5JzYa1ZMAUKaHp3Y&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_KiESDzIoyxY98X9TwSYEG3JOBIlP9ZG8Z7pKpiX_5f5RQaM2aPG21H_FuY3Lyt4ag0&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKpNgifVAEcMl_8AbkfUe2pza7Q_jVVVHgbo57-n3aZf1eYjG5-RAb3OLgm8QLSkT4Sk&usqp=CAU",
+                                 
                             ],
                             "brand": "RUPA"
                         },
@@ -191,7 +174,7 @@ const data = {
                             "description_ar": "This small computer comes with 12th Generation N100 Processors. Excellent CPU Performance can easily control various complex work procedures. Energy-saving design, perfect for office work, streaming video, web browsing, distance learning, and home entertainment. There's also an ultrafast 512GB SSD and high-speed 16GB DDR4 memory to ensure fast boot times and rapid app loads.",
                             "description_en": "This small computer comes with 12th Generation N100 Processors. Excellent CPU Performance can easily control various complex work procedures. Energy-saving design, perfect for office work, streaming video, web browsing, distance learning, and home entertainment. There's also an ultrafast 512GB SSD and high-speed 16GB DDR4 memory to ensure fast boot times and rapid app loads.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718780724478.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2gldt3X5K3LeEu6d03HGfwNJOXITGAgSDg&s",
                             "price": "14000",
                             "quantity": "2",
                             "unit": [
@@ -203,13 +186,11 @@ const data = {
                             ],
                             "images": [
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780724689.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187807241654.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780724111.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780724972.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780724167.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780724286.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718780724607.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrbPDHmNV3Y3ojro9T9MyjERylaHnkO-4U6YBFLeGC3LL-hUviGMrvYj-iMV62vret94&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrrOT_3pdWHnDty3ouSeamECPaSUMM9tx1PSDjDAlCTpxO-M0Y7yS70okaCfLz7sfdnU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfI8A5MVLuPFlbt-vdDiQUZLI-1mhDmc4J3b5WlWibBD3PttDXGhvuRB5xYEy6Halc2HU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZNhyMtcyQ1tVKY_bAt5_Lwe9Bg-ekf0TAF-th1Gk7dkUpnMlkbTRicKF-4LsZvf0_nDE&usqp=CAU",
+                                 
                             ],
                             "brand": "BMAX"
                         },
@@ -220,7 +201,7 @@ const data = {
                             "description_ar": "INTEL Core i9 13900K 3.0GHz (5.4GHz Max Boost) CPU Processor | 2TB NVME Gen4 SSD – Up to 30x Faster Than Traditional HDD | 360mm AIO ,  NVIDIA Geforce RTX 4090 24GB GDDR6X Graphics Card (Brand may vary) | 64GB DDR5 RAM RGB Gaming Memory with Heat Spreader | Windows 11 Home 64-bit",
                             "description_en": "INTEL Core i9 13900K 3.0GHz (5.4GHz Max Boost) CPU Processor | 2TB NVME Gen4 SSD – Up to 30x Faster Than Traditional HDD | 360mm AIO ,  NVIDIA Geforce RTX 4090 24GB GDDR6X Graphics Card (Brand may vary) | 64GB DDR5 RAM RGB Gaming Memory with Heat Spreader | Windows 11 Home 64-bit",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718781046669.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzTX5ZNPbtMbOk78RSqzdZeIRBzJgIFonTAQ&s",
                             "price": "50000",
                             "quantity": "6",
                             "unit": [
@@ -233,17 +214,11 @@ const data = {
                             "images": [
 
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046887.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046911.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461460.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878104652.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046529.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461480.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046245.jpg", ,
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046242.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461727.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046447.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461751.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xmJhUMFcE2AboPtd8vSIaBpuW5WfpGXwpGl1LGUM5SQ4YMqNfQ8sbPU5L_mOA3QgBMM&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmc7Wc0WvJY3lL9_tfB9W8kTt0eBXiSe_-PEVHKD6xl-Tl6Ueb8qM2YZNQHmq8HCdkwTc&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5a-6PQHwh2zt0o7HAqCuikVcDZweU05BNDbG-bMOwzRvzpqBfpabaO3Ejnr25Vw1U8fg&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShJBI09VRliDd-9oknkuAoUiNHcdtWwiu-m0DN14hzFCYCmDahPhfHsHLjp_ITv6T5_jw&usqp=CAU",
+                                 
                             ],
                             "brand": "Skytech"
                         },
@@ -254,7 +229,7 @@ const data = {
                             "description_ar": "EFFICIENT AIRFLOW: Larger passageways and optimized internal cable management, allows airflow to be more productive, resulting in quieter acoustics.12-PHASE VOLTAGE REGULATION: 12-phase voltage regulation technology, enables up to 13th Gen Intel Core processors to deliver high-level performance for hours on end.",
                             "description_en": "EFFICIENT AIRFLOW: Larger passageways and optimized internal cable management, allows airflow to be more productive, resulting in quieter acoustics.12-PHASE VOLTAGE REGULATION: 12-phase voltage regulation technology, enables up to 13th Gen Intel Core processors to deliver high-level performance for hours on end.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187813201690.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9MJw_kOgeHBogNRyQ1s6IG2w2oYsOuTcug&s",
                             "price": "33000",
                             "quantity": "1",
                             "unit": [
@@ -266,11 +241,10 @@ const data = {
                             ],
                             "images": [
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046447.jpg".charAt,
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461751.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781046289.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461380.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187810461809.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKeDtE7hHzl1sK8NkcMQsHflbbEzNBAu-FKP-VWNZ-98dUyM30QLVStC9znxpbjz9MPc8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFlb4wsqddHLq60qiip33UKnmZovDvyisleKP8Vca1FJses3X_98Rik66_N9QS9WKC0w&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOHkMMmBBHJLZQ_LCPn41CZ76AO6XO_A6Q0gOYE1h1nODo2UppsgCJYPFotpRbGj8JuDQ&usqp=CAU",
+                                 
                             ],
                             "brand": "Alienware"
                         },
@@ -281,7 +255,7 @@ const data = {
                             "description_ar": " This Dell 9020 SFF desktop computer, features 4th Generation Intel Core i7-4770 up to 3.9 GHz processor 32GB RAM, 1TB SSD, Visuals are handled by an HD Graphics 4600 (2x Display Port 1x VGA) DisplayPort to HDMI adapter Included",
                             "description_en": "This Dell 9020 SFF desktop computer, features 4th Generation Intel Core i7-4770 up to 3.9 GHz processor 32GB RAM, 1TB SSD, Visuals are handled by an HD Graphics 4600 (2x Display Port 1x VGA) DisplayPort to HDMI adapter Included",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187814851247.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61S5alwyFLL.jpg",
                             "price": "8000",
                             "quantity": "10",
                             "unit": [
@@ -292,9 +266,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781485119.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187814851636.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781485197.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB3aPhherlP3thth_oQckiNqVhf5sGHN_iYzt3eRck1qG5w3BvvcDVcPxwj8zoEeE-qzY&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVI0Kcz5c0Z_oWcuDyfP_KhPQxMBIaKgBbbR5U7MnNl8dMNIOYb9WgL8KaDPS2m7zEe8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZuhoT2V1FLm3-6f4MdhhiL37D5dST62ysLc9YQ6GYOfp5QYS947BXXUA-dl8laPwMcI&usqp=CAU",
                             ],
                             "brand": "Dell"
                         },
@@ -305,7 +279,7 @@ const data = {
                             "description_ar": "Liquid-Cooled 14th Gen Intel Core CPU: The latest in dynamic CPU architecture so you can game and multitask without compromise, cooled by a CORSAIR iCUE H100i RGB ELITE liquid CPU cooler.",
                             "description_en": "Liquid-Cooled 14th Gen Intel Core CPU: The latest in dynamic CPU architecture so you can game and multitask without compromise, cooled by a CORSAIR iCUE H100i RGB ELITE liquid CPU cooler.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718781710104.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvPBtw2BIco0qYX8For4JJIy6NR9-16V_tA&s",
                             "price": "26999",
                             "quantity": "4",
                             "unit": [
@@ -316,12 +290,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187817101291.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878171047.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781710884.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878171055.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781710100.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187817101668.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyuc1GGmOEjxJqm2kzdSwjtmLU8Y4EVORCH_ciAa4UQGEC5PQY4q7YRbM4L4irc3Twu8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYS73feHZAsArxSa0ELheRRiV3GvPIJy29ICZuCLPDGpbTBH82eKycomHMC3fezRhaSs&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2rCubfMIuybHzjAhrQynXoHAGRBZxgYBLhGVVlH_EocttIoSc3O5Rv1g6BecInSgCt-U&usqp=CAU"
                             ],
                             "brand": "Corsair"
                         },
@@ -332,7 +303,7 @@ const data = {
                             "description_ar": "INTEL Core i7 13700F 2.1GHz (5.1GHz Max Boost) CPU Processor | 1TB NVME SSD – Up to 30x Faster Than Traditional HDD | 360mm AIO , 4 x RGB RING Fans for Maximum Air Flow | Skytech Shadow Gaming Case with Tempered Glass, Black | 1 Year Warranty on Parts and Labor | Lifetime Free Technical Support | Assembled in the USA",
                             "description_en": "INTEL Core i7 13700F 2.1GHz (5.1GHz Max Boost) CPU Processor | 1TB NVME SSD – Up to 30x Faster Than Traditional HDD | 360mm AIO , 4 x RGB RING Fans for Maximum Air Flow | Skytech Shadow Gaming Case with Tempered Glass, Black | 1 Year Warranty on Parts and Labor | Lifetime Free Technical Support | Assembled in the USA",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718781878466.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHnw4WFAQ59whktKwnwdbqhn8dIPdtU6mJKw&s",
                             "price": "13500",
                             "quantity": "3",
                             "unit": [
@@ -343,12 +314,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187818781099.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781878303.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781878462.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781878891.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187818781287.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718781878697.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKVAaLcB-IehKQg3guhQN9Hcz85ZDIFyHiokTMCz5oenUmYPXxBJ6hikYOeTzajVYDBr8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV_Lg9bLkADjhAUzrYJV0yYykgQAgiWNTN9mPcGAinoO0aCJvz1euM48RRwe_ztSxnu2I&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2xmJhUMFcE2AboPtd8vSIaBpuW5WfpGXwpGl1LGUM5SQ4YMqNfQ8sbPU5L_mOA3QgBMM&usqp=CAU",
+                                 
                             ],
                             "brand": "Skytech"
                         },
@@ -359,7 +328,7 @@ const data = {
                             "description_ar": "AMD Ryzen R7-7700,NVIDIA GeForce RTX 4060 8GB GDDR6X 128-bit,16GB DDR5 (2x 8GB)1TB SSD",
                             "description_en": "AMD Ryzen R7-7700,NVIDIA GeForce RTX 4060 8GB GDDR6X 128-bit,16GB DDR5 (2x 8GB)1TB SSD",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187820701724.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61wsH0j5SvL._AC_UF894,1000_QL80_.jpg",
                             "price": "27999",
                             "quantity": "1",
                             "unit": [
@@ -370,13 +339,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782070737.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187820701302.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782070312.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782070672.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782070884.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187820701063.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187820701279.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTydloWgfgBUtVRGSkYNJM-fSdRr3kmWcbscgs_kfMFnBxjjv9RuH281DqWBK1VgUF7Fdo&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfV_tdWwXzS90TG0vuGgNi9f6_69VYTQhIgjxAjBrdRC_lRoTqi-VMGglABJX8nFZp4Zw&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1Pi03GQWNweh3Mwc1xKP8PvO2qsegz2-A-FoTNtFsfRq-i4ll0VPWiXL26tDeEmi9qe8&usqp=CAU"
                             ],
                             "brand": "MSI"
                         },
@@ -387,7 +352,7 @@ const data = {
                             "description_ar": "High Speed RAM And Enormous Space 32GB DDR4 UDIMM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe M.2 Solid State Drive allows to fast bootup and data transfer,Processor AMD Ryzen 5 Pro 4650G (6 Cores, 12 Threads, 8MB L3 Cache, 3.70GHz base frequency, up to 4.20GHz max turbo frequency), with AMD Radeon Graphics",
                             "description_en": "High Speed RAM And Enormous Space 32GB DDR4 UDIMM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe M.2 Solid State Drive allows to fast bootup and data transfer,Processor AMD Ryzen 5 Pro 4650G (6 Cores, 12 Threads, 8MB L3 Cache, 3.70GHz base frequency, up to 4.20GHz max turbo frequency), with AMD Radeon Graphics",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718782224473.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb5SnEM4ZxxYFSH7GrRel2LttHM_2Fa8pf8Q&s",
                             "price": "12600",
                             "quantity": "6",
                             "unit": [
@@ -398,11 +363,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187822241020.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782224832.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187822241634.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187822241045.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782224140.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-FMrkE6P0oHWYhH85DkKKVukvn-0WTCgbrralRjGSvAFJSrUPG77KAI_DhevsT3N1eaQ&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQBBlYqxDFN2K9TaEVsUCOYOCD6Vaf7XDhYkgni5A1By0ftk7IX9gGfyWrxbgJs6B2axE&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa89uP-wir9fheRN_62MbP-cnLgmUvQfHJLRmdWiJLNWlZs8f0jDWBGjRArsi0nv5g9-c&usqp=CAU",
                             ],
                             "brand": "Lenovo"
                         },
@@ -413,7 +376,7 @@ const data = {
                             "description_ar": "Game on – Win more games with Windows 11, an Intel Core i5-13400F processor, and an NVIDIA GeForce RTX 3050 Laptop GPU. With 8GB of 3200MHz DDR4 RAM and the ability to go up to 2TB SSD and 1TB HDD, the G13CH is ready for battle.",
                             "description_en": "Game on – Win more games with Windows 11, an Intel Core i5-13400F processor, and an NVIDIA GeForce RTX 3050 Laptop GPU. With 8GB of 3200MHz DDR4 RAM and the ability to go up to 2TB SSD and 1TB HDD, the G13CH is ready for battle.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187824941515.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0AqEP4ppwUq-6AvRGnwXYoYR7BvxmcjNPng&s",
                             "price": "21000",
                             "quantity": "5",
                             "unit": [
@@ -424,13 +387,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187824941681.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782494966.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782495622.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187824951613.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187824951563.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718782495455.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187824951270.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLhnb-dC0GO0Xvjk3jyg92xh7sKkvlHgz8QfOpz9H8y-ptYM22SDX9ksuhyFitYSEbKrU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5Lkj2GlHPHeMCMzQsWuKSLHHvjvy7fymAzeiwtdHDLDzkwwKkINYyxq32oJsUmBR9cA&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCluWzG2EHo7rWVQJ6kLeX1kMXGQuG6v88e6IlbzlBtZhhcaG0Sz9KGdMW9V9UQxrsIRo&usqp=CAU",
                             ],
                             "brand": "ASUS"
                         },
@@ -441,7 +400,7 @@ const data = {
                             "description_ar": "12th Gen Intel Core i7 Processor: Performance to stream and game anywhere. Designed to deliver high-performance gameplay. , It All Starts Now: Enjoy the latest generation Windows 11 Home for your everyday needs. *MSI recommends Windows 11 Pro for business use.",
                             "description_en": "12th Gen Intel Core i7 Processor: Performance to stream and game anywhere. Designed to deliver high-performance gameplay. , It All Starts Now: Enjoy the latest generation Windows 11 Home for your everyday needs. *MSI recommends Windows 11 Pro for business use.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718785849992.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71JqyTBiXrL._AC_UF894,1000_QL80_.jpg",
                             "price": "54800",
                             "quantity": "8",
                             "unit": [
@@ -452,12 +411,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718785850883.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878585071.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187858501187.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187858501038.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718785850831.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718785850417.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKViCtfefykPoIp7MJqYJ1-OYBxEsWYa53R9eyplRQ5NKUJRxE0whvOmyODc6gzLrituo&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlCvd75r6F0rbjoimJh9oQQ99oPUjZBTks6UraDvXaaJ2yZn2QBDNLqg9Wm5uXW5UiZG4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGGK0LbODvzsL1Aw86s7dYmn3cKQ_bEDYCxgaWTiVDqypeT3buWrPHsUpOPnowGmn_wM&usqp=CAU",
                             ],
                             "brand": "MSI"
                         },
@@ -469,7 +425,7 @@ const data = {
                             "description_ar": "This snippet appears to describe the specifications or details of a specific gaming laptop model named Raider GE76 12UE-871. It includes information about the screen size (17.3 inches) and features (FHD 144Hz display).",
                             "description_en": "This snippet appears to describe the specifications or details of a specific gaming laptop model named Raider GE76 12UE-871. It includes information about the screen size (17.3 inches) and features (FHD 144Hz display).",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187860161181.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSp5r4WRPnuLS_JS6L-HAag0US58mbThhZQg&s",
                             "price": "34500",
                             "quantity": "1",
                             "unit": [
@@ -480,12 +436,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187860161914.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187860161887.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786016279.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187860161450.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187860161619.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187860161594.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ISVA62BFx7ui8ARTTDnjf40cj0r3pU7lJ5-_2TSUy-f7-u1_C1WX-TSjW3H2ui3Q_pk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT9wkVxYSxCE80h6r4Jb9Wek34Jsc83MMOJCrnAL6QUCaXVQ0d3lgV9wujx3TPnk2TOWw&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsp1c8M_0qeFzKcJrNJQNPCYexfmAnO1q55huLnmf5sybN_--NTZCf7I4k9qSp4gsrABQ&usqp=CAU"
                             ],
                             "brand": "MSI"
                         },
@@ -496,7 +449,7 @@ const data = {
                             "description_ar": "Intel Core i5 1.90 GHz processor provides great performance, immersive multimedia, and rapid loading of programs.Premium performance: Take on the day with plenty of processing power with Intel Core i5 processor and Intel Iris Xe graphics.The 14 2880 x 1800 screen provides a great movie watching experience.512 GB SSD is enough to store your essential documents and files, favorite songs, movies, and pictures.",
                             "description_en": "Intel Core i5 1.90 GHz processor provides great performance, immersive multimedia, and rapid loading of programs.Premium performance: Take on the day with plenty of processing power with Intel Core i5 processor and Intel Iris Xe graphics.The 14 2880 x 1800 screen provides a great movie watching experience.512 GB SSD is enough to store your essential documents and files, favorite songs, movies, and pictures.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187861851938.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71U7CcyANlL._AC_UF894,1000_QL80_.jpg",
                             "price": "23000",
                             "quantity": "8",
                             "unit": [
@@ -508,12 +461,9 @@ const data = {
                             ],
                             "images": [
 
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786185342.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187861851757.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786185239.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187861851083.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786185792.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878618536.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE9mxIy5xyo0uTTQ7MnbKnl19gDD5cikoWTysFHMapXRZfSbalF200Woy-aF4L_JuFEak&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f6_Ls5jZ3G3OjUtATjlXWYdz2Sjy6yQByRqx9A0k-ccgurfVZ7mipMlY8TCNk16PJX4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqWq4nH_-xhA1Y9AEJTHB48amPt3eqSnJPdmgNyXKGQoUGXvJCBwfLfKXMODCXtL-xKxI&usqp=CAU",
                             ],
                             "brand": "Samsung"
                         },
@@ -533,7 +483,7 @@ const data = {
                             "description_ar": "BIG SCREEN. FAMILY-SIZED FUN: Bring fun home to everyone with a bright, engaging screen; great for videos, games or fun time for the kids (11” 1920 x 1200, 90Hz, 480 nits, TFT LCD) , RICH SOUND ALL AROUND: Your music; Your shows; Your games; Hear them all loud and clear, thanks to quad speakers powered by Dolby Atmos; Galaxy Tab A9+ delivers a cinema-like audio",
                             "description_en": "BIG SCREEN. FAMILY-SIZED FUN: Bring fun home to everyone with a bright, engaging screen; great for videos, games or fun time for the kids (11” 1920 x 1200, 90Hz, 480 nits, TFT LCD) , RICH SOUND ALL AROUND: Your music; Your shows; Your games; Hear them all loud and clear, thanks to quad speakers powered by Dolby Atmos; Galaxy Tab A9+ delivers a cinema-like audio",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187864141085.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6-yU8GdYQ8qedk1QWqDT4enIXNBKVW-G2_A&s",
                             "price": "30000",
                             "quantity": "8",
                             "unit": [
@@ -544,13 +494,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786414693.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187864141672.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786414312.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786414485.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786414839.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786414759.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187864141284.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHkp-wj6rdJIRzlfQ-zWUzaKsUDUNaSIl4iJ7aFvXu5wwTgBrRgJ6uNWLjrR9GfBOYGw4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIkj8THtGWBqEggjaaNDd6fkHUNY526vQaFrg_ob2VGvaJJDXDKMHZ4jFskhZfkZGL4iQ&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LaQwlwyGjWOddTKaSnESDz-Jq6sI0lcHHNJLvSoonjzp9s5TX9X0QRMimeg5FS7qvCE&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -561,7 +507,7 @@ const data = {
                             "description_ar": "YOUR CONTENT, SUPERSMOOTH: Whether watching shows, playing games or reading online, the ultra-clear, superfluid display* of Galaxy A15 5G brings your content to life; Plus, Vision Booster lets you enjoy the bright 800-nits screen experience. , STORE MORE & WORRY LESS: With improved internal storage of up to 128GB and up to 1TB** of expandable storage, Galaxy A15 5G makes it easy to keep cherished photos, videos, and important files readily accessible whenever you need them.",
                             "description_en": "YOUR CONTENT, SUPERSMOOTH: Whether watching shows, playing games or reading online, the ultra-clear, superfluid display* of Galaxy A15 5G brings your content to life; Plus, Vision Booster lets you enjoy the bright 800-nits screen experience. , STORE MORE & WORRY LESS: With improved internal storage of up to 128GB and up to 1TB** of expandable storage, Galaxy A15 5G makes it easy to keep cherished photos, videos, and important files readily accessible whenever you need them.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187865331901.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL3mAGnoziq25V0SfsNoXYnMXUivjmx9KV6Q&s",
                             "price": "15000",
                             "quantity": "3",
                             "unit": [
@@ -572,12 +518,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786533543.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786533415.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786533349.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187865331706.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187865341752.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786534140.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9yXjhCrHO72Z6yRdjzOavuDlzjqi6WxUkvJFmoHWJKczhzed_SSlchkvQih2KV-gliVY&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMNgADfjuc2fMiLSM9ST_ykeILr1FbeEdfvnATd_JyT0J3HOnhxu6rlH4vRV1CJ0qxYwg&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1hIs3MsH9WL39rBMLmwVA4L1U2vTny4uLa0Am9ExTTOUAhPKCxMNKR1Wf3oAL1AOYQM&usqp=CAU",
                             ],
                             "brand": "Samsung"
                         },
@@ -588,7 +531,7 @@ const data = {
                             "description_ar": "6.7 Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1080x2640 pixels, Cover Display: 1.9 ,  Super AMOLED, 260x512 pixels , 128GB ROM, 8GB RAM, Qualcomm SM8475 Snapdragon 8+ Gen 1 (4nm), Octa-core, Adreno 730, 3700mAh Battery",
                             "description_en": "6.7 Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1080x2640 pixels, Cover Display: 1.9 ,  Super AMOLED, 260x512 pixels , 128GB ROM, 8GB RAM, Qualcomm SM8475 Snapdragon 8+ Gen 1 (4nm), Octa-core, Adreno 730, 3700mAh Battery",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187866681736.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/31OC0vzDDwL._AC_.jpg",
                             "price": "69000",
                             "quantity": "10",
                             "unit": [
@@ -599,9 +542,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187866681321.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786668804.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187866681075.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnALuXtzI7WijMG4RVy_28V0ov8P9zLAYlqqNyBbJRn3485ByCdoAQekap5MtFZUn_WEQ&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReoCeL1VEcxwmaJFriGqS6dJTsHAAXQo6c7DlQihPXjJFlET3DQkz_w15PjJax43hLO1Y&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQREO4pns_XGjbzpCRvxMK8_Mxwfi-10-4AGJHZDoNkYf2WcYBD_vLqwL2b8zOwxucyAC8&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -612,7 +555,7 @@ const data = {
                             "description_ar": "The SAMSUNG Galaxy Watch 6 Classic 47mm is a stylish and durable smartwatch with a stainless-steel case and classic black finish. It features advanced health and fitness tracking capabilities, including a heart monitor and BIA sensor for body composition analysis. With Bluetooth connectivity, it seamlessly connects to your smartphone to deliver notifications, manage calls, and control music playback. This smartwatch blends traditional watch aesthetics with modern smart features, ensuring you stay connected and informed while monitoring your health effectively.",
                             "description_en": "The SAMSUNG Galaxy Watch 6 Classic 47mm is a stylish and durable smartwatch with a stainless-steel case and classic black finish. It features advanced health and fitness tracking capabilities, including a heart monitor and BIA sensor for body composition analysis. With Bluetooth connectivity, it seamlessly connects to your smartphone to deliver notifications, manage calls, and control music playback. This smartwatch blends traditional watch aesthetics with modern smart features, ensuring you stay connected and informed while monitoring your health effectively.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718786945296.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/81Dm65eja8L.jpg",
                             "price": "16000",
                             "quantity": "20",
                             "unit": [
@@ -623,10 +566,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786945493.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187869454.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187869451974.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718786945760.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnpF8obabOThyjfOFu5U26E98VDUGbvEtIN5A0scOGt4zId_lssZs8uC8PZRtKmsuoRPg&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsINo238FkyATjqR8jmMiiitmpFGY6bqhaJTpgjg97NY9k0-hLMFW3DPC96UKsMFAJyRk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5DeYoilAVEC4ZNPhd1i1Wc1mGNcsn7QHx2YgphYZwzzcTpCzXxMcEMHR2gL-WdBwqThc&usqp=CAU",
                             ],
                             "brand": "Samsung"
                         },
@@ -637,7 +579,7 @@ const data = {
                             "description_ar": "LIGHTNING FAST AND EFFICIENT: The new power adapter accommodates your active lifestyle by giving you up to 25W of Super Fast Charging* for devices compatible with USB Type-C cables**; So when you do run low on power, it won't be for long SMALL SIZE. BIG POWER: Don't let its size fool you; The compact 25W Power Adapter packs huge power into a slimmer and more travel-friendly design***, all thanks to GaN Tech**** POWER WITH A PURPOSE: New 25W Power Adapter reduces its power from 20mW to just 5mW when not in use to save power; Plus, it includes recycled content, reflecting our commitment to being environmentally conscious in everything we do***** CHARGE WITH CONFIDENCE: The new 25W Power Adapter helps protect your devices from overcurrent, short circuits, high temperatures, leakage and more** ONE ADAPTER. MULTIPLE CHARGING POSSIBILITIES: Meet your new go-to for all your charging needs****** Whether powering up your workstation, fueling your Galaxy devices or giving life to any Type-C-cable-compatible gadget, it has you covered**",
                             "description_en": "LIGHTNING FAST AND EFFICIENT: The new power adapter accommodates your active lifestyle by giving you up to 25W of Super Fast Charging* for devices compatible with USB Type-C cables**; So when you do run low on power, it won't be for long SMALL SIZE. BIG POWER: Don't let its size fool you; The compact 25W Power Adapter packs huge power into a slimmer and more travel-friendly design***, all thanks to GaN Tech**** POWER WITH A PURPOSE: New 25W Power Adapter reduces its power from 20mW to just 5mW when not in use to save power; Plus, it includes recycled content, reflecting our commitment to being environmentally conscious in everything we do***** CHARGE WITH CONFIDENCE: The new 25W Power Adapter helps protect your devices from overcurrent, short circuits, high temperatures, leakage and more** ONE ADAPTER. MULTIPLE CHARGING POSSIBILITIES: Meet your new go-to for all your charging needs****** Whether powering up your workstation, fueling your Galaxy devices or giving life to any Type-C-cable-compatible gadget, it has you covered**",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187870831348.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71blOLk9A6L._AC_UF1000,1000_QL80_.jpg",
                             "price": "600",
                             "quantity": "15",
                             "unit": [
@@ -648,13 +590,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787083933.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187870831619.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187870831735.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878708339.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187870831501.jpg,",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787083324.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187870831892.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOU23Co9Rq3ilD7KFCSiwz_e7vlJ7iHUJ2exXAw0R1mhskfDsgwJ3M88ZAUDSn9NmDsk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbQuStVvJpB_MdCilQZNnsuH657eYE_6IsQP18BaXjIkIjDZcc93SxARnFdbmeoVr-tMA&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -665,7 +602,7 @@ const data = {
                             "description_ar": "QUANTUM MATRIX W/ MINI LEDS: See every freckle on your favorite actor’s face thanks to the huge grid of Samsung’s ultra-precise Quantum Mini LEDs that take control of the individual zones of light in your picture for sensational color and contrast.Voltage : 120 volts (AC)  NEURAL QUANTUM PROCESSOR W/ 4K UPSCALING: Whether streaming an HD movie, watching sports or looking at home videos, experience it transformed into sharp 4K resolution with our high-performance, AI-powered processor upgrading content scene by scene*  NEO QUANTUM HDR: Discover variety in every frame—with Neo Quantum HDR’s dynamic contrast and brilliant colors, all 4K resolution; Contrast is adjusted to best fit each scene, helping showcase more accurate colors  DOLBY ATMOS & OBJECT TRACKING SOUND: Hear the audio move with the story with Dolby Atmos and Object Tracking Sound; When cars are speeding across the screen, 3D sound moves right along with them thanks to Object Tracking Sound",
                             "description_en": "QUANTUM MATRIX W/ MINI LEDS: See every freckle on your favorite actor’s face thanks to the huge grid of Samsung’s ultra-precise Quantum Mini LEDs that take control of the individual zones of light in your picture for sensational color and contrast.Voltage : 120 volts (AC)  NEURAL QUANTUM PROCESSOR W/ 4K UPSCALING: Whether streaming an HD movie, watching sports or looking at home videos, experience it transformed into sharp 4K resolution with our high-performance, AI-powered processor upgrading content scene by scene*  NEO QUANTUM HDR: Discover variety in every frame—with Neo Quantum HDR’s dynamic contrast and brilliant colors, all 4K resolution; Contrast is adjusted to best fit each scene, helping showcase more accurate colors  DOLBY ATMOS & OBJECT TRACKING SOUND: Hear the audio move with the story with Dolby Atmos and Object Tracking Sound; When cars are speeding across the screen, 3D sound moves right along with them thanks to Object Tracking Sound",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187873221387.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/51EiZQmLL7L.jpg",
                             "price": "30000",
                             "quantity": "23",
                             "unit": [
@@ -676,14 +613,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171878732222.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187873221164.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187873221767.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787322701.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187873221272.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787322798.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187873221627.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187873221702.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnnhyrDbZdmgYQrdczJ1KsWVA3lUmZR8GBmjYDuhJeG_ppyR_4EUq-YCpgFY8vmQ3SlOE&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhY4rbWJpHn75ZzR7TORL4i1q-J8gdQfJZE4o6emlUDf4_QY6ygYhfHuzRqAJD_BM5xU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKzsV40MDDY1tgIOsRAE709xM6mZs6g7tNga2qKgMA0MKnn-5GEosZRH6YnRItTXOtyWw&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -694,7 +626,7 @@ const data = {
                             "description_ar": "<p>The SAMSUNG Galaxy FIT 3 [2024] is a sleek and versatile fitness tracker featuring a 1.6\" AMOLED display for clear and vibrant visuals. It boasts a long-lasting battery life of up to 14 days on a single charge. With over 100 customizable watchfaces and 100+ exercise modes, it offers extensive fitness and health tracking, including heart rate monitoring, sleep tracking, and stress management. The lightweight and water-resistant design ensures comfort and durability, making it perfect for daily wear and various activities. As an international model, it offers global usability and smartphone compatibility.</p>",
                             "description_en": "<p>The SAMSUNG Galaxy FIT 3 [2024] is a sleek and versatile fitness tracker featuring a 1.6\" AMOLED display for clear and vibrant visuals. It boasts a long-lasting battery life of up to 14 days on a single charge. With over 100 customizable watchfaces and 100+ exercise modes, it offers extensive fitness and health tracking, including heart rate monitoring, sleep tracking, and stress management. The lightweight and water-resistant design ensures comfort and durability, making it perfect for daily wear and various activities. As an international model, it offers global usability and smartphone compatibility.</p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187874801143.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVKcFlpfinGRVF_FmNMaYPf2Nz6qe3hNeqcQ&s",
                             "price": "7000",
                             "quantity": "8",
                             "unit": [
@@ -705,7 +637,7 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787480949.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6X2qg5uPJhaxZnXj9veq-7DIxR_EvrRYMCkUtypwjbZevzzPdMh-Kx6M29yLTweAFOCA&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -716,7 +648,7 @@ const data = {
                             "description_ar": "The SAMSUNG Galaxy FIT 3 [2024] is a sleek and versatile fitness tracker featuring a 1.6 AMOLED display for clear and vibrant visuals. It boasts a long-lasting battery life of up to 14 days on a single charge. With over 100 customizable watchfaces and 100+ exercise modes, it offers extensive fitness and health tracking, including heart rate monitoring, sleep tracking, and stress management. The lightweight and water-resistant design ensures comfort and durability, making it perfect for daily wear and various activities. As an international model, it offers global usability and smartphone compatibility.",
                             "description_en": "The SAMSUNG Galaxy FIT 3 [2024] is a sleek and versatile fitness tracker featuring a 1.6 AMOLED display for clear and vibrant visuals. It boasts a long-lasting battery life of up to 14 days on a single charge. With over 100 customizable watchfaces and 100+ exercise modes, it offers extensive fitness and health tracking, including heart rate monitoring, sleep tracking, and stress management. The lightweight and water-resistant design ensures comfort and durability, making it perfect for daily wear and various activities. As an international model, it offers global usability and smartphone compatibility.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/171878759894.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmkYlcRNhQ9qPrJR1NovIlad1i9OOk1nQrUg&s",
                             "price": "20000",
                             "quantity": "2",
                             "unit": [
@@ -727,9 +659,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787598600.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187875981096.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187875981954.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETXJYI7aYOwqwbF40kPUOVCjTixDl4HobRqVIQCOc9H7Nj2wKR1Tk6IZdkMtOg53j-eo&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslgDvBSS5WTB4P1o2p8cOYLcEOAjSvkBmns638KmV-RgR8pulHzkIjF7KTXwNGo44wZQ&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr8ivqwYJY6G9SsvZfm8aSkgZCCW3bh3t4CEP46HBkHN08B50HZbz1CjDpjUAbS_d9EKg&usqp=CAU",
                             ],
                             "brand": "Samsung"
                         },
@@ -740,7 +672,7 @@ const data = {
                             "description_ar": "CRISP DETAIL, CLEAR DISPLAY: Enjoy binge-watching on a clear, 6.4 screen* that provides a smooth entertainment experience; Scroll through social feeds and watch action-packed movies, catching all the details you need on your Galaxy A54 5G.Form Factor : Touch BarPRO SHOTS WITH EASE: Brilliant sunrises, awesome selfies — capture incredible content with Galaxy A54 5G; Snap clear images with Single Take** and OIS, and even take shots in low light with Nightography",
                             "description_en": "CRISP DETAIL, CLEAR DISPLAY: Enjoy binge-watching on a clear, 6.4 screen* that provides a smooth entertainment experience; Scroll through social feeds and watch action-packed movies, catching all the details you need on your Galaxy A54 5G.Form Factor : Touch BarPRO SHOTS WITH EASE: Brilliant sunrises, awesome selfies — capture incredible content with Galaxy A54 5G; Snap clear images with Single Take** and OIS, and even take shots in low light with Nightography",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718787742948.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFpWPEAM8WtfFEeVfCmtEKSigzS0eb949EwQ&s",
                             "price": "19000",
                             "quantity": "10",
                             "unit": [
@@ -751,14 +683,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787742590.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787742618.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787742421.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787742464.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187877431716.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187877431305.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787743371.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787743662.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpajxMxFPVMhgDiTtw5SuiIkt9z33O1SCXDTnoB8qu6fXp1ZPDzX1CxubemuMVjncjDx8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPJJXJzOs7HJtk69s3pWqizq7IkvJdh_v4dJeVu2y6deOdqzxdadTp8Y-eRDYwr3ozNY&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -769,7 +695,7 @@ const data = {
                             "description_ar": "Includes 1 year limited manufacturer warranty THEY SAY “HOLA,” YOU HEAR “HELLO”: Now you can communicate freely with someone in another language; Use the Interpreter feature on your Galaxy phone to hear real-time translations through your Galaxy Buds during face-to-face conversations¹ PHONE TO EAR, TRANSLATIONS YOU HEAR: Phoning a relative back home or calling in reservations while traveling , break down language barriers w/ Galaxy Buds & Live Translate; Using the Samsung Phone app, hear real-time translations through your Buds¹ YOUR EARS NEVER HAD IT SO GOOD: Take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band.Note: If earbud tips do not match the size of your ear canals or headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance; Change the earbud tips to ones that fit more snugly in your ears TUNE OUT NOISES, TUNE IN VOICES: Active Noise Cancellation blocks out unwanted sounds, helping you keep your focus wherever you are;",
                             "description_en": "Includes 1 year limited manufacturer warranty THEY SAY “HOLA,” YOU HEAR “HELLO”: Now you can communicate freely with someone in another language; Use the Interpreter feature on your Galaxy phone to hear real-time translations through your Galaxy Buds during face-to-face conversations¹ PHONE TO EAR, TRANSLATIONS YOU HEAR: Phoning a relative back home or calling in reservations while traveling , break down language barriers w/ Galaxy Buds & Live Translate; Using the Samsung Phone app, hear real-time translations through your Buds¹ YOUR EARS NEVER HAD IT SO GOOD: Take your passion for music to new heights with booming sound that makes you feel like you're on stage with your favorite band.Note: If earbud tips do not match the size of your ear canals or headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance; Change the earbud tips to ones that fit more snugly in your ears TUNE OUT NOISES, TUNE IN VOICES: Active Noise Cancellation blocks out unwanted sounds, helping you keep your focus wherever you are;",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718787876492.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc6Z61CdXucYUOAlco6hkwr4u_XV5Nts8MIQ&s",
                             "price": "5000",
                             "quantity": "2",
                             "unit": [
@@ -780,11 +706,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787876403.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718787876411.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187878761683.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187878777.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187878771047.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG2iNZQ_dg2Bhe9aMQMr4U4iwp-UCfIO8l4pbg38tNHC4uMZEUEgk00E2b6SNrz17lPmA&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbIN4WRvCoqd9yLDHTuuRl2xwHe1va030CojZDIshKp1BhsuSjAVkQd_l7i4x6A1p83Co&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -795,7 +718,7 @@ const data = {
                             "description_ar": "AIRSLIM: This TV blends right into your wall with a slim design; It brings clutter-free minimalism to the room without distracting you from what you watch 4K UPSCALING: Get a clearer picture for more of your shows and videos; 4K Upscaling transforms each pixel for improved content MOTION XCELERATOR: Watch your content smoothly while experiencing less lag and blur. It improves motion¹ between frames so you have a seamless picture MEGA CONTRAST: Automatically adjusts the brightness and contrast; It reduces the difference between light and dark areas so that objects on screen stand out more",
                             "description_en": "AIRSLIM: This TV blends right into your wall with a slim design; It brings clutter-free minimalism to the room without distracting you from what you watch 4K UPSCALING: Get a clearer picture for more of your shows and videos; 4K Upscaling transforms each pixel for improved content MOTION XCELERATOR: Watch your content smoothly while experiencing less lag and blur. It improves motion¹ between frames so you have a seamless picture MEGA CONTRAST: Automatically adjusts the brightness and contrast; It reduces the difference between light and dark areas so that objects on screen stand out more",
                             "rate": 4.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718788007133.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/4188FL+QSxL.jpg",
                             "price": "32000",
                             "quantity": "6",
                             "unit": [
@@ -806,14 +729,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718788007214.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187880071362.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718788007543.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718788008497.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187880081466.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718788008863.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187880081557.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718788008789.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGHysTfcjDqeDs-WqGxxdA02mPVnuiDOybVZDbAxH0SagxqzPmpb7LZ2NkCKopAEfX-rs&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ1G2oL8yI8ygq2B0wUVH1tkWlVBGCDQC0B-9XM8zFzAXsBeppVr1eM4K7kmaqKltrKds&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -1046,7 +963,7 @@ const data = {
                             "description_ar": "[Ultra-thin Simple Design]: Features an ultra-thin 6.7 mm thickness dial with a rounded black lines watch case, minimalist style appearance, unique and eye-catching. [Unisex Fashion Wrist Watch]: Classic black dial with elegant rose gold time marks and a small date window, suitable for both men and women. [High Quality Material]: Soft and comfortable leather strap with belt buckle, durable and exquisite, scratch-resistant crystal mirrors, and easy-to-adjust leather strap. [Waterproof]: Daily waterproof, splash/rain resistant (except sauna, bathing, diving). Unique Design: Features a simple and exquisite double-hand design, providing a clear reading experience with simplified hour and minute hands display.",
                             "description_en": "[Ultra-thin Simple Design]: Features an ultra-thin 6.7 mm thickness dial with a rounded black lines watch case, minimalist style appearance, unique and eye-catching. [Unisex Fashion Wrist Watch]: Classic black dial with elegant rose gold time marks and a small date window, suitable for both men and women. [High Quality Material]: Soft and comfortable leather strap with belt buckle, durable and exquisite, scratch-resistant crystal mirrors, and easy-to-adjust leather strap. [Waterproof]: Daily waterproof, splash/rain resistant (except sauna, bathing, diving). Unique Design: Features a simple and exquisite double-hand design, providing a clear reading experience with simplified hour and minute hands display.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719370656108.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uKeRA3Nn3ZQ_j-d4YltR7SIHay3xWO2GGg&s",
                             "price": "2670",
                             "quantity": "13",
                             "unit": [
@@ -1057,12 +974,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370656272.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193706561155.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193706561659.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193706561561.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193706561706.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193706561721.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-vol0jq0gucoln7eFDjZE9n8SkFgGjxjNYqychERWhwfSVj1_Di8lfacHXmrRh4D6Bv4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7E5TCDiNmHoDDkDgBYUw8H1Q2nyaJnZmqGwKEXwbBYm38wC60RRE6SWlXXepbSK2D34k&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfi2cxk2MkuRzlm3xapulmsZYGuDZ8i7N9TIfgM2aV5t8DRbKingUIKihkGRf5YA1x00k&usqp=CAU"
                             ],
                             "brand": "BEN NEVIS"
                         },
@@ -1083,13 +997,16 @@ const data = {
                             "name_en": "Good",
                             "description_en": "Good Life Whole Moong is one of the light meal to digest. It is often given to people who prefer diet for fitness. It contains antioxidants which are very healthy for the good functioning of the human body. It can be included in our daily diet as it can fulfil the nutritional and dietary requirements of an entire meal. Buy Good Life Whole Moong online now!",
                             "rate": 3.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183316691630.png",
+                            "photo": "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-product-images-o491187309-p491187309-0-202308311426.jpg",
                             "price": "20",
                             "quantity": "10",
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17183316691118.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171833166996.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718331669239.png",
+                                "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-product-images-o491187309-p491187309-0-202308311426.jpg",
+                  "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-product-images-o491187309-p491187309-1-202308311426.jpg",
+                  "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-product-images-o491187309-p491187309-2-202308311426.jpg",
+                  "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-product-images-o491187309-p491187309-3-202308311426.jpg",
+                  "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-product-images-o491187309-p491187309-4-202308311426.jpg",
+                  "https://www.jiomart.com/images/product/original/491187309/good-life-whole-moong-500-g-legal-images-o491187309-p491187309-5-202308311427.jpg"
                             ],
                             "brand": "AASHIRVAAD",
 
@@ -1099,14 +1016,14 @@ const data = {
                             "name_en": "Moong",
                             "description_en": "Moong Dal is essentially packed with loads of nutrients that are extremely beneficial for your health. Moong contains almost every important element that your body might need. Buy Moong Dal online today.",
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183338851610.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491432711/moong-dal-2-kg-product-images-o491432711-p491432711-0-202205191636.jpg",
                             "price": "246",
                             "quantity": "20",
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718333886252.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718333886611.png",
-                                "https://www.jiomart.com/images/product/original/491432711/moong-dal-2-kg-legal-images-o491432711-p491432711-3-202205191636.jpg"
-                            ],
+                               "https://www.jiomart.com/images/product/original/491432711/moong-dal-2-kg-product-images-o491432711-p491432711-0-202205191636.jpg",
+                  "https://www.jiomart.com/images/product/original/491432711/moong-dal-2-kg-product-images-o491432711-p491432711-1-202205191636.jpg",
+                  "https://www.jiomart.com/images/product/original/491432711/moong-dal-2-kg-legal-images-o491432711-p491432711-3-202205191636.jpg"
+                ],
                             "brand": "Private Label",
 
                         },
@@ -1115,16 +1032,16 @@ const data = {
                             "name_en": "Good",
                             "description_en": "Good Life Raw Peanuts is a healthy snack and the right choice for you. You can easily roast them at home. They are loaded with the goodness of health and taste. Peanut butter made with Peanuts clearly works well in sweet dishes, like cookies and brownies, which is why it pairs well with other sweeter foods like sweet potato. Buy Good Life Raw Peanuts online now!",
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718334379617.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-0-202306102242.jpg",
                             "price": "89",
                             "quantity": "30",
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17183343791612.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718334379566.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718334379851.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718334379952.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17183343791858.jpg"
-                            ],
+                                "https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-0-202306102242.jpg",
+                  "https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-2-202306102242.jpg",
+                  "https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-3-202306102243.jpg",
+                  "https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-4-202306102243.jpg",
+                  "https://www.jiomart.com/images/product/original/491278616/good-life-raw-peanuts-500-g-product-images-o491278616-p491278616-5-202306102243.jpg"
+                ],
                             "brand": "Good Life",
 
                         },
@@ -1133,15 +1050,15 @@ const data = {
                             "name_en": "Tata",
                             "description_en": "Moong Dal is procured from reliable and high-quality sources. The beans are best consumed after being sprouted. Dosa with the whole moong also turns out to be yummy, another exotic way to eat moong is to eat it as a korma which is spiced up with tangy tomatoes and a cashew paste. It is mainly used as the base for curries such as sambar, dal, etc. Buy Tata Sampann Unpolished Chilka Moong online now!",
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718334739194.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/490830947/tata-sampann-high-protein-unpolished-chilka-moong-500-g-product-images-o490830947-p490830947-0-202203150526.jpg",
                             "price": "74",
                             "quantity": "15",
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17183347391268.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1718334739446.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17183347391886.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17183347391334.jpg"
-                            ],
+                                "https://www.jiomart.com/images/product/original/490830947/tata-sampann-high-protein-unpolished-chilka-moong-500-g-product-images-o490830947-p490830947-0-202203150526.jpg",
+                  "https://www.jiomart.com/images/product/original/490830947/tata-sampann-high-protein-unpolished-chilka-moong-500-g-product-images-o490830947-p490830947-1-202203150526.jpg",
+                  "https://www.jiomart.com/images/product/original/490830947/tata-sampann-high-protein-unpolished-chilka-moong-500-g-legal-images-o490830947-p490830947-2-202203150526.jpg",
+                  "https://www.jiomart.com/images/product/original/490830947/tata-sampann-high-protein-unpolished-chilka-moong-500-g-legal-images-o490830947-p490830947-5-202203150526.jpg"
+                ],
                             "brand": "Tata Sampann",
 
                         },
@@ -1152,7 +1069,7 @@ const data = {
                             "description_ar": "<p>Good life Moong Dal is procured from reliable and high-quality sources. The beans are best consumed after being sprouted. Dosa with whole moong also turns out to be yummy, another exotic way to eat moong is to eat it as a korma which is spiced up with tangy tomatoes and a cashew paste. It is mainly used as the base for curries such as sambar, dal etc. Buy Good Life Moong Dal online now!<br></p>",
                             "description_en": "<p>Good life Moong Dal is procured from reliable and high-quality sources. The beans are best consumed after being sprouted. Dosa with whole moong also turns out to be yummy, another exotic way to eat moong is to eat it as a korma which is spiced up with tangy tomatoes and a cashew paste. It is mainly used as the base for curries such as sambar, dal etc. Buy Good Life Moong Dal online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718334969323.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491187257/good-life-moong-dal-1-kg-product-images-o491187257-p491187257-0-202301171616.jpg",
                             "price": "145",
                             "quantity": "12",
                             "unit": [
@@ -1163,52 +1080,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 15,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183349691802.jpg"
-                                },
-                                {
-                                    "id": 16,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183349701413.jpg"
-                                },
-                                {
-                                    "id": 17,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718334970391.jpg"
-                                },
-                                {
-                                    "id": 12,
-                                    "name_ar": "Fortune Soya Wadi / Chunks",
-                                    "name_en": "Fortune Soya Wadi / Chunks",
-                                    "description_ar": "<p>Fortune Soya Wadi / Chunks are light, soft and easy on your stomach. Does your family need champion wala dum aur yum? From biryanis to pulao and even Chinese fried rice, cooked soya chunks can be added to numerous rice dishes. Fortune Soya Chunk - ''Yum jo de champion ko dum'', so buy Fortune Soya Wadi / Chunks online now!<br></p>",
-                                    "description_en": "<p>Fortune Soya Wadi / Chunks are light, soft and easy on your stomach. Does your family need champion wala dum aur yum? From biryanis to pulao and even Chinese fried rice, cooked soya chunks can be added to numerous rice dishes. Fortune Soya Chunk - ''Yum jo de champion ko dum'', so buy Fortune Soya Wadi / Chunks online now!<br></p>",
-                                    "rate": null,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/17183360371972.jpg",
-                                    "price": "139",
-                                    "quantity": "100",
-                                    "unit": [
-                                        {
-                                            "id": 1,
-                                            "name_en": "zevizuwyb@mailinator.com",
-                                            "name_ar": "Kylynn Carroll"
-                                        }
-                                    ],
-                                    "images": [
-                                        {
-                                            "id": 23,
-                                            "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336037184.jpg"
-                                        },
-                                        {
-                                            "id": 24,
-                                            "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336037333.jpg"
-                                        },
-                                        {
-                                            "id": 25,
-                                            "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183360371393.jpg"
-                                        }
-                                    ],
-                                    "brand": "Fortune"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491187257/good-life-moong-dal-1-kg-product-images-o491187257-p491187257-0-202301171616.jpg",
+                  "https://www.jiomart.com/images/product/original/491187257/good-life-moong-dal-1-kg-product-images-o491187257-p491187257-1-202301171616.jpg",
+                  "https://www.jiomart.com/images/product/original/491187257/good-life-moong-dal-1-kg-legal-images-o491187257-p491187257-2-202301171616.jpg"
+                ],
                             "brand": "Good Life"
                         },
                         {
@@ -1218,7 +1093,7 @@ const data = {
                             "description_ar": "<p>Fortune Soya Wadi / Chunks are light, soft and easy on your stomach. Does your family need champion wala dum aur yum? From biryanis to pulao and even Chinese fried rice, cooked soya chunks can be added to numerous rice dishes. Fortune Soya Chunk - ''Yum jo de champion ko dum'', so buy Fortune Soya Wadi / Chunks online now!<br></p>",
                             "description_en": "<p>Fortune Soya Wadi / Chunks are light, soft and easy on your stomach. Does your family need champion wala dum aur yum? From biryanis to pulao and even Chinese fried rice, cooked soya chunks can be added to numerous rice dishes. Fortune Soya Chunk - ''Yum jo de champion ko dum'', so buy Fortune Soya Wadi / Chunks online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183360371972.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491161236/fortune-soya-wadi-chunks-1-kg-product-images-o491161236-p491161236-0-202303181437.jpg",
                             "price": "139",
                             "quantity": "100",
                             "unit": [
@@ -1229,19 +1104,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 23,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336037184.jpg"
-                                },
-                                {
-                                    "id": 24,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336037333.jpg"
-                                },
-                                {
-                                    "id": 25,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183360371393.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491161236/fortune-soya-wadi-chunks-1-kg-product-images-o491161236-p491161236-0-202303181437.jpg",
+                                "https://www.jiomart.com/images/product/original/491161236/fortune-soya-wadi-chunks-1-kg-product-images-o491161236-p491161236-1-202303181437.jpg",
+                                "https://www.jiomart.com/images/product/original/491161236/fortune-soya-wadi-chunks-1-kg-legal-images-o491161236-p491161236-4-202303181437.jpg"
+                              ],
                             "brand": "Fortune"
                         }
                     ]
@@ -1257,7 +1123,7 @@ const data = {
                             "description_ar": "<p>Ghee is a class of clarified butter that originated in ancient India. It is commonly used in Indian cooking. Gowardhan Pure Cow Ghee can be swapped for vegetable oil or coconut oil in baked goods or can be used for deep-frying. Or simply melt it and spread it on roti, or pour it on vegetables/dal before serving. So go ahead and buy this product online today!<br></p>",
                             "description_en": "<p>Ghee is a class of clarified butter that originated in ancient India. It is commonly used in Indian cooking. Gowardhan Pure Cow Ghee can be swapped for vegetable oil or coconut oil in baked goods or can be used for deep-frying. Or simply melt it and spread it on roti, or pour it on vegetables/dal before serving. So go ahead and buy this product online today!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183364731679.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-0-202203170210.jpg",
                             "price": "676",
                             "quantity": "20",
                             "unit": [
@@ -1268,22 +1134,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 26,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336473429.jpg"
-                                },
-                                {
-                                    "id": 27,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336473784.jpg"
-                                },
-                                {
-                                    "id": 28,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183364731686.jpg"
-                                },
-                                {
-                                    "id": 29,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183364731139.jpg"
-                                }
+                               "https://www.jiomart.com/images/product/original/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-0-202203170210.jpg",
+                  "https://www.jiomart.com/images/product/original/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-1-202203170210.jpg",
+                  "https://www.jiomart.com/images/product/original/490489040/gowardhan-pure-cow-ghee-1-l-jar-product-images-o490489040-p490489040-2-202203170210.jpg",
+                  "https://www.jiomart.com/images/product/original/490489040/gowardhan-pure-cow-ghee-1-l-jar-legal-images-o490489040-p490489040-5-202203170210.jpg"
                             ],
                             "brand": "Gowardhan"
                         },
@@ -1299,7 +1153,7 @@ const data = {
                             "description_ar": "ANGUR TOOR DAL: Toor Dal (split yellow peas) is a mainstay of Indian cuisine. Related to lentils (pulses) and rich in natural nutrients, these delicious legumes are an excellent source of protein, minerals, and B vitamins.ADDS FLAVORFUL PROTEIN: Split yellow peas are an excellent, flavorful protein alternative for any meal. Use as a base or add Toor Dals to your favorite Indian dishes, including curries, soups, stews, salads, and more!",
                             "description_en": "ANGUR TOOR DAL: Toor Dal (split yellow peas) is a mainstay of Indian cuisine. Related to lentils (pulses) and rich in natural nutrients, these delicious legumes are an excellent source of protein, minerals, and B vitamins.ADDS FLAVORFUL PROTEIN: Split yellow peas are an excellent, flavorful protein alternative for any meal. Use as a base or add Toor Dals to your favorite Indian dishes, including curries, soups, stews, salads, and more!",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718335525727.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/490440207/nestle-everyday-ghee-1-l-carton-product-images-o490440207-p490440207-0-202203141958.jpg",
                             "price": "999",
                             "quantity": "9",
                             "unit": [
@@ -1310,27 +1164,12 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 18,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183355251377.jpg"
-                                },
-                                {
-                                    "id": 19,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718335525421.jpg"
-                                },
-                                {
-                                    "id": 20,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718335525528.jpg"
-                                },
-                                {
-                                    "id": 21,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183355251400.jpg"
-                                },
-                                {
-                                    "id": 22,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183355251769.jpg"
-                                }
-                            ],
+                               "https://www.jiomart.com/images/product/original/490440207/nestle-everyday-ghee-1-l-carton-product-images-o490440207-p490440207-0-202203141958.jpg",
+                  "https://www.jiomart.com/images/product/original/490440207/nestle-everyday-ghee-1-l-carton-product-images-o490440207-p490440207-1-202203141958.jpg",
+                  "https://www.jiomart.com/images/product/original/490440207/nestle-everyday-ghee-1-l-carton-product-images-o490440207-p490440207-2-202203141958.jpg",
+                  "https://www.jiomart.com/images/product/original/490440207/nestle-everyday-ghee-1-l-carton-product-images-o490440207-p490440207-3-202203141958.jpg",
+                  "https://www.jiomart.com/images/product/original/490440207/nestle-everyday-ghee-1-l-carton-product-images-o490440207-p490440207-4-202203141958.jpg"
+                ],
                             "brand": "Angur"
                         },
                         {
@@ -1340,7 +1179,7 @@ const data = {
                             "description_ar": "<p>Aashirvaad Superior MP Whole Wheat Atta provides goodness of taste in every bite. Also, it has a sweet and aromatic taste that works together to give you fuller and softer rotis, every single time. Buy Aashirvaad Superior MP Whole Wheat Atta online now!<br></p>",
                             "description_en": "<p>Aashirvaad Superior MP Whole Wheat Atta provides goodness of taste in every bite. Also, it has a sweet and aromatic taste that works together to give you fuller and softer rotis, every single time. Buy Aashirvaad Superior MP Whole Wheat Atta online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183368011389.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491135471/amul-cow-ghee-1-l-pouch-product-images-o491135471-p491135471-0-202203170918.jpg",
                             "price": "320",
                             "quantity": "32",
                             "unit": [
@@ -1351,19 +1190,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 30,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336801246.jpg"
-                                },
-                                {
-                                    "id": 31,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183368011476.jpg"
-                                },
-                                {
-                                    "id": 32,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718336801671.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491135471/amul-cow-ghee-1-l-pouch-product-images-o491135471-p491135471-0-202203170918.jpg",
+                  "https://www.jiomart.com/images/product/original/491135471/amul-cow-ghee-1-l-pouch-product-images-o491135471-p491135471-1-202203170918.jpg",
+                  "https://www.jiomart.com/images/product/original/491135471/amul-cow-ghee-1-l-pouch-legal-images-o491135471-p491135471-2-202203170918.jpg"
+                ],
                             "brand": "AASHIRVAAD"
                         },
                         {
@@ -1373,7 +1203,7 @@ const data = {
                             "description_ar": "<p>Aashirvaad ensures that only superior quality ingredients reach your kitchen and Aashirvaad Select Sharbati stays true to that word. Made from the King of Wheat Sharbati, Aashirvaad Select is a premium quality aata which is made with love in India. This sharbati wheat flour contains MP Sharbati wheat from the select regions of Madhya Pradesh. The grains of sharabati atta are consistent in size and have a golden sheen to it. The dough made from the King of Wheat Sharbati, absorbs more water which leads to the rotis being sweet in taste and softer in texture. Buy Aashirvaad Select Sharbati Whole Wheat Atta now!<br></p>",
                             "description_en": "<p>Aashirvaad ensures that only superior quality ingredients reach your kitchen and Aashirvaad Select Sharbati stays true to that word. Made from the King of Wheat Sharbati, Aashirvaad Select is a premium quality aata which is made with love in India. This sharbati wheat flour contains MP Sharbati wheat from the select regions of Madhya Pradesh. The grains of sharabati atta are consistent in size and have a golden sheen to it. The dough made from the King of Wheat Sharbati, absorbs more water which leads to the rotis being sweet in taste and softer in texture. Buy Aashirvaad Select Sharbati Whole Wheat Atta now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/171833712934.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/490750659/aashirvaad-superior-mp-whole-wheat-atta-1-kg-product-images-o490750659-p590150646-0-202203150622.jpg",
                             "price": "350",
                             "quantity": "15",
                             "unit": [
@@ -1384,23 +1214,12 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 33,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/171833712983.jpg"
-                                },
-                                {
-                                    "id": 34,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183371291256.jpg"
-                                },
-                                {
-                                    "id": 35,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183371291237.jpg"
-                                },
-                                {
-                                    "id": 36,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718337129937.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/490750659/aashirvaad-superior-mp-whole-wheat-atta-1-kg-product-images-o490750659-p590150646-0-202203150622.jpg",
+                  "https://www.jiomart.com/images/product/original/490750659/aashirvaad-superior-mp-whole-wheat-atta-1-kg-product-images-o490750659-p590150646-1-202203150622.jpg",
+                  "https://www.jiomart.com/images/product/original/490750659/aashirvaad-superior-mp-whole-wheat-atta-1-kg-legal-images-o490750659-p590150646-2-202203150622.jpg",
+                  "https://www.jiomart.com/images/product/original/490750659/aashirvaad-superior-mp-whole-wheat-atta-1-kg-legal-images-o490750659-p590150646-3-202203150622.jpg",
+                  "https://www.jiomart.com/images/product/original/490750659/aashirvaad-superior-mp-whole-wheat-atta-1-kg-legal-images-o490750659-p590150646-4-202203150622.jpg"
+                ],
                             "brand": "AASHIRVAAD"
                         },
                         {
@@ -1410,7 +1229,7 @@ const data = {
                             "description_ar": "<p>Chakki Atta is freshly made from the choicest grains. It is carefully ground using modern chakki technique. It is used to make a wide range of foods including bread, crumpets, muffins, noodles, pasta, biscuits, cakes, pastries, cereal bars, sweet and savoury snack foods, crackers, crisp-breads, sauces and confectioner. Buy Chakki Atta online now!<br></p>",
                             "description_en": "<p>Chakki Atta is freshly made from the choicest grains. It is carefully ground using modern chakki technique. It is used to make a wide range of foods including bread, crumpets, muffins, noodles, pasta, biscuits, cakes, pastries, cereal bars, sweet and savoury snack foods, crackers, crisp-breads, sauces and confectioner. Buy Chakki Atta online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718337473408.png",
+                            "photo": "https://www.jiomart.com/images/product/original/490750660/aashirvaad-superior-mp-whole-wheat-atta-2-kg-product-images-o490750660-p590150647-0-202203170807.jpg",
                             "price": "400",
                             "quantity": "112",
                             "unit": [
@@ -1421,15 +1240,11 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 37,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183374731380.png"
-                                },
-                                {
-                                    "id": 38,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718337473510.png"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/490750660/aashirvaad-superior-mp-whole-wheat-atta-2-kg-product-images-o490750660-p590150647-0-202203170807.jpg",
+                  "https://www.jiomart.com/images/product/original/490750660/aashirvaad-superior-mp-whole-wheat-atta-2-kg-product-images-o490750660-p590150647-1-202203170807.jpg",
+                  "https://www.jiomart.com/images/product/original/490750660/aashirvaad-superior-mp-whole-wheat-atta-2-kg-legal-images-o490750660-p590150647-2-202203170807.jpg",
+                  "https://www.jiomart.com/images/product/original/490750660/aashirvaad-superior-mp-whole-wheat-atta-2-kg-legal-images-o490750660-p590150647-3-202203170807.jpg"
+                ],
                             "brand": "Private Label"
                         },
                         {
@@ -1439,7 +1254,7 @@ const data = {
                             "description_ar": "<p>Fortune Suji / Semolina commonly called as wheat rawa is used as a batter ingredient as well as to make various other food items like upma and sheera. It is coarse in texture and is made of wheat. It is a versatile ingredient and easy to cook. It makes a perfect food for breakfast. Buy Fortune Suji / Semolina online now!<br></p>",
                             "description_en": "<p>Fortune Suji / Semolina commonly called as wheat rawa is used as a batter ingredient as well as to make various other food items like upma and sheera. It is coarse in texture and is made of wheat. It is a versatile ingredient and easy to cook. It makes a perfect food for breakfast. Buy Fortune Suji / Semolina online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183378711268.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491695704/fortune-suji-semolina-500-g-product-images-o491695704-p590040931-0-202305191005.jpg",
                             "price": "26",
                             "quantity": "122",
                             "unit": [
@@ -1450,19 +1265,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 39,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183378711287.jpg"
-                                },
-                                {
-                                    "id": 40,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718337871971.jpg"
-                                },
-                                {
-                                    "id": 41,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183378711276.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491695704/fortune-suji-semolina-500-g-product-images-o491695704-p590040931-0-202305191005.jpg",
+                  "https://www.jiomart.com/images/product/original/491695704/fortune-suji-semolina-500-g-product-images-o491695704-p590040931-1-202305191005.jpg",
+                  "https://www.jiomart.com/images/product/original/491695704/fortune-suji-semolina-500-g-legal-images-o491695704-p590040931-2-202305191005.jpg"
+                ],
                             "brand": "Fortune"
                         },
                     ]
@@ -1477,7 +1283,7 @@ const data = {
                             "description_ar": "<p>Maggi Masala Ae Magic is that secret spice that instantly enhances the taste and aroma of any dish. Just add a teaspoon of this spice to flavoured rice, vegetable dishes, salads and snacks to make them flavoursome. Buy Maggi Masala Ae Magic online now!<br></p>",
                             "description_en": "<p>Maggi Masala Ae Magic is that secret spice that instantly enhances the taste and aroma of any dish. Just add a teaspoon of this spice to flavoured rice, vegetable dishes, salads and snacks to make them flavoursome. Buy Maggi Masala Ae Magic online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183628741332.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491185109/good-life-jeera-100-g-product-images-o491185109-p491185109-0-202306131531.jpg",
                             "price": "200",
                             "quantity": "50",
                             "unit": [
@@ -1488,23 +1294,11 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 42,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718362874800.jpg"
-                                },
-                                {
-                                    "id": 43,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718362874172.jpg"
-                                },
-                                {
-                                    "id": 44,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718362874260.jpg"
-                                },
-                                {
-                                    "id": 45,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718362874173.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491185109/good-life-jeera-100-g-product-images-o491185109-p491185109-0-202306131531.jpg",
+                  "https://www.jiomart.com/images/product/original/491185109/good-life-jeera-100-g-product-images-o491185109-p491185109-1-202306131531.jpg",
+                  "https://www.jiomart.com/images/product/original/491185109/good-life-jeera-100-g-product-images-o491185109-p491185109-2-202306131531.jpg",
+                  "https://www.jiomart.com/images/product/original/491185109/good-life-jeera-100-g-legal-images-o491185109-p491185109-3-202306131531.jpg"
+                ],
                             "brand": "Maggi"
                         },
                         {
@@ -1514,7 +1308,7 @@ const data = {
                             "description_ar": "<p>Hing (Asafoetida) has a slightly pungent smell but when added to pickles and curries it gives a delectable flavour. A tinge of Hing can turn your food more flavourful. The product helps in easy digestion too. Good Life Compounded Hing Powder serves as an ideal choice for all your cooking needs. Buy this product online today.<br></p>",
                             "description_en": "<p>Hing (Asafoetida) has a slightly pungent smell but when added to pickles and curries it gives a delectable flavour. A tinge of Hing can turn your food more flavourful. The product helps in easy digestion too. Good Life Compounded Hing Powder serves as an ideal choice for all your cooking needs. Buy this product online today.<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718363282661.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491279754/good-life-compounded-hing-powder-50-g-product-images-o491279754-p491279754-0-202205180454.jpg",
                             "price": "55",
                             "quantity": "26",
                             "unit": [
@@ -1525,19 +1319,11 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 46,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718363282736.jpg"
-                                },
-                                {
-                                    "id": 47,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718363282866.jpg"
-                                },
-                                {
-                                    "id": 48,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718363283960.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491279754/good-life-compounded-hing-powder-50-g-product-images-o491279754-p491279754-0-202205180454.jpg",
+                  "https://www.jiomart.com/images/product/original/491279754/good-life-compounded-hing-powder-50-g-product-images-o491279754-p491279754-1-202205180454.jpg",
+                  "https://www.jiomart.com/images/product/original/491279754/good-life-compounded-hing-powder-50-g-product-images-o491279754-p491279754-2-202205180454.jpg",
+                  "https://www.jiomart.com/images/product/original/491279754/good-life-compounded-hing-powder-50-g-product-images-o491279754-p491279754-3-202205180454.jpg"
+                ],
                             "brand": "Good Life"
                         },
                         {
@@ -1547,7 +1333,7 @@ const data = {
                             "description_ar": "<p>Cumin Seed Whole (Jeera), Natural. Cumin seeds are commonly used in Indian and South Asian cooking, as well as Mexican cuisine. They have a warm and aromatic flavor that resembles curry powder. The seeds are used as a key ingredient in Indian food, but can also be added to soups or sauces for flavoring purposes. The aromatic seed like fruit is elongated, ovoid, 3-6 mm long, slingtly bitter and has a warm flavour The flowers are white or rose coloured in small umbels.<br></p>",
                             "description_en": "<p>Cumin Seed Whole (Jeera), Natural. Cumin seeds are commonly used in Indian and South Asian cooking, as well as Mexican cuisine. They have a warm and aromatic flavor that resembles curry powder. The seeds are used as a key ingredient in Indian food, but can also be added to soups or sauces for flavoring purposes. The aromatic seed like fruit is elongated, ovoid, 3-6 mm long, slingtly bitter and has a warm flavour The flowers are white or rose coloured in small umbels.<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718363688175.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/rvahttucjx/veedint-cumin-seeds-jeera-whole-cumin-seed-whole-1-kg-pack-product-images-orvahttucjx-p601512221-0-202305151313.jpg",
                             "price": "180",
                             "quantity": "123",
                             "unit": [
@@ -1558,19 +1344,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 49,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718363688302.jpg"
-                                },
-                                {
-                                    "id": 50,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183636881016.jpg"
-                                },
-                                {
-                                    "id": 51,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183636881364.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/rvahttucjx/veedint-cumin-seeds-jeera-whole-cumin-seed-whole-1-kg-pack-product-images-orvahttucjx-p601512221-0-202305151313.jpg",
+                  "https://www.jiomart.com/images/product/original/rvahttucjx/veedint-cumin-seeds-jeera-whole-cumin-seed-whole-1-kg-pack-product-images-orvahttucjx-p601512221-1-202305151313.jpg",
+                  "https://www.jiomart.com/images/product/original/rvahttucjx/veedint-cumin-seeds-jeera-whole-cumin-seed-whole-1-kg-pack-product-images-orvahttucjx-p601512221-2-202305151313.jpg"
+                ],
                             "brand": "Veedint"
                         },
                         {
@@ -1580,7 +1357,7 @@ const data = {
                             "description_ar": "<p>Cumin seeds or Jeera is an essential spice that is used for tempering dishes with a strong taste and aroma. It offers a sturdy, exclusive and soothing piquancy and aroma to the dishes. It's not only known for its flavour enhancing quality but also for its health benefits. Add an extra pinch of taste to your dish with Organic Tattva Cumin Seeds. So go ahead and buy this product online today.<br></p>",
                             "description_en": "<p>Cumin seeds or Jeera is an essential spice that is used for tempering dishes with a strong taste and aroma. It offers a sturdy, exclusive and soothing piquancy and aroma to the dishes. It's not only known for its flavour enhancing quality but also for its health benefits. Add an extra pinch of taste to your dish with Organic Tattva Cumin Seeds. So go ahead and buy this product online today.<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183640431352.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491229671/organic-tattva-cumin-seeds-100-g-product-images-o491229671-p491229671-0-202206021941.jpg",
                             "price": "88",
                             "quantity": "11",
                             "unit": [
@@ -1591,15 +1368,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 52,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718364043747.jpg"
-                                },
-                                {
-                                    "id": 53,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718364043134.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491229671/organic-tattva-cumin-seeds-100-g-product-images-o491229671-p491229671-0-202206021941.jpg",
+                  "https://www.jiomart.com/images/product/original/491229671/organic-tattva-cumin-seeds-100-g-product-images-o491229671-p491229671-1-202206021941.jpg"
+                ],
                             "brand": "Organic Tattva"
                         },
                         {
@@ -1609,7 +1380,7 @@ const data = {
                             "description_ar": "<p>Green Elaichi or Green Cardamom is also known as the 'Queen of Spices'. It is the most common spice used in a variety of sweet and savoury dishes. It is also added to tea and coffee for its unique fragrance and flavour. Buy Lotus Spices Green Elaichi online today!<br></p>",
                             "description_en": "<p>Green Elaichi or Green Cardamom is also known as the 'Queen of Spices'. It is the most common spice used in a variety of sweet and savoury dishes. It is also added to tea and coffee for its unique fragrance and flavour. Buy Lotus Spices Green Elaichi online today!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183644191922.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/493072642/lotus-spices-green-elaichi-15-g-product-images-o493072642-p593731219-0-202304291358.jpg",
                             "price": "32",
                             "quantity": "19",
                             "unit": [
@@ -1620,15 +1391,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 54,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183644191532.jpg"
-                                },
-                                {
-                                    "id": 55,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183644191028.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/493072642/lotus-spices-green-elaichi-15-g-product-images-o493072642-p593731219-0-202304291358.jpg",
+                  "https://www.jiomart.com/images/product/original/493072642/lotus-spices-green-elaichi-15-g-product-images-o493072642-p593731219-1-202304291358.jpg"
+                ],
                             "brand": "Lotus"
                         }
                     ]
@@ -1643,7 +1408,7 @@ const data = {
                             "description_ar": "Poha (Rice Flakes) is a popular Indian breakfast, especially for those who are on a weight watch. It is made from beaten rice. Serve a hot plate of delicious poha topped with bhujia and coriander, along with a bowl of green chutney for your breakfast or snack time. Buy Tata Sampann White Poha online now!<br>",
                             "description_en": "<p>Poha (Rice Flakes) is a popular Indian breakfast, especially for those who are on a weight watch. It is made from beaten rice. Serve a hot plate of delicious poha topped with bhujia and coriander, along with a bowl of green chutney for your breakfast or snack time. Buy Tata Sampann White Poha online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718364657602.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491614721/tata-sampann-white-poha-500-g-product-images-o491614721-p491614721-0-202203150346.jpg",
                             "price": "140",
                             "quantity": "22",
                             "unit": [
@@ -1654,15 +1419,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 56,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183646571117.jpg"
-                                },
-                                {
-                                    "id": 57,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183646571423.jpg"
-                                }
-                            ],
+                               "https://www.jiomart.com/images/product/original/491614721/tata-sampann-white-poha-500-g-product-images-o491614721-p491614721-0-202203150346.jpg",
+                  "https://www.jiomart.com/images/product/original/491614721/tata-sampann-white-poha-500-g-product-images-o491614721-p491614721-1-202203150346.jpg"
+                ],
                             "brand": "Tata Sampann"
                         },
                         {
@@ -1672,7 +1431,7 @@ const data = {
                             "description_ar": "<p>Basmati Broken Rice has been an integral part of different Broken Rice recipes in every Indian household. It is processed under the supervision of experts. It can be used in a variety of Broken Rice dishes including biryani, pulao, and other Indian dishes. One can have it with meat, curries, dals and many more food items. Buy Daawat Rozana Super Basmati Broken Rice online now!<br></p>",
                             "description_en": "<p>Basmati Broken Rice has been an integral part of different Broken Rice recipes in every Indian household. It is processed under the supervision of experts. It can be used in a variety of Broken Rice dishes including biryani, pulao, and other Indian dishes. One can have it with meat, curries, dals and many more food items. Buy Daawat Rozana Super Basmati Broken Rice online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17183649901219.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/490863714/daawat-rozana-super-basmati-rice-1-kg-product-images-o490863714-p490863714-0-202203171018.jpg",
                             "price": "150",
                             "quantity": "200",
                             "unit": [
@@ -1683,19 +1442,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 58,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183649901108.jpg"
-                                },
-                                {
-                                    "id": 59,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718364990664.jpg"
-                                },
-                                {
-                                    "id": 60,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183649901587.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/490863714/daawat-rozana-super-basmati-rice-1-kg-product-images-o490863714-p490863714-0-202203171018.jpg",
+                  "https://www.jiomart.com/images/product/original/490863714/daawat-rozana-super-basmati-rice-1-kg-product-images-o490863714-p490863714-1-202203171018.jpg",
+                  "https://www.jiomart.com/images/product/original/490863714/daawat-rozana-super-basmati-rice-1-kg-legal-images-o490863714-p490863714-2-202203171018.jpg"
+                ],
                             "brand": "Daawat"
                         },
                         {
@@ -1705,7 +1455,7 @@ const data = {
                             "description_ar": "<p>Guests coming over for dinner? Put on your cooking aprons and cook some delicious rice recipes with Elina Long Grain Rice. The slender long grained rice is aromatic and nutritious at the same time. Its flavourful rich taste will earn you lots of appreciation from your visitors. It is a premium brand that focuses on providing good quality products at affordable rates. Buy Elina Long Grain Rice online now!<br></p>",
                             "description_en": "<p>Guests coming over for dinner? Put on your cooking aprons and cook some delicious rice recipes with Elina Long Grain Rice. The slender long grained rice is aromatic and nutritious at the same time. Its flavourful rich taste will earn you lots of appreciation from your visitors. It is a premium brand that focuses on providing good quality products at affordable rates. Buy Elina Long Grain Rice online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718365330683.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/491173885/elina-long-grain-rice-1-kg-product-images-o491173885-p491173885-0-202203151443.jpg",
                             "price": "140",
                             "quantity": "15",
                             "unit": [
@@ -1716,19 +1466,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 61,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183653301820.jpg"
-                                },
-                                {
-                                    "id": 62,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/1718365330901.jpg"
-                                },
-                                {
-                                    "id": 63,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183653301625.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/491173885/elina-long-grain-rice-1-kg-product-images-o491173885-p491173885-0-202203151443.jpg",
+                  "https://www.jiomart.com/images/product/original/491173885/elina-long-grain-rice-1-kg-product-images-o491173885-p491173885-1-202203151443.jpg",
+                  "https://www.jiomart.com/images/product/original/491173885/elina-long-grain-rice-1-kg-legal-images-o491173885-p491173885-2-202203151443.jpg"
+                ],
                             "brand": "Elina"
                         },
                         {
@@ -1738,7 +1479,7 @@ const data = {
                             "description_ar": "<p>Daawat Rozana Gold Basmati Broken Rice has been an integral part of different Broken Rice recipes in every Indian household. It is processed under the supervision of experts. It can be used in a variety of Broken Rice dishes including biryani, pulao, and other Indian dishes. One can have it with meat, curries, dals and many more food items. Buy Daawat Rozana Gold Basmati Broken Rice online now!<br></p>",
                             "description_en": "<p>Daawat Rozana Gold Basmati Broken Rice has been an integral part of different Broken Rice recipes in every Indian household. It is processed under the supervision of experts. It can be used in a variety of Broken Rice dishes including biryani, pulao, and other Indian dishes. One can have it with meat, curries, dals and many more food items. Buy Daawat Rozana Gold Basmati Broken Rice online now!<br></p>",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718365515578.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202203171005.jpg",
                             "price": "130",
                             "quantity": "20",
                             "unit": [
@@ -1749,19 +1490,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                {
-                                    "id": 64,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183655151440.jpg"
-                                },
-                                {
-                                    "id": 65,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183655151599.jpg"
-                                },
-                                {
-                                    "id": 66,
-                                    "photo": "https://mohmed.testworks.top/public/uploads/product/gallery/17183655151215.jpg"
-                                }
-                            ],
+                                "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-0-202203171005.jpg",
+                  "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-product-images-o490005638-p490005638-1-202203171005.jpg",
+                  "https://www.jiomart.com/images/product/original/490005638/daawat-rozana-gold-basmati-rice-5-kg-legal-images-o490005638-p490005638-2-202203171005.jpg"
+                ],
                             "brand": "Daawat"
                         }
                     ]
@@ -1784,7 +1516,7 @@ const data = {
                             "description_ar": " April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published, readers will find that very little in the book itself has changed — and for good reason. While so much in our world is changing at high speed, the lessons about money and the principles of Rich Dad Poor Dad haven’t changed. Today, as money continues to play a key role in our daily lives, the messages in Robert Kiyosaki’s international bestseller are more timely and more important than ever. Milestones While there is a milestone to commemorate — and a new section in the book on Why Milestones Are Important — preserving the integrity of the original content is testimony to the fact that this book has truly stood the test of time. The sidebars throughout the book (that were updated for the 20-year anniversary edition) have been updated again, but the core principles that parents and grandparents — those who embraced Robert’s story and messages 25 years ago",
                             "description_en": "April of 2022 marks a 25-year milestone for the personal finance classic Rich Dad Poor Dad that still ranks as the #1 Personal Finance book of all time. And although 25 years have passed since Rich Dad Poor Dad was first published, readers will find that very little in the book itself has changed — and for good reason. While so much in our world is changing at high speed, the lessons about money and the principles of Rich Dad Poor Dad haven’t changed. Today, as money continues to play a key role in our daily lives, the messages in Robert Kiyosaki’s international bestseller are more timely and more important than ever. Milestones While there is a milestone to commemorate — and a new section in the book on Why Milestones Are Important — preserving the integrity of the original content is testimony to the fact that this book has truly stood the test of time. The sidebars throughout the book (that were updated for the 20-year anniversary edition) have been updated again, but the core principles that parents and grandparents — those who embraced Robert’s story and messages 25 years ago",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17191274571778.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/81bsw6fnUiL._AC_UF1000,1000_QL80_.jpg",
                             "price": "200",
                             "quantity": "20",
                             "unit": [
@@ -1795,7 +1527,7 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719127457705.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-aLgjsnGpvGXxQM9szWjgTkbNI5yIXEhqVnzHqES2GtBB_GwNPcJ6X1iKIhFPtTkAMo&usqp=CAU"
                             ],
                             "brand": "Robert T. Kiyosaki"
                         },
@@ -1806,7 +1538,7 @@ const data = {
                             "description_ar": "he groundbreaking NEW YORK TIMES and WALL STREET JOURNAL BESTSELLER that taught a generation how to earn more, save more, and live a rich life—now in a revised 2nd edition. Buy as many lattes as you want. Choose the right accounts and investments so your money grows for you—automatically. Best of all, spend guilt-free on the things you love. Personal finance expert Ramit Sethi has been called a “wealth wizard” by Forbes and the “new guru on the block” by Fortune. Now he’s updated and expanded his modern money classic for a new age, delivering a simple, powerful, no-BS 6-week program that just works.",
                             "description_en": "he groundbreaking NEW YORK TIMES and WALL STREET JOURNAL BESTSELLER that taught a generation how to earn more, save more, and live a rich life—now in a revised 2nd edition. Buy as many lattes as you want. Choose the right accounts and investments so your money grows for you—automatically. Best of all, spend guilt-free on the things you love. Personal finance expert Ramit Sethi has been called a “wealth wizard” by Forbes and the “new guru on the block” by Fortune. Now he’s updated and expanded his modern money classic for a new age, delivering a simple, powerful, no-BS 6-week program that just works.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719164333512.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71zxiveV5ZL._AC_UF1000,1000_QL80_.jpg",
                             "price": "200",
                             "quantity": "50",
                             "unit": [
@@ -1817,11 +1549,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191643331794.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191643331016.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191643331832.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719164333287.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191643331974.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl6xiR-poTwOyzdlqjEs5tN02jDOZMsvYxC3MLn1dfc1bDCf2tETmPspmZo7nkpBsAkZU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_XC5bCNDzJCuvg8Si_009jrhVUft7px185U0fyd-88sxrpD3mjS6Ag6wWDN1aBk2UvA0&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYFkynat7N4WNzPR55DUwdmARo2HzIQUMmSlRzCn8V7ECGbH16kb_l3I8PHdj1RJXq25g&usqp=CAU"
                             ],
                             "brand": "Ramit Sethi"
                         },
@@ -1832,7 +1562,7 @@ const data = {
                             "description_ar": "How did Guidara pull off this unprecedented transformation? Radical reinvention, a true partnership between the kitchen and the dining room—and memorable, over-the-top, bespoke hospitality. Guidara’s team surprised a family who had never seen snow with a magical sledding trip to Central Park after their dinner; they filled a private dining room with sand, complete with mai-tais and beach chairs, to console a couple with a cancelled vacation. And his hospitality extended beyond those dining at the restaurant to his own team, who learned to deliver praise and criticism with intention; why the answer to some of the most pernicious business dilemmas is to give more—not less; and the magic that can happen when a busser starts thinking like an owner.",
                             "description_en": "How did Guidara pull off this unprecedented transformation? Radical reinvention, a true partnership between the kitchen and the dining room—and memorable, over-the-top, bespoke hospitality. Guidara’s team surprised a family who had never seen snow with a magical sledding trip to Central Park after their dinner; they filled a private dining room with sand, complete with mai-tais and beach chairs, to console a couple with a cancelled vacation. And his hospitality extended beyond those dining at the restaurant to his own team, who learned to deliver praise and criticism with intention; why the answer to some of the most pernicious business dilemmas is to give more—not less; and the magic that can happen when a busser starts thinking like an owner.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17191646491513.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71JgUTHCL0L._AC_UF1000,1000_QL80_.jpg",
                             "price": "300",
                             "quantity": "3",
                             "unit": [
@@ -1843,11 +1573,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191646491203.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719164649231.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719164649592.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191646491707.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719164649364.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBdEwdlrNn7pED-WNzWDvaImSCTzvjrsSuIH5BXBuAF7WrjZdFPc1GsI4CB2msYobtTeU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIEDJz-9K0rg0xwvQPQvAbMR14sDQmVmrxNSINTm1xRpHcp7aLsEI3QFi7atF4g6qGBjI&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEj6HBOpO6rhx8gpbpFLatDHfdRl4VsMF_yIMeDKRgkGP3Aoo5FQ-aiBR3C_XZjbMStE&usqp=CAU"
                             ],
                             "brand": "Will Guidara"
                         },
@@ -1858,7 +1586,7 @@ const data = {
                             "description_ar": "New York Times bestseller—over 40 million copies sold* ,One of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for nearly three decades. It has transformed the lives of presidents and CEOs, educators and parents—millions of people of all ages and occupations. Now, this 30th anniversary edition of the timeless classic commemorates the wisdom of the 7 Habits with modern additions from Sean Covey.",
                             "description_en": "New York Times bestseller—over 40 million copies sold* ,One of the most inspiring and impactful books ever written, The 7 Habits of Highly Effective People has captivated readers for nearly three decades. It has transformed the lives of presidents and CEOs, educators and parents—millions of people of all ages and occupations. Now, this 30th anniversary edition of the timeless classic commemorates the wisdom of the 7 Habits with modern additions from Sean Covey.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17191649271842.jpg",
+                            "photo": "https://m.media-amazon.com/images/S/aplus-media/sota/18201f1f-ace2-4e96-844d-1969a71105c5.__CR0,0,970,600_PT0_SX970_V1___.jpg",
                             "price": "450",
                             "quantity": "20",
                             "unit": [
@@ -1869,11 +1597,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191649271770.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191649271660.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191649271140.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719164927222.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191649271313.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtqVr4xR7sSbXy6igQcr5NJ8F0RILDuAHkkxGOkCcsgD6wN7s7m-wTs0_jRqSLUW13ao&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvaPx_gh3d6n9bDQE0H6aEvAHVd7fI1PI1ER4Sfj3omsyKyFS5AO7GtDTJXduJdzpBtG4&usqp=CAU"
                             ],
                             "brand": "Stephen R. Covey"
                         },
@@ -1884,7 +1609,7 @@ const data = {
                             "description_ar": "In the original Think and Grow Rich, published in 1937, Hill draws on stories of Andrew Carnegie, Thomas Edison, Henry Ford, and other millionaires of his generation to illustrate his principles. In the updated version, Arthur R. Pell, Ph.D., a nationally known author, lecturer, and consultant in human resources management and an expert in applying Hill's thought, deftly interweaves anecdotes of how contemporary millionaires and billionaires, such as Bill Gates, Mary Kay Ash, Dave Thomas, and Sir John Templeton, achieved their wealth. Outmoded or arcane terminology and examples are faithfully refreshed to preclude any stumbling blocks to a new generation of readers.",
                             "description_en": "In the original Think and Grow Rich, published in 1937, Hill draws on stories of Andrew Carnegie, Thomas Edison, Henry Ford, and other millionaires of his generation to illustrate his principles. In the updated version, Arthur R. Pell, Ph.D., a nationally known author, lecturer, and consultant in human resources management and an expert in applying Hill's thought, deftly interweaves anecdotes of how contemporary millionaires and billionaires, such as Bill Gates, Mary Kay Ash, Dave Thomas, and Sir John Templeton, achieved their wealth. Outmoded or arcane terminology and examples are faithfully refreshed to preclude any stumbling blocks to a new generation of readers.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719165195289.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61CIKpN5QjL._AC_UF1000,1000_QL80_.jpg",
                             "price": "600",
                             "quantity": "26",
                             "unit": [
@@ -1895,11 +1620,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165195241.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165195519.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191651951379.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171916519561.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191651951974.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ncuM88RSiTPC1QMq96HAHZsIJqklYw6uivnRkNSNQSqpuHXV6EmyxVohtE2w5B6wXbU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDnAaslctQL-qzIsgfaO2sX46HZm7POHZG0nCDomdpznYnTVnQvw8lVDgtYsg4wPRy3_c&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZRlWwQ2HSvk3xheB_vqMdZY1T5A6IBySGHowqYD7MNFrJF6EIA-aKUnAISp1n4vwsvxw&usqp=CAU"
                             ],
                             "brand": "Napoleon Hill"
                         },
@@ -1910,7 +1633,7 @@ const data = {
                             "description_ar": "All entrepreneurs and business leaders face similar frustrations—personnel conflict, profit woes, and inadequate growth. Decisions never seem to get made, or, once made, fail to be properly implemented. But there is a solution. It's not complicated or theoretical. The Entrepreneurial Operating System® is a practical method for achieving the business success you have always envisioned. More than 80,000 companies have discovered what EOS can do.",
                             "description_en": "All entrepreneurs and business leaders face similar frustrations—personnel conflict, profit woes, and inadequate growth. Decisions never seem to get made, or, once made, fail to be properly implemented. But there is a solution. It's not complicated or theoretical. The Entrepreneurial Operating System® is a practical method for achieving the business success you have always envisioned. More than 80,000 companies have discovered what EOS can do.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17191654431783.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/81bziOVlOwL._AC_UF1000,1000_QL80_.jpg",
                             "price": "850",
                             "quantity": "67",
                             "unit": [
@@ -1921,11 +1644,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165443243.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165443301.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191654431936.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165443271.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191654431377.png"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-d9sfBgKfUjnz1q5p0SJvbqy4VO3zc4HZV3x8_dV5syHodamjxIBK4Ccamyfm1xT0nYs&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDK-nNYTLSH5ZzgMUaWKbyvVnIKc3h3mD16MwJzliXZbNrSh6FYyjf2nw3YrlN0F0TzLo&usqp=CAU"
                             ],
                             "brand": "Gino Wickman"
                         },
@@ -1936,7 +1656,7 @@ const data = {
                             "description_ar": "Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.",
                             "description_en": "Clear is known for his ability to distill complex topics into simple behaviors that can be easily applied to daily life and work. Here, he draws on the most proven ideas from biology, psychology, and neuroscience to create an easy-to-understand guide for making good habits inevitable and bad habits impossible. Along the way, readers will be inspired and entertained with true stories from Olympic gold medalists, award-winning artists, business leaders, life-saving physicians, and star comedians who have used the science of small habits to master their craft and vault to the top of their field.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17191657171271.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF1000,1000_QL80_.jpg",
                             "price": "299",
                             "quantity": "200",
                             "unit": [
@@ -1947,14 +1667,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165718140.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165718742.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191657181226.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165718663.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165718657.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171916571894.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17191657181735.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719165718597.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcae-7Mw1I8HN_7euSRWdzwbta_jRlAdKLutcXtpv0Zq3xN6usRAMyuDiNzXJTeECi0y0&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuKX07fT2TTAW2fdtJXaE4SMAk1xrI6S52XXHcffZmK58oXq2_EJMPkx8inlv1O67SM50&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1FWMXHrV9LPzDKDqQLeNwzYKTlxMzo9w3rKdrMedYBmX-NfsH-_LDPSBTS29g__D2CNE&usqp=CAU"
                             ],
                             "brand": "James Clear"
                         },
@@ -1965,7 +1680,7 @@ const data = {
                             "description_ar": "The ultimate playbook for crushing it at work, from the first CEO of Barstool Sports. She worked hand-in-hand with a founder who was a lightning rod for controversy―OK, for stepping in it. She grew a chaotic company (Vanity Fair called it a “pirate ship”) housed over a dentist’s office outside of Boston that published giveaway papers into a juggernaut with more than 5 billion monthly video views and 225 million followers valued at 550 million dollars. Erika Ayers Badan calls herself a “token CEO”, the rare female employee in the highest rank of a bro-roar sports and new media culture. She’s also a massive student of work: how to do it, how to be effective at it, how to get noticed, how to crush it, how to figure out what you love and do it as a job. ",
                             "description_en": "The ultimate playbook for crushing it at work, from the first CEO of Barstool Sports. She worked hand-in-hand with a founder who was a lightning rod for controversy―OK, for stepping in it. She grew a chaotic company (Vanity Fair called it a “pirate ship”) housed over a dentist’s office outside of Boston that published giveaway papers into a juggernaut with more than 5 billion monthly video views and 225 million followers valued at 550 million dollars. Erika Ayers Badan calls herself a “token CEO”, the rare female employee in the highest rank of a bro-roar sports and new media culture. She’s also a massive student of work: how to do it, how to be effective at it, how to get noticed, how to crush it, how to figure out what you love and do it as a job. ",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719248988275.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71SM7wv6j6L._UF1000,1000_QL80_.jpg",
                             "price": "359",
                             "quantity": "33",
                             "unit": [
@@ -1976,8 +1691,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192489881088.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192489881221.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXK2DUNyWbQ-Q3vqvvTLeCqDYfTknkvZ6rAZEbz7Fmd_I8Gpse5BF2-ae8hgLTJYquhpM&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgLuV24os98slUhOCi1BoZOeFbqWPk0tlhtT2HSrTj_03v3-YorVvJLdNUfz5-_95sIWU&usqp=CAU"
                             ],
                             "brand": "Erika Ayers Badan"
                         },
@@ -1997,7 +1712,7 @@ const data = {
                             "description_ar": "Frank, funny and open-hearted, You Never Know is an intimate memoir from one of the most beloved actors of our time, the highly personal story of a remarkable life and thoroughly accidental career. In his own voice and uniquely unpretentious style, the famed actor brings readers on his uncharted but serendipitous journey to the top in Hollywood, his temptations and distractions, his misfires and mistakes and, over time, his well-earned success. Along the way, he clears up an armload of misconceptions and shares dozens of never-told stories from all corners of his personal and professional life. His rambunctious California childhood. His clueless arrival as a good-looking college jock in Hollywood (from the Dating Game to the Fox New Talent Program to co-starring with Mae West and escorting her to black-tie social functions). What it was like to emerge as a mega-star in his mid-thirties and remain so for decades to come, an actor whose authenticity and ease in front of the camera connected",
                             "description_en": "Frank, funny and open-hearted, You Never Know is an intimate memoir from one of the most beloved actors of our time, the highly personal story of a remarkable life and thoroughly accidental career. In his own voice and uniquely unpretentious style, the famed actor brings readers on his uncharted but serendipitous journey to the top in Hollywood, his temptations and distractions, his misfires and mistakes and, over time, his well-earned success. Along the way, he clears up an armload of misconceptions and shares dozens of never-told stories from all corners of his personal and professional life. His rambunctious California childhood. His clueless arrival as a good-looking college jock in Hollywood (from the Dating Game to the Fox New Talent Program to co-starring with Mae West and escorting her to black-tie social functions). What it was like to emerge as a mega-star in his mid-thirties and remain so for decades to come, an actor whose authenticity and ease in front of the camera connected",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17192511761351.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfPkVwKpS6VfO_-Nw40P7A2aCTEb3-XMWtJg&s",
                             "price": "120",
                             "quantity": "20",
                             "unit": [
@@ -2008,9 +1723,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192511761822.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719251176935.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192511761821.png",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFNcwU3IvlR4wB3KmaFaxz9lhAPtFF3xgq6XenAIlGadMbtqjwdSccoC33qu4aEtd8qFM&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqhMChA5QFPLvlG0M27sMxbwO6oILlqZdMI6cgqFJ7LB0NWdJOKxCk-A7Xl-7HWzFS0E&usqp=CAU",
                             ],
                             "brand": "Tom Selleck"
                         },
@@ -2021,7 +1735,7 @@ const data = {
                             "description_ar": "My name is Brett. I’m a college educated man who was once a husband of 26 years with two children, three businesses, and a large home with an actual white picket fence. I’m also a drug addict. And I have a tale to tell. My story has everything: sex, death, pain, atheism, God, jail, marriage, divorce, heresy, homosexuality, physics, traffic fatalities, computer science, video games, cinnamon toothpicks, Barry Manilow, Nine Inch Nails, pornography, breasts, used tampons, strippers, venereal disease, abortion, prostitutes, AIDS, racism, suicide, infidelity, public nudity, anti-Semitism, marijuana, alcohol, pawn shops, drug dealers, needles, acid, ecstasy, crack, heroin, pain pills, withdrawal, interventions, rehabs, product tampering, road rage, vandalism, elderly abuse, grave desecration, arson, identity theft, burglary, armed robbery, and murder. But more importantly, it’s about the despair of addiction and the absolute certainty that it can be overcome. Recovery is not simply abstinence, but a process of growing up. I spent my entire life searching for the key to long-term sobriety. I would like to share with you what I have learned",
                             "description_en": "My name is Brett. I’m a college educated man who was once a husband of 26 years with two children, three businesses, and a large home with an actual white picket fence. I’m also a drug addict. And I have a tale to tell. My story has everything: sex, death, pain, atheism, God, jail, marriage, divorce, heresy, homosexuality, physics, traffic fatalities, computer science, video games, cinnamon toothpicks, Barry Manilow, Nine Inch Nails, pornography, breasts, used tampons, strippers, venereal disease, abortion, prostitutes, AIDS, racism, suicide, infidelity, public nudity, anti-Semitism, marijuana, alcohol, pawn shops, drug dealers, needles, acid, ecstasy, crack, heroin, pain pills, withdrawal, interventions, rehabs, product tampering, road rage, vandalism, elderly abuse, grave desecration, arson, identity theft, burglary, armed robbery, and murder. But more importantly, it’s about the despair of addiction and the absolute certainty that it can be overcome. Recovery is not simply abstinence, but a process of growing up. I spent my entire life searching for the key to long-term sobriety. I would like to share with you what I have learned",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17192514411810.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6U1sGYyE93nqkpYFr-ZykEA29ZRGQYvAOQ&s",
                             "price": "350",
                             "quantity": "20",
                             "unit": [
@@ -2032,10 +1746,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719251441168.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719251442371.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719251442877.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719251442178.png"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCEjGmZmZjyOe6LA4tUrU8dlUfTb-N4rJ7F79vZxlTI2w98oybfQ_DnltjVtkKml1t_g&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfBf81CIaKZKi3XS4mdewAesyAZj3NUlOf3_Av6DLRia8Oh4NQjzwYyM9hwuDNVmokvRM&usqp=CAU"
                             ],
                             "brand": "Brett Douglas"
                         },
@@ -2046,7 +1758,7 @@ const data = {
                             "description_ar": "Born to survivalists in the mountains of Idaho, Tara Westover was seventeen the first time she set foot in a classroom. Her family was so isolated from mainstream society that there was no one to ensure the children received an education, and no one to intervene when one of Tara’s older brothers became violent. When another brother got himself into college, Tara decided to try a new kind of life. Her quest for knowledge transformed her, taking her over oceans and across continents, to Harvard and to Cambridge University. Only then would she wonder if she’d traveled too far, if there was still a way home.",
                             "description_en": "Born to survivalists in the mountains of Idaho, Tara Westover was seventeen the first time she set foot in a classroom. Her family was so isolated from mainstream society that there was no one to ensure the children received an education, and no one to intervene when one of Tara’s older brothers became violent. When another brother got himself into college, Tara decided to try a new kind of life. Her quest for knowledge transformed her, taking her over oceans and across continents, to Harvard and to Cambridge University. Only then would she wonder if she’d traveled too far, if there was still a way home.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17192518531021.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDBSN-Rc448pY0Nwbhh8TdJ4_KXvoLW4UiwQ&s",
                             "price": "400",
                             "quantity": "11",
                             "unit": [
@@ -2057,8 +1769,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192518531791.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719251853547.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOrhk32-g6Q7HmPtxdwrRQbDMlBjxk1-O_DxAbU75AU2p2-tI6ZIynOsfSszVwvlo9YpM&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLL_h0HPwb_CSoAQ-FRCx2o42v7fV9-2DM5WA8hoclADfD_y72v5Ux6Dl3-5pYBYPgTE&usqp=CAU"
                             ],
                             "brand": "Tara Westover"
                         },
@@ -2069,7 +1781,7 @@ const data = {
                             "description_ar": "Here is the text with all HTML tags removed and formatted into one line:THE #1 NEW YORK TIMES BESTSELLER IS NOW A MAJOR-MOTION PICTURE DIRECTED BY RON HOWARD AND STARRING AMY ADAMS, GLENN CLOSE, AND GABRIEL BASSOYou will not read a more important book about America this year.—The Economist A riveting book.—The Wall Street Journal Essential reading.—David Brooks, New York Times Hillbilly Elegy is a passionate and personal analysis of a culture in crisis—that of white working-class Americans. The disintegration of this group, a process that has been slowly occurring now for more than forty years, has been reported with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hung around your neck. The Vance family story begins hopefully in postwar America. J. D.’s grandparents were “dirt poor and in love,” and moved north from Kentucky’s Appalachia region to Ohio in the hopes of escaping the dreadful poverty around them. They raised a middle-class family, and eventually one of their grandchildren would graduate from Yale Law School, a conventional marker of success in achieving generational upward mobility. But as the family saga of Hillbilly Elegy plays out, we learn that J.D.'s grandparents, aunt, uncle, sister, and, most of all, his mother struggled profoundly with the demands of their new middle-class life, never fully escaping the legacy of abuse, alcoholism, poverty, and trauma so characteristic of their part of America. With piercing honesty, Vance shows how he himself still carries around the demons of his chaotic family history. A deeply moving memoir, with its share of humor and vividly colorful figures, Hillbilly Elegy is the story of how upward mobility really feels. And it is an urgent and troubling meditation on the loss of the American dream for a large segment of this country.",
                             "description_en": "Here is the text with all HTML tags removed and formatted into one line:THE #1 NEW YORK TIMES BESTSELLER IS NOW A MAJOR-MOTION PICTURE DIRECTED BY RON HOWARD AND STARRING AMY ADAMS, GLENN CLOSE, AND GABRIEL BASSOYou will not read a more important book about America this year.—The Economist A riveting book.—The Wall Street Journal Essential reading.—David Brooks, New York Times Hillbilly Elegy is a passionate and personal analysis of a culture in crisis—that of white working-class Americans. The disintegration of this group, a process that has been slowly occurring now for more than forty years, has been reported with growing frequency and alarm, but has never before been written about as searingly from the inside. J. D. Vance tells the true story of what a social, regional, and class decline feels like when you were born with it hung around your neck. The Vance family story begins hopefully in postwar America. J. D.’s grandparents were “dirt poor and in love,” and moved north from Kentucky’s Appalachia region to Ohio in the hopes of escaping the dreadful poverty around them. They raised a middle-class family, and eventually one of their grandchildren would graduate from Yale Law School, a conventional marker of success in achieving generational upward mobility. But as the family saga of Hillbilly Elegy plays out, we learn that J.D.'s grandparents, aunt, uncle, sister, and, most of all, his mother struggled profoundly with the demands of their new middle-class life, never fully escaping the legacy of abuse, alcoholism, poverty, and trauma so characteristic of their part of America. With piercing honesty, Vance shows how he himself still carries around the demons of his chaotic family history. A deeply moving memoir, with its share of humor and vividly colorful figures, Hillbilly Elegy is the story of how upward mobility really feels. And it is an urgent and troubling meditation on the loss of the American dream for a large segment of this country.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17192520771903.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_6eJC_ZDrtW1waWzoO18AqBGQmNBjlTlVDg&s",
                             "price": "550",
                             "quantity": "3",
                             "unit": [
@@ -2080,10 +1792,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192520771868.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192520771801.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192520771826.png",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192520771966.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf28dfsOxiU5kBpoCQalCLARJEiVTfTTG3PJYU0hqzO5Hjcjeg2tJb4yKaLq4KYyWLx6Q&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhZcvFSdljgeVHHrLqszNMHpH3QZ-RXtMTZsJThQvEwBm24gHIxCq1291g9UK44fgcrI&usqp=CAU"
 
                             ],
                             "brand": "Vance, J. D."
@@ -2095,7 +1805,7 @@ const data = {
                             "description_ar": "Here is the text with all HTML tags removed and formatted into one line: A NEW YORK TIMES BESTSELLER Know My Name is a gut-punch, and in the end, somehow, also blessedly hopeful. --Washington PostUniversally acclaimed, rapturously reviewed, and an instant New York Times bestseller, Chanel Miller's breathtaking memoir gives readers the privilege of knowing her not just as Emily Doe, but as Chanel Miller the writer, the artist, the survivor, the fighter. (The Wrap). Her story of trauma and transcendence illuminates a culture biased to protect perpetrators, indicting a criminal justice system designed to fail the most vulnerable, and, ultimately, shining with the courage required to move through suffering and live a full and beautiful life.Know My Name will forever transform the way we think about sexual assault, challenging our beliefs about what is acceptable and speaking truth to the tumultuous reality of healing. Entwining pain, resilience, and humor, this memoir will stand as a modern classic.",
                             "description_en": "Here is the text with all HTML tags removed and formatted into one line: A NEW YORK TIMES BESTSELLER Know My Name is a gut-punch, and in the end, somehow, also blessedly hopeful. --Washington PostUniversally acclaimed, rapturously reviewed, and an instant New York Times bestseller, Chanel Miller's breathtaking memoir gives readers the privilege of knowing her not just as Emily Doe, but as Chanel Miller the writer, the artist, the survivor, the fighter. (The Wrap). Her story of trauma and transcendence illuminates a culture biased to protect perpetrators, indicting a criminal justice system designed to fail the most vulnerable, and, ultimately, shining with the courage required to move through suffering and live a full and beautiful life.Know My Name will forever transform the way we think about sexual assault, challenging our beliefs about what is acceptable and speaking truth to the tumultuous reality of healing. Entwining pain, resilience, and humor, this memoir will stand as a modern classic.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17192526881001.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwLxBqjYwiFzUuranC92LBgfUqqnIHTTMMXQ&s",
                             "price": "220",
                             "quantity": "26",
                             "unit": [
@@ -2106,11 +1816,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719252688552.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192526891206.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719252689866.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719252689601.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17192526891136.jpg"
+                                 
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQxPjfoMytLmBdc0FHjYjm-qx-lLe87iqTflTe8vBi0WStECVZUESZdEdoIGNvp3o_i0&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLSMpM2xcfBE1wkfLoEa5eYBIKGC6vrkQidgO_bxmC_RKGArAzfl-aWnIYTaWeV-IKrE&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLSMpM2xcfBE1wkfLoEa5eYBIKGC6vrkQidgO_bxmC_RKGArAzfl-aWnIYTaWeV-IKrE&usqp=CAU"
                             ],
                             "brand": "Chanel Miller"
                         },
@@ -2130,12 +1839,12 @@ const data = {
                     "products": [
                         {
                             "id": 81,
-                            "name_ar": "Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men",
+                            "name_ar": "Bomber Jacket with Zipper Pockets",
                             "name_en": "Hanes Men's Ecosmart Fleece Sweatshirt, Cotton-blend Pullover, Crewneck Sweatshirt for Men",
                             "description_ar": "FLEECE TO FEEL GOOD ABOUT - Hanes EcoSmart midweight sweatshirt is made with cotton sourced from American farms. CLASSIC SILHOUETTE - Basic crewneck sweatshirt shaping for that versatile look you love , MADE TO LAST - Double-needle stitching at the neck and armholes adds extra quality and sturdiness.",
                             "description_en": "FLEECE TO FEEL GOOD ABOUT - Hanes EcoSmart midweight sweatshirt is made with cotton sourced from American farms. CLASSIC SILHOUETTE - Basic crewneck sweatshirt shaping for that versatile look you love , MADE TO LAST - Double-needle stitching at the neck and armholes adds extra quality and sturdiness.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193668501193.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/469255919_black/bomber-jacket-with-zipper-pockets-model-469255919_black-0-202301311905.jpg",
                             "price": "200",
                             "quantity": "15",
                             "unit": [
@@ -2146,23 +1855,21 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719366850666.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719366851860.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719366851244.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719366851868.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719366851244.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719366851815.jpg"
-                            ],
+                                "https://www.jiomart.com/images/product/original/469255919_black/bomber-jacket-with-zipper-pockets-model-469255919_black-0-202301311905.jpg",
+                                "https://www.jiomart.com/images/product/original/469255919_black/bomber-jacket-with-zipper-pockets-model2-469255919_black-2-202301311905.jpg",
+                                "https://www.jiomart.com/images/product/original/469255919_black/bomber-jacket-with-zipper-pockets-model3-469255919_black-3-202301311905.jpg",
+                                "https://www.jiomart.com/images/product/original/469255919_black/bomber-jacket-with-zipper-pockets-model4-469255919_black-4-202301311905.jpg"
+                              ],
                             "brand": "Hanes"
                         },
                         {
                             "id": 82,
-                            "name_ar": "Nike Performance Cushion Crew Socks with Band (6 Pairs)",
+                            "name_ar": "Mid-Rise Skinny Fit Jeans",
                             "name_en": "Nike Performance Cushion Crew Socks with Band (6 Pairs)",
                             "description_ar": "Reinforced heel and toe for enhanced durability in high-wear areas Rib cuffs for a snug, comfortable fit Arch support for a secure fit",
                             "description_en": "<Reinforced heel and toe for enhanced durability in high-wear areas Rib cuffs for a snug, comfortable fit Arch support for a secure fit",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719367208372.jpeg",
+                            "photo": "https://www.jiomart.com/images/product/original/420434311_blue/skinny-jeans-with-button-closure-model-420434311_blue-0-202308081627.jpg",
                             "price": "100",
                             "quantity": "23",
                             "unit": [
@@ -2173,20 +1880,22 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171936720852.jpeg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193672091628.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367209593.jpg"
-                            ],
+                                "https://www.jiomart.com/images/product/original/420434311_blue/skinny-jeans-with-button-closure-model-420434311_blue-0-202308081627.jpg",
+                                "https://www.jiomart.com/images/product/original/420434311_blue/skinny-jeans-with-button-closure-model2-420434311_blue-2-202308081627.jpg",
+                                "https://www.jiomart.com/images/product/original/420434311_blue/skinny-jeans-with-button-closure-model3-420434311_blue-3-202308081627.jpg",
+                                "https://www.jiomart.com/images/product/original/420434311_blue/skinny-jeans-with-button-closure-model4-420434311_blue-4-202308081627.jpg",
+                                "https://www.jiomart.com/images/product/original/420434311_blue/skinny-jeans-with-button-closure-model5-420434311_blue-5-202308081627.jpg"
+                              ],
                             "brand": "Nike"
                         },
                         {
                             "id": 83,
-                            "name_ar": "Gildan Men's Crew T-Shirts, Multipack, Style G1100",
+                            "name_ar": "Plutus Men Black Solid Polyester Casual Jacket M",
                             "name_en": "Gildan Men's Crew T-Shirts, Multipack, Style G1100",
                             "description_ar": "Soft, breathable cotton Moisture wicking technology keeps you cool and dry Tag-free to prevent irritation Classic length for easy tucking Durable stitching Lay-flat collar",
                             "description_en": "<Soft, breathable cotton Moisture wicking technology keeps you cool and dry Tag-free to prevent irritation Classic length for easy tucking Durable stitching Lay-flat collar",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719367435616.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/rvurcwrojo/plutus-men-black-solid-polyester-casual-jacket-m-product-images-rvurcwrojo-0-202209240106.jpg",
                             "price": "250",
                             "quantity": "15",
                             "unit": [
@@ -2197,24 +1906,22 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193674351686.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193674351098.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193674351134.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367435455.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367435516.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193674361709.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367436670.jpg"
-                            ],
+                                "https://www.jiomart.com/images/product/original/rvurcwrojo/plutus-men-black-solid-polyester-casual-jacket-m-product-images-rvurcwrojo-0-202209240106.jpg",
+                                "https://www.jiomart.com/images/product/original/rvurcwrojo/plutus-men-black-solid-polyester-casual-jacket-m-product-images-rvurcwrojo-1-202209240106.jpg",
+                                "https://www.jiomart.com/images/product/original/rvurcwrojo/plutus-men-black-solid-polyester-casual-jacket-m-product-images-rvurcwrojo-2-202209240106.jpg",
+                                "https://www.jiomart.com/images/product/original/rvurcwrojo/plutus-men-black-solid-polyester-casual-jacket-m-product-images-rvurcwrojo-3-202209240106.jpg",
+                                "https://www.jiomart.com/images/product/original/rvurcwrojo/plutus-men-black-solid-polyester-casual-jacket-m-product-images-rvurcwrojo-4-202209240106.jpg"
+                              ],
                             "brand": "Gildan"
                         },
                         {
                             "id": 84,
-                            "name_ar": "Under Armour Men's Tech Golf Polo",
+                            "name_ar": "BULLMER Men Beige Cotton Blend Printed Single Sweatshirts",
                             "name_en": "Under Armour Men's Tech Golf Polo",
                             "description_ar": "Textured fabric that's soft, light & breathable Material wicks sweat & dries really fast 3-button placket Self-fabric collar Loose: Fuller cut for complete comfort.",
                             "description_en": "Textured fabric that's soft, light & breathable Material wicks sweat & dries really fast 3-button placket Self-fabric collar Loose: Fuller cut for complete comfort.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/171936781556.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/rvqq9gohkt/bullmer-men-beige-cotton-blend-printed-single-sweatshirts-product-images-rvqq9gohkt-0-202210291839.jpg",
                             "price": "270",
                             "quantity": "200",
                             "unit": [
@@ -2224,24 +1931,21 @@ const data = {
                                     "name_ar": "Kylynn Carroll"
                                 }
                             ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193678151908.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367815428.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367815947.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193678151442.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193678151626.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719367815936.jpg",
-                            ],
+                            "images":  [
+                                "https://www.jiomart.com/images/product/original/rvqq9gohkt/bullmer-men-beige-cotton-blend-printed-single-sweatshirts-product-images-rvqq9gohkt-0-202210291839.jpg",
+                                "https://www.jiomart.com/images/product/original/rvqq9gohkt/bullmer-men-beige-cotton-blend-printed-single-sweatshirts-product-images-rvqq9gohkt-1-202210291839.jpg",
+                                "https://www.jiomart.com/images/product/original/rvqq9gohkt/bullmer-men-beige-cotton-blend-printed-single-sweatshirts-product-images-rvqq9gohkt-2-202210291839.jpg"
+                              ],
                             "brand": "Under Armour"
                         },
                         {
                             "id": 85,
-                            "name_ar": "J.VER Men's Dress Shirts Solid Long Sleeve Stretch Wrinkle-Free Formal Shirt Business Casual Button Down Shirt",
+                            "name_ar": "Men Checked Slim Fit Shirt",
                             "name_en": "J.VER Men's Dress Shirts Solid Long Sleeve Stretch Wrinkle-Free Formal Shirt Business Casual Button Down Shirt",
                             "description_ar": "Wrinkle FreeThe combination of high-quality fabrics and special technology makes the solid dress shirt not easy to wrinkle, easy to care.The classic spread collar easily matches with a tie or bow tie , Occasion Business/Wedding/Party/Dating, whether for formal occasions or daily casual, this mens dress shirt is a perfect choice; it is also an ideal gift for family, lovers and friends",
                             "description_en": "Wrinkle FreeThe combination of high-quality fabrics and special technology makes the solid dress shirt not easy to wrinkle, easy to care.The classic spread collar easily matches with a tie or bow tie , Occasion Business/Wedding/Party/Dating, whether for formal occasions or daily casual, this mens dress shirt is a perfect choice; it is also an ideal gift for family, lovers and friends",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719368284260.jpg",
+                            "photo": "https://www.jiomart.com/images/product/original/420395610_red/checked-slim-fit-shirt-model-420395610_red-0-202309052055.jpg",
                             "price": "600",
                             "quantity": "20",
                             "unit": [
@@ -2252,13 +1956,12 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368284663.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368284258.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193682841447.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368284462.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193682841740.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368285540.jpg"
-                            ],
+                                "https://www.jiomart.com/images/product/original/420395610_red/checked-slim-fit-shirt-model-420395610_red-0-202309052055.jpg",
+                                "https://www.jiomart.com/images/product/original/420395610_red/checked-slim-fit-shirt-model2-420395610_red-2-202309052055.jpg",
+                                "https://www.jiomart.com/images/product/original/420395610_red/checked-slim-fit-shirt-model3-420395610_red-3-202309052055.jpg",
+                                "https://www.jiomart.com/images/product/original/420395610_red/checked-slim-fit-shirt-model4-420395610_red-4-202309052055.jpg",
+                                "https://www.jiomart.com/images/product/original/420395610_red/checked-slim-fit-shirt-model5-420395610_red-5-202309052055.jpg"
+                              ],
                             "brand": "J.VER"
                         },
                         {
@@ -2268,7 +1971,7 @@ const data = {
                             "description_ar": "Skateboarding Shoes Lightweight design Retro Style",
                             "description_en": "Skateboarding Shoes Lightweight design Retro Style",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719368435764.jpg",
+                            "photo": "https://images-cdn.ubuy.co.in/65493d21c26bff223e7c878d-mens-nike-dunk-low-retro-panda.jpg",
                             "price": "800",
                             "quantity": "3",
                             "unit": [
@@ -2279,13 +1982,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368435175.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193684351263.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368435774.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193684351749.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193684351928.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368435852.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193684351362.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzPHGGGGoMymNNvw6HFaByouUyFMYSp63HoMCvgBGHCBG-1jYTRRjM_3iTeG7tLU4Pjv8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE-8KWr0GrmKK4T0nsv8AnjQ5KfuITIub_EgfgyABVtmMgotyfHb5Xdx3gy5NVoLFwF_4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSgAk_QjLMmI6UKJcY0gMhO7vZ5IHe5ftlYvZiIhYQa-SrGztlUJqq80UmlfSjV3bQyQE&usqp=CAU"
                             ],
                             "brand": "Nike"
                         },
@@ -2296,7 +1995,7 @@ const data = {
                             "description_ar": "Dri-FIT technology helps keep you dry and comfortable Mesh back panel adds breathability Mesh back panel adds breathability Dri-FIT technology helps keep you dry and comfortable",
                             "description_en": "Dri-FIT technology helps keep you dry and comfortable Mesh back panel adds breathability Mesh back panel adds breathability Dri-FIT technology helps keep you dry and comfortable",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193685541118.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7Ho0zJfiySC-Vs1r6-46dz28LcfpcUCxGQ&s",
                             "price": "300",
                             "quantity": "200",
                             "unit": [
@@ -2307,15 +2006,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193685541075.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368554912.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193685541462.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368554560.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171936855482.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193685541359.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368554785.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368554781.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193685541735.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAIIK5HVeLKv_Fvys4s2PdOD51fuWM-SOfSa-MR6RvuNGDvEcDZsWRaqXcOHkaDEBfyjk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYxzc9wBvabUTbKCHzhIWF-W2Zp1HH-mLstUXCEBrm-sDlXuanNDrYZJ3xHJKnYoJF8oI&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCklqtTvZqse4HNVVfBfXXRkfKwlQ1dsTekpl07xnxoeLbjK7yC49HSi4yjyl9ZleVq0c&usqp=CAU"
                             ],
                             "brand": "Nike"
                         },
@@ -2326,7 +2019,7 @@ const data = {
                             "description_ar": "Nike Therma fabric locks in heat to help keep you warm Ergonomic seams allow natural range of motion Scuba hood is adjustable for custom coverage Pullover design allows for easy on and off",
                             "description_en": "Nike Therma fabric locks in heat to help keep you warm Ergonomic seams allow natural range of motion Scuba hood is adjustable for custom coverage Pullover design allows for easy on and off",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193687291664.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/31v5l3TWF2L._AC_.jpg",
                             "price": "350",
                             "quantity": "150",
                             "unit": [
@@ -2337,16 +2030,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193687291590.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193687291930.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368729769.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368729595.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368729780.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193687291439.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171936872918.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368729535.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193687291168.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193687291155.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvDAEM5OfiHsnYLonevR12C5EEanNm6qbLFOmjTCr0lK0ljf6ZKVyJj_SCpGotLws3Slw&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTetjScFcVB7OJ9cxsmEJZSr-PvswD2snOLJ6CvOEFbU-8SAfZpqBKJqOw4-uJswKOCsSo&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXiUvE4GB_tFUkNy9eL-itViXCWgcK7qF3oNjxDM60-Jq9oEugnKIcvfGPBpxzOaLCuzU&usqp=CAU",
                             ],
                             "brand": "Nike"
                         },
@@ -2357,7 +2043,7 @@ const data = {
                             "description_ar": "Brushed Nickel Military buckle One Sized , Nike Swoosh on Buckle ,Package Weight: 0.349 pounds",
                             "description_en": "Brushed Nickel Military buckle One Sized , Nike Swoosh on Buckle ,Package Weight: 0.349 pounds",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193688821502.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61uDgDJWrTL._AC_SL1122_.jpg",
                             "price": "300",
                             "quantity": "100",
                             "unit": [
@@ -2368,12 +2054,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193688821596.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193688821916.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368882283.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193688821147.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719368882557.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193688821420.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzavivCQtBhso9ffKbzaz8NV6MCYKdS3OU1p70eo0h2aU0vMnBANI2BTLfSUCnL3rdhek&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-XHYm4alI2kKblJ2WgXOSjNExzAPON47i8Zu2q3ySoG3EG5wF1rHH4WC0bh73OvcTtc&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Y5VJrMYsufmSHSbhYE9lOvyjSurSJZGyYy994-p77QWX0c6UfXPbFlHPLjiR4t-hy2o&usqp=CAU"
                             ],
                             "brand": "Nike"
                         },
@@ -2384,7 +2067,7 @@ const data = {
                             "description_ar": "Max Air unit adds lasting cushioning and is visible through 3 windows for a truly modern look, Elongated design lines honor Air Max 90 while modernizing these kicks in a fresh way",
                             "description_en": "Max Air unit adds lasting cushioning and is visible through 3 windows for a truly modern look, Elongated design lines honor Air Max 90 while modernizing these kicks in a fresh way",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719369042416.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4mm4i03pn4i13kR0-3F8ZEj8WCLVxDYCrqQ&s",
                             "price": "5000",
                             "quantity": "6",
                             "unit": [
@@ -2395,13 +2078,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369042830.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193690421353.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193690421275.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369042503.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193690421015.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369042237.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171936904260.jpg",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_aUGcgbWgfUrSfhNs1Yga3FJKAZcbTLVtiwIcVm5J27uoGNY3GF4OtvvErhIve7MxPa0&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFeyeN1tzEcoqfnJsrSSNeFeDk7daqoyL8riKBlWyB_8powNuAHOrP4Jn-8ouB7m9yr0g&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-7N7bXNK3boakpbbxCbr1TUrXyRIWBi9IVKWURvLQ04rHcRnpbrMURc4el1poU7_jLXU&usqp=CAU",
                             ],
                             "brand": "Nike"
                         },
@@ -2412,7 +2091,7 @@ const data = {
                             "description_ar": "Maximum breathability is achieved with Dri-FIT moisture management technology and perforated mid and back panels. A contrast underbill reduces sun glare. This 6-panel cap has an unstructured low profile design with a hook and loop closure.",
                             "description_en": "Maximum breathability is achieved with Dri-FIT moisture management technology and perforated mid and back panels. A contrast underbill reduces sun glare. This 6-panel cap has an unstructured low profile design with a hook and loop closure.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193691831991.jpg",
+                            "photo": "https://www.legacymonograms.com/cdn/shop/products/429467_Black_Flat_Front_2010_1024x1024.jpeg?v=1439808958",
                             "price": "230",
                             "quantity": "60",
                             "unit": [
@@ -2423,7 +2102,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193691831975.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRE6OtJ_rGZx6p9Tuo-On5FOTdkL7C9R-hnL2FMMMxbRg9JkNCEnZmSZB-2N6DOCP9kGk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSORJOAs1H6MlWx_qD_Qs7ezNfP13pfZ5DHfrbeAMgQBEveES-IDBSNA-JAurAPr8s3wXs&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpoTCLC62QbOsS2SXnOIdxB1xSf-73xLyI_5-ZQJbkzemsEZvdLPN8ryggMbQnZzeeUg&usqp=CAU"
                             ],
                             "brand": "Nike"
                         },
@@ -2434,7 +2115,7 @@ const data = {
                             "description_ar": "Shoulder seams are rolled forward so you can power through your swing with ease. Fold-over collar and 2-button placket add classic style; the collar is ribbed to help prevent curling. Stretchy knit fabric with Dri-FIT technology helps you stay dry and comfortable.",
                             "description_en": "Shoulder seams are rolled forward so you can power through your swing with ease. Fold-over collar and 2-button placket add classic style; the collar is ribbed to help prevent curling. Stretchy knit fabric with Dri-FIT technology helps you stay dry and comfortable.",
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719369320404.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/51czfqzXeSL._AC_SL1228_.jpg",
                             "price": "450",
                             "quantity": "12",
                             "unit": [
@@ -2445,317 +2126,13 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369320347.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369320195.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369320937.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193693201165.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369320439.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193693201526.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpdkwOfAPQbfaDPcxpVj1QNceu9sKKm_XDCOMWsa_4_UD6Kzjg7cF5XsrsF0prLAgRgk&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3diZSG3UxdXKOe0adaD4UjHNcc7E5_hGDazFbUMOakbtvP3FOuRp7czCf19O3gBF-lq8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfebqRA5ezOGQ-3-zj39VfwfRe6wzv9w7wkIXvlFwj5dXVvvx_pExzdbD5NsHrEWfkt0M&usqp=CAU"
                             ],
                             "brand": "Nike"
                         },
-                        {
-                            "id": 93,
-                            "name_ar": "Nike mens Benassi Just Do It Slides",
-                            "name_en": "Nike mens Benassi Just Do It Slides",
-                            "description_ar": "Sporty style: Lightweight sports slide sandal for men with a bold Nike logo embellished on the strap for plush comfort and an athletic look. Casual comfort: Sandal has injected Phylon midsole that doubles as an outsole for lightweight cushioning. Its soft midsole foam and jersey lining provide comfort so you can enjoy a relaxed, premium experience. Natural motion: Men's Nike slides have",
-                            "description_en": "Sporty style: Lightweight sports slide sandal for men with a bold Nike logo embellished on the strap for plush comfort and an athletic look. Casual comfort: Sandal has injected Phylon midsole that doubles as an outsole for lightweight cushioning. Its soft midsole foam and jersey lining provide comfort so you can enjoy a relaxed, premium experience. Natural motion: Men's Nike slides have",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193694861648.jpg",
-                            "price": "200",
-                            "quantity": "30",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193694861947.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369486248.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193694861489.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171936948621.jpg"
-                            ],
-                            "brand": "Nike"
-                        },
-                        {
-                            "id": 94,
-                            "name_ar": "RIDGE wallets for men - The Ultimate RFID Wallet for Modern Dads - Slim, Stylish, and RFID Blocking - Aluminum Card & Money Clip Wallet (Gunmetal)",
-                            "name_en": "RIDGE wallets for men - The Ultimate RFID Wallet for Modern Dads - Slim, Stylish, and RFID Blocking - Aluminum Card & Money Clip Wallet (Gunmetal)",
-                            "description_ar": "Lifetime Guarantee: The Ridge wallet is made from military-grade materials ensuring durability, with a lifetime guarantee covering elastic, screws, money clip, and cash strap plate replacements. RFID Blocking: Metal body protects cards from RFID Chip Readers. Functional & Slim: Holds 1-12 cards without stretching, ideal for business, credit, and debit cards, bills; outside notch for easy card access. Integrated Money Clip: Secure bills with the proprietary metal clip; also available with a Cash Strap option. Specifications: RFID-blocking 6061-T6 aluminum, anodized gunmetal plates, 2 oz weight, 86 x 54 x 6 mm frame, interchangeable elastic and screws.",
-                            "description_en": "Lifetime Guarantee: The Ridge wallet is made from military-grade materials ensuring durability, with a lifetime guarantee covering elastic, screws, money clip, and cash strap plate replacements. RFID Blocking: Metal body protects cards from RFID Chip Readers. Functional & Slim: Holds 1-12 cards without stretching, ideal for business, credit, and debit cards, bills; outside notch for easy card access. Integrated Money Clip: Secure bills with the proprietary metal clip; also available with a Cash Strap option. Specifications: RFID-blocking 6061-T6 aluminum, anodized gunmetal plates, 2 oz weight, 86 x 54 x 6 mm frame, interchangeable elastic and screws.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719369979830.jpg",
-                            "price": "450",
-                            "quantity": "26",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369980648.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193699801393.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193699801294.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193699801385.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193699801669.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719369980211.jpg"
-                            ],
-                            "brand": "RIDGE"
-                        },
-                        {
-                            "id": 95,
-                            "name_ar": "The Ridge Tungsten Rings For Men - Mens Wedding Band - Strong, Durable, and Scratch-Resistant Beveled Ring With Silicone Band",
-                            "name_en": "The Ridge Tungsten Rings For Men - Mens Wedding Band - Strong, Durable, and Scratch-Resistant Beveled Ring With Silicone Band",
-                            "description_ar": "Premium Material: Crafted from carbon fiber, tungsten carbide, and titanium with a dual-layer design for comfort and durability, backed by a lifetime warranty. Beveled Design: Outer beveled edge and inner convex shape provide comfort and a pinch-free fit. Comes with a Silicone Band: Each ring set includes a high-quality ridge silicone band, ideal for active lifestyles without compromising performance. The Perfect Gift: Ideal for anniversaries, birthdays, Valentine's Day, Father’s Day, or any special occasion. Never Lost & Forever Fit Protection: Covered for life with comprehensive warranty.",
-                            "description_en": "Premium Material: Crafted from carbon fiber, tungsten carbide, and titanium with a dual-layer design for comfort and durability, backed by a lifetime warranty. Beveled Design: Outer beveled edge and inner convex shape provide comfort and a pinch-free fit. Comes with a Silicone Band: Each ring set includes a high-quality ridge silicone band, ideal for active lifestyles without compromising performance. The Perfect Gift: Ideal for anniversaries, birthdays, Valentine's Day, Father’s Day, or any special occasion. Never Lost & Forever Fit Protection: Covered for life with comprehensive warranty.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719370185343.jpg",
-                            "price": "2500",
-                            "quantity": "56",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851707.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370185628.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851946.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171937018568.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851143.jp,g",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851198.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851028.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851029.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193701851403.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370185575.jpg",
-                            ],
-                            "brand": "RIDGE"
-                        },
-                        {
-                            "id": 96,
-                            "name_ar": "The Ridge Premium Hard Shell Carry On Luggage - TSA Approved Lock - 360° Spinner Wheels for Travel - Basecamp Orange",
-                            "name_en": "The Ridge Premium Hard Shell Carry On Luggage - TSA Approved Lock - 360° Spinner Wheels for Travel - Basecamp Orange",
-                            "description_ar": "Intelligent Interior Design: Features 200D fabric interior with a compression panel and zipped pocket for organized packing. Durable Elegance: Constructed with German Makrolon shell, aluminum protectors, TSA-Approved lock, and YKK Zippers. Effortless Mobility: Includes an exterior trolley for easy navigation, 360° spinner wheels, and a telescopic handle. Smart Tracking: Equipped with a dedicated AirTag/GPS tracker pocket for enhanced security during travels. Versatile Handling: Offers both vertical and horizontal carry handles for convenient portability.",
-                            "description_en": "Intelligent Interior Design: Features 200D fabric interior with a compression panel and zipped pocket for organized packing. Durable Elegance: Constructed with German Makrolon shell, aluminum protectors, TSA-Approved lock, and YKK Zippers. Effortless Mobility: Includes an exterior trolley for easy navigation, 360° spinner wheels, and a telescopic handle. Smart Tracking: Equipped with a dedicated AirTag/GPS tracker pocket for enhanced security during travels. Versatile Handling: Offers both vertical and horizontal carry handles for convenient portability.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193703261377.jpg",
-                            "price": "3600",
-                            "quantity": "120",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193703271351.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193703271069.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171937032756.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370327292.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193703271863.jpg"
-                            ],
-                            "brand": "RIDGE"
-                        },
-                        {
-                            "id": 98,
-                            "name_ar": "adidas Unisex-Adult Adilette Shower Slides Sandal",
-                            "name_en": "adidas Unisex-Adult Adilette Shower Slides Sandal",
-                            "description_ar": "Quick-drying shower slides with superior cushioning, slip-on upper for easy on and off, quick-dry single-bandage textile upper, soft Cloudfoam footbed for quick-dry comfort, EVA outsole for lightweight cushioning.",
-                            "description_en": "Quick-drying shower slides with superior cushioning, slip-on upper for easy on and off, quick-dry single-bandage textile upper, soft Cloudfoam footbed for quick-dry comfort, EVA outsole for lightweight cushioning.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193709171755.jpg",
-                            "price": "220",
-                            "quantity": "33",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370917570.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370917724.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370917562.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193709171035.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719370917894.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193709171163.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193709171306.jpg"
-                            ],
-                            "brand": "Adidas"
-                        },
-                        {
-                            "id": 99,
-                            "name_ar": "adidas Men's Essentials 3-Stripes Tricot Jogger Pants",
-                            "name_en": "adidas Men's Essentials 3-Stripes Tricot Jogger Pants",
-                            "description_ar": "apered track pants made with recycled materials.Elastic waist with drawcord Front pockets Cuffed hems",
-                            "description_en": "apered track pants made with recycled materials.Elastic waist with drawcord Front pockets Cuffed hems",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719371090931.jpg",
-                            "price": "200",
-                            "quantity": "100",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371090276.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371090671.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371090235.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371090100.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371090929.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371090477.jpg"
-                            ],
-                            "brand": "Adidas"
-                        },
-                        {
-                            "id": 100,
-                            "name_ar": "adidas Men's AX2S Hiking Shoes",
-                            "name_en": "adidas Men's AX2S Hiking Shoes",
-                            "description_ar": "EVA midsole Imported Lace closure",
-                            "description_en": "EVA midsole Imported Lace closure",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719371220814.jpg",
-                            "price": "590",
-                            "quantity": "16",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193712201972.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193712201292.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193712201965.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371220637.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193712201334.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193712201299.jpg"
-                            ],
-                            "brand": "Adidas"
-                        },
-                        {
-                            "id": 101,
-                            "name_ar": "adidas Men's Superlite 2 Cap",
-                            "name_en": "adidas Men's Superlite 2 Cap",
-                            "description_ar": "The adidas Superlite 2 Relaxed Adjustable Performance Cap is ready for a new adventure any day. Low-profile cap with pre-curved brim. Brand logo at the front panel. Six-panel construction. Adjustable hook and loop closure at rear.",
-                            "description_en": "The adidas Superlite 2 Relaxed Adjustable Performance Cap is ready for a new adventure any day. Low-profile cap with pre-curved brim. Brand logo at the front panel. Six-panel construction. Adjustable hook and loop closure at rear.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719371380841.jpg",
-                            "price": "269",
-                            "quantity": "30",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371380726.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371380710.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371380640.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371380702.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193713801072.jpg"
-                            ],
-                            "brand": "Adidas"
-                        },
-                        {
-                            "id": 117,
-                            "name_ar": "PandaEar Set of 3 Silicone Baby Bibs Waterproof, Soft, Unisex, 10-72 Months (Brown/Blue/Green)",
-                            "name_en": "PandaEar Set of 3 Silicone Baby Bibs Waterproof, Soft, Unisex, 10-72 Months (Brown/Blue/Green)",
-                            "description_ar": "75% Imported STURDY POCKET- Our bibs come with a deep and sturdy spill pocket that catches any stray food or liquids. MOST AFFORDABLE- Our 3-pack reusable silicone bibs will get you through the days at a best budget price. With an array of trendy colors, you are sure to find one that matches kids  outfit of the day. 100% SOFT SILICONE- Our light bibs are made of 100% soft silicone and will help cut down on your laundry. ADJUSTABLE CLOSURE- The neck strap provides four different sizes and is suitable for children ages 6 months to 6 years. LIFETIME WARRANTY We are incredibly proud of our craftsmanship and offer a lifetime warranty on all our products. If you are not happy with our bibs, simply give us a shout. We will replace them free of charge or refund your purchase.",
-                            "description_en": "75% Imported STURDY POCKET- Our bibs come with a deep and sturdy spill pocket that catches any stray food or liquids. MOST AFFORDABLE- Our 3-pack reusable silicone bibs will get you through the days at a best budget price. With an array of trendy colors, you are sure to find one that matches kids  outfit of the day. 100% SOFT SILICONE- Our light bibs are made of 100% soft silicone and will help cut down on your laundry. ADJUSTABLE CLOSURE- The neck strap provides four different sizes and is suitable for children ages 6 months to 6 years. LIFETIME WARRANTY We are incredibly proud of our craftsmanship and offer a lifetime warranty on all our products. If you are not happy with our bibs, simply give us a shout. We will replace them free of charge or refund your purchase.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719375267392.jpg",
-                            "price": "55",
-                            "quantity": "28",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193752671535.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375267219.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375267976.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193752671766.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193752671800.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193752681310.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193752681276.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375268724.jpg"
-                            ],
-                            "brand": "PandaEar"
-                        },
-                        {
-                            "id": 118,
-                            "name_ar": "PandaEar 2 Pack 100% Tiny Silicone Drinking Training Cup with Handles & Straw for Baby and Toddler (White Blue)",
-                            "name_en": "PandaEar 2 Pack 100% Tiny Silicone Drinking Training Cup with Handles & Straw for Baby and Toddler (White Blue)",
-                            "description_ar": "LITTLE HANDS Designed for little hands and mouth, our premium silicone collection not only is an alternative to traditional plastics, disposable or fragile dishware but also protects and aids developing teeth. NON-SLIP Simple, elegant and equipped with handles and a soft silicone straw, our training cup is the perfect way for little ones to learn how to drink like a big kid! When they are ready to drink from an open cup, simply remove the lid and straw CONVENIENT Designed for everyday life and perfect for indoor or outdoor use. Stain resistant, gunk repelling, chip resistant, scratch proof, and top-rack dishwasher safe for quick cleanup. SAFE Our cups are BPA-, PVC-, and phthalates-free, lightweight, and shatter-resistant. Suitable for hot and cold foods and liquids. 100% SATISFACTION GUARANTEE –We want you to purchase your silicone cups knowing you will be fully satisfied. It’s that simple. If for any reason you are not happy with your purchase, we will completely refund your order.",
-                            "description_en": "LITTLE HANDS Designed for little hands and mouth, our premium silicone collection not only is an alternative to traditional plastics, disposable or fragile dishware but also protects and aids developing teeth. NON-SLIP Simple, elegant and equipped with handles and a soft silicone straw, our training cup is the perfect way for little ones to learn how to drink like a big kid! When they are ready to drink from an open cup, simply remove the lid and straw CONVENIENT Designed for everyday life and perfect for indoor or outdoor use. Stain resistant, gunk repelling, chip resistant, scratch proof, and top-rack dishwasher safe for quick cleanup. SAFE Our cups are BPA-, PVC-, and phthalates-free, lightweight, and shatter-resistant. Suitable for hot and cold foods and liquids. 100% SATISFACTION GUARANTEE –We want you to purchase your silicone cups knowing you will be fully satisfied. It’s that simple. If for any reason you are not happy with your purchase, we will completely refund your order.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193754161729.jpg",
-                            "price": "75",
-                            "quantity": "25",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375416902.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193754161682.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193754161763.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375416431.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193754161552.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193754161626.jpg"
-                            ],
-                            "brand": "PandaEar"
-                        },
-                        {
-                            "id": 119,
-                            "name_ar": "PandaEar Toddler Leash Harness and Anti Lost Wrist Link, 3 in 1 Kids Safety Harnesses with Leash, Child Anti-Lost Leash Walking Wristband Assistant Strap Belt for Baby Girls -Pink",
-                            "name_en": "PandaEar Toddler Leash Harness and Anti Lost Wrist Link, 3 in 1 Kids Safety Harnesses with Leash, Child Anti-Lost Leash Walking Wristband Assistant Strap Belt for Baby Girls -Pink",
-                            "description_ar": "Quality Assurance: PandaEar toddler leash boasts a breathable cloth harness and durable nylon rope. The wrist link is made of secure stainless-steel wire and sturdy PU material, ensuring durability and safety. The wristband features ultra-soft sponge padding for comfort and protection against scratches and sweat. Adorable Butterfly Wing Design: Captivate your child's imagination with our harness featuring charming butterfly wings. Adjustable shoulder straps and a buckle strap guarantee a comfortable and secure fit for most kids. The 360° swivel connector empowers toddlers to move freely, ensuring both safety and delightful exploration. Security and Independence: Keep your child close during outdoor activities while allowing them independence. This 3-in-1 harness enables children to explore freely while relieving the strain on your shoulders. Perfect for crowded places like airports, parks, and museums. Versatile Usage: Adjustable for children aged 1 to 5 years, our anti-lost harness is easy to wear and carry. Three different usage options include children wearing the harness with a rope led by an adult, wearing the harness with a wrist link led by an adult, or both parent and child wearing wristbands. Compact & Convenient Design: Our toddler leash from PandaEar features a compact and convenient design for on-the-go parents. The lightweight build and foldable nature make it easy to carry in your bag, providing a hassle-free solution for spontaneous outdoor activities.",
-                            "description_en": "Quality Assurance: PandaEar toddler leash boasts a breathable cloth harness and durable nylon rope. The wrist link is made of secure stainless-steel wire and sturdy PU material, ensuring durability and safety. The wristband features ultra-soft sponge padding for comfort and protection against scratches and sweat. Adorable Butterfly Wing Design: Captivate your child's imagination with our harness featuring charming butterfly wings. Adjustable shoulder straps and a buckle strap guarantee a comfortable and secure fit for most kids. The 360° swivel connector empowers toddlers to move freely, ensuring both safety and delightful exploration. Security and Independence: Keep your child close during outdoor activities while allowing them independence. This 3-in-1 harness enables children to explore freely while relieving the strain on your shoulders. Perfect for crowded places like airports, parks, and museums. Versatile Usage: Adjustable for children aged 1 to 5 years, our anti-lost harness is easy to wear and carry. Three different usage options include children wearing the harness with a rope led by an adult, wearing the harness with a wrist link led by an adult, or both parent and child wearing wristbands. Compact & Convenient Design: Our toddler leash from PandaEar features a compact and convenient design for on-the-go parents. The lightweight build and foldable nature make it easy to carry in your bag, providing a hassle-free solution for spontaneous outdoor activities.",
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719375547554.jpg",
-                            "price": "200",
-                            "quantity": "20",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193755471258.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375547721.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193755471170.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193755471334.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375547381.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171937554750.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193755471647.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375547334.jpg"
-                            ],
-                            "brand": "PandaEar"
-                        },
+                        
                         {
                             "id": 120,
                             "name_ar": "The Children's Place Big Boys' Kid Long Sleeve Sweater",
@@ -2764,7 +2141,7 @@ const data = {
                             "description_en": "SHAWL SWEATER — He'll love this cozy sweater with the cutest shawl collar. FABRIC — Made of 100% combed cotton CLOSURE — Front button-and-loop closure DESIGN — Features Christmas fairisle at front, shawl collar and long sleeves with rib-knit cuffs and hem THE CHILDREN'S PLACE — We offer a huge selection of kid's clothing! Shop us for jeans, shorts, leggings, chinos, polo shirts, dresses, pajamas, and accessories.",
 
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193758311728.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmY2Njt-TufnssT1mH99cb05ITFw4COEV_Cw&s",
                             "price": "350",
                             "quantity": "35",
                             "unit": [
@@ -2775,61 +2152,10 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193758311866.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193758311190.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYxrrSsxGMFsKsNvOUdurqadY_vorjyhAnnS_w8EJ32TlOpRp87POEw-mO6izRlKh8_Q&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpL_Vt-9QV-exOEV49iuYE9ElaF3pWQtdEsCs3jGTt0UpiA-TvmowlIwweZ7dAkfuVmDQ&usqp=CAU"
                             ],
                             "brand": "The Children's Place"
-                        },
-                        {
-                            "id": 121,
-                            "name_ar": "Under Armour Boys' Logo Short Sleeve Tee Shirt",
-                            "name_en": "Under Armour Boys' Logo Short Sleeve Tee Shirt",
-                            "description_ar": "UA Tech fabric is quick-drying, ultra-soft & has a more natural feel Material wicks sweat & dries really fast Raglan sleeves Many UA Tech T's are made with recycled, traceable polyester & re-use about 5 bottles per shirt Loose: Fuller cut for complete comfort.",
-
-                            "description_en": "UA Tech fabric is quick-drying, ultra-soft & has a more natural feel Material wicks sweat & dries really fast Raglan sleeves Many UA Tech T's are made with recycled, traceable polyester & re-use about 5 bottles per shirt Loose: Fuller cut for complete comfort.",
-
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193759711259.jpg",
-                            "price": "230",
-                            "quantity": "50",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375971798.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719375971257.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193759711022.jpg"
-                            ],
-                            "brand": "Under Armour"
-                        },
-                        {
-                            "id": 122,
-                            "name_ar": "Under Armour Boys' Ua Elite Ss",
-                            "name_en": "Under Armour Boys' Ua Elite Ss",
-                            "description_ar": "AN EVERYDAY STAPLE: Featuring a stylish crew neckline and quick-drying, ultra-soft fabric that wicks away sweat and dries fast, this short sleeve t-shirt is a go-to for anything from casual school days to active days spent playing sports or running around. PREMIUM QUALITY: We use high-quality materials in all our clothing to ensure maximum comfort, longevity and lasting power. Always a soft and comfortable fit. THE PERFECT GIFT: A great item for gifting! UNDER ARMOUR: Under Armour’s vision is to inspire you with performance solutions you never knew you needed and can’t imagine living without.",
-                            "description_en": "AN EVERYDAY STAPLE: Featuring a stylish crew neckline and quick-drying, ultra-soft fabric that wicks away sweat and dries fast, this short sleeve t-shirt is a go-to for anything from casual school days to active days spent playing sports or running around. PREMIUM QUALITY: We use high-quality materials in all our clothing to ensure maximum comfort, longevity and lasting power. Always a soft and comfortable fit. THE PERFECT GIFT: A great item for gifting! UNDER ARMOUR: Under Armour’s vision is to inspire you with performance solutions you never knew you needed and can’t imagine living without.",
-
-                            "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193760881756.jpg",
-                            "price": "360",
-                            "quantity": "20",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719376088739.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193760891178.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193760891995.jpg"
-                            ],
-                            "brand": "Under Armour"
                         },
                         {
                             "id": 123,
@@ -2839,7 +2165,7 @@ const data = {
                             "description_en": "Pre-washed for added softness and to reduce shrinkage, these come in durable cotton for comfortable daily wear that holds up A classic straight leg 2-pack with 5-pocket styling, inner adjustable waist tabs and a tagless label Snap closure with zipper fly for sizes 4-7, button closure with zipper fly for sizes 8-16 Stock up on fit-for-many-occasion everyday jeans that are great with polos and graphic tees alike The Children's Place offers value-priced clothes and apparel that are fun and easy to put together They'll love this style…you'll love this place",
 
                             "rate": null,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193761821742.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/91oakLgU5xL._AC_UY1000_.jpg",
                             "price": "650o",
                             "quantity": "35",
                             "unit": [
@@ -2850,12 +2176,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719376182831.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193761821017.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193761821306.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193761821750.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193761821023.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719376182786.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5xDmXiU5j_GppxymyEkuQZBEhqYa6TBKei6HREOUtg8cQESQF101mSPXZhY1x1A5XG8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBI33W8q7XzXmRdnalEGhzI1tKUYtJKZfAZzvQEqJUrqaU3cbX-a8t77SsZrN5-EkFezg&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDosZ-Jyydch2OvhnLEyZuBAQpfzSjvXJbZ9TW-rUzQFitFjwzjTcr8W7xEdUjpfzeuM0&usqp=CAU"
                             ],
                             "brand": "The Children's Place"
                         }
@@ -2865,33 +2188,7 @@ const data = {
                 {
                     "cat_name": "Women's Accessoires & Jewelry",
                     "products": [
-                        {
-                            "id": 102,
-                            "name_ar": "DEARMAY Gold Bracelets for Women Waterproof, 14K Real Gold Jewelry Sets for Women Trendy Thin Dainty Stackable Cuban Link Paperclip Chain Bracelet Pack Fashion Accessories Gifts for Womens",
-                            "name_en": "DEARMAY Gold Bracelets for Women Waterproof, 14K Real Gold Jewelry Sets for Women Trendy Thin Dainty Stackable Cuban Link Paperclip Chain Bracelet Pack Fashion Accessories Gifts for Womens",
-                            "description_ar": "6Pcs GOLD BRACELETS SET contains: ①Satellite Bracelets ②Figaro Bracelets ③Box Chain Bracelets ④Paperclip Bracelets ⑤Satellite Bracelets ⑥Rope Bracelets. These Bracelets are suitable for layering as well as being worn alone. BRACELETS SIZE Bracelet length 6.5”+ 2.5” extender. Strong lobster clasp design, you can easily to adjust bracelets length by yourself, this ankle bracelets suitable for women and teens. BRACELET MATERIAL:14k gold filled bracelets, lead free, nickel free and hypoallergenic.Great for sensitive skin and all-day Wear. PACKAGE AND OCCASION dainty gold bracelets come in a cute gift box and have become a great gift for yourself or someone you love. They are suitable for any occasion and is perfect for weddings, engagements, anniversaries, graduations, parties, proms and more. 90 Day GUARANTEE :️DEARMAY offer a 90 day No-Questions-Asked Refund guarantee to ensure your complete satisfaction.",
-                            "description_en": "6Pcs GOLD BRACELETS SET contains: ①Satellite Bracelets ②Figaro Bracelets ③Box Chain Bracelets ④Paperclip Bracelets ⑤Satellite Bracelets ⑥Rope Bracelets. These Bracelets are suitable for layering as well as being worn alone. BRACELETS SIZE Bracelet length 6.5”+ 2.5” extender. Strong lobster clasp design, you can easily to adjust bracelets length by yourself, this ankle bracelets suitable for women and teens. BRACELET MATERIAL:14k gold filled bracelets, lead free, nickel free and hypoallergenic.Great for sensitive skin and all-day Wear. PACKAGE AND OCCASION dainty gold bracelets come in a cute gift box and have become a great gift for yourself or someone you love. They are suitable for any occasion and is perfect for weddings, engagements, anniversaries, graduations, parties, proms and more. 90 Day GUARANTEE :️DEARMAY offer a 90 day No-Questions-Asked Refund guarantee to ensure your complete satisfaction.",
-
-                            "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193717561599.jpg",
-                            "price": "60000",
-                            "quantity": "5",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193717562000.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371756418.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371756636.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193717561754.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371756363.jpg",
-                            ],
-                            "brand": "DEARMAY"
-                        },
+                         
                         {
                             "id": 103,
                             "name_ar": "DEARMAY Gold Hoop Earrings for Women Trendy, 14K Gold Plated Huggie Earrings for Women Jewelry Hypoallergenic Thick Chunky Fashion Earring Dangle Earrings for Women",
@@ -2901,7 +2198,7 @@ const data = {
                             "description_en": "★3Pcs Earring Set Design★ contain:3*Gold hoop earrings of different sizes.These beautiful gold earrings are perfect for a minimalist. They are great for every day wear and for formal settings. They are simple, dainty but thick and can be paired with just about anything. ★Gold Hoops Material★ gold chunky hoop earring made of 14K gold plated ,We use only high quality metals which means our pieces are 100% hypoallergenic. Those with allergies do not need to worry about developing an allergic reaction. ★Size And Package★ diameters from small to large are:0.8 ,1.2 ,1.58.Each product will be individually packaged in a delicate box. ★Chunky Gold Earrings Occasions★ pair of dainty earrings is a sentimental surprise for any awesome lady. Great gifts for Mom or Grandma on Mother's Day, anniversary, birthday, or wedding celebration. ★After Sales Service★ Ensure Your Complete Satisfaction, We Offer a 60-Day No-Risk Return Policy and 90-Day Warranty.",
 
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719371907720.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61pQYEQIEDL._AC_UY1000_.jpg",
                             "price": "32000",
                             "quantity": "3",
                             "unit": [
@@ -2912,12 +2209,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193719071129.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371907406.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171937190754.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719371907655.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193719071931.jpg",
-                            ],
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnYQecmVUEysVteUAXtCpHFMO5_qFbtoRFjJeQ-DDqJVGUJtzFHxP_eZOfg8T593roFtQ&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgyqGyHhZIGDUYE00rYNS2ESh1tCQ1uGz7-VGbX1owhL1yz7fuFbCLbqI2vy31bUHvJB0&usqp=CAU"
+                              ],
                             "brand": "DEARMAY"
                         },
                         {
@@ -2929,7 +2223,7 @@ const data = {
                             "description_en": "Ring Set Design These diamond rings can be worn separately or stacked.The set contains three pairs of gold zircon rings of different thicknesses and the same size. ★Material 14K Gold Plated rings set, won't tarnish easily. Lead-free, nickel-free, and hypoallergenic. It's very skin-friendly and suitable for daily wear ★Size5A pack contains three gold rings of the same circumference, the larger ring width of 3mm, two thin rings width of 1m. Size/Diameter/Circumference, 5/15.5/49mm ★Gold rings Occasions These dainty rings are a sentimental surprise for any awesome lady. Great gifts for Mom or Grandma on Mother's Day, anniversary, birthday, or wedding celebration. ★90 Day GUARANTEE DEARMAY offer a 90 day No-Questions-Asked Refund guarantee to ensure your complete satisfaction.",
 
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193721121124.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71g5+Dd-QEL._AC_SL1500_.jpg",
                             "price": "9500",
                             "quantity": "9",
                             "unit": [
@@ -2939,11 +2233,12 @@ const data = {
                                     "name_ar": "Kylynn Carroll"
                                 }
                             ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193721121840.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193721121745.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372112147.jpg"
-                            ],
+                            "images":[
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrydnsaobDQQCJzcuMOmfiFAC4HG2aOMt-Sm1K0SPwG6ouK6LRZHtbt31o4UgEAwpYJwQ&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8-4FXX8qb4wWYdMekbcpDdBNtXBSVWrhJc--8ZncipSR_e5SVKJAmhXT0KPNQHuKGUqU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yQzQnmRa-yobJl4A6MiE5PzZ7zEbedBUE5AA1mAVSPXoKV8nH7t3VkDau60QiZPyHp0&usqp=CAU",
+                                
+                              ],
                             "brand": "DEARMAY"
                         },
                         {
@@ -2955,7 +2250,7 @@ const data = {
                             "description_en": "NEW BEGINNINGS GIFTS FOR WOMEN: A meaningful gift to celebrate a fresh start. Thoughtful divorce gifts for women. Congratulate her on a new job, show her your appreciation, or wish her all the best on a new part of her life. May the moonstone’s nurturing power give you guidance and comfort, showing all the possibilities ahead. GIFT READY PACKAGE: We take pride in the beautiful presentation of our gifts for women. Every one of our beautiful necklaces is part of a gift set that comes in our custom designed jewelry box with a blank greeting card, a jewelry care guide, and a polishing cloth. This is one of the best gift ideas for women starting on a new chapter of their story. QUALITY MATERIALS: All the components of our new beginnings gifts are made with precious metal, for the precious woman in your life. Grade AB moonstone with sparkling rainbow sheen! Referred to as a “woman's healing stone”, it helps balance hormones and female cycles, promoting fertility. The sterling silver chain is 18” long with adjustable loop at 16”. INSPIRATIONAL GIFT: Give this to a woman starting anew. Be there for her during her divorce, breakup, addiction recovery, retirement, new career, graduation, promotion, pregnancy, or miscarriage. Whether it's from husband to wife or friend to friend, a small gift can show big feelings in your heart. HANDMADE WITH LOVE: Our friendship necklaces are made with care, because we care about love and family! Each moonstone necklace is made with a loving touch.",
 
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193723781464.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/81lGVx6C0rL._AC_UY1000_.jpg",
                             "price": "26000",
                             "quantity": "2",
                             "unit": [
@@ -2966,41 +2261,13 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193723781206.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193723781138.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193723781304.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193723781610.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmZQSY7ArYysgi7vCxqIDXfI14kgKtuLoeYSqk9Z7yY5HjDn0-49DlETMXJGKZVdWMx98&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtKLbs-iFegCyQLjXQB7znnwM2_3l4DJqhjrn3vzdsqixyg2aQXTvy22BeARBKiubDH_w&usqp=CAU",
+                                 
                             ],
                             "brand": "Hope. Love. Shine."
                         },
-                        {
-                            "id": 106,
-                            "name_ar": "HOPE LOVE SHINE 50th / 30th / 40th / 60th / 16th / 21st / Birthday Gift necklace for woman interlocking circles 5 rings for 5 decades gift box",
-                            "name_en": "HOPE LOVE SHINE 50th / 30th / 40th / 60th / 16th / 21st / Birthday Gift necklace for woman interlocking circles 5 rings for 5 decades gift box",
-                            "description_ar": "MEANINGFUL JEWELRY: Celebrate her 50th birthday with our exquisite 5 Circle Necklace. This elegant piece features five interlocking rings, each representing a decade of cherished memories. It's the perfect gift to honor her milestone, capturing the beauty and significance of her fifty wonderful years. Show her how much she means to you with this timeless keepsake, designed to celebrate a life well-lived. UNFORGETTABLE MILESTONE: Make her journey to turning 50 unforgettable with the perfect gift. Our unique necklaces for women symbolize the endless bond of love and friendship. This timeless piece is an ideal 50th birthday gift for her, celebrating fifty years with elegance. A heartfelt gift from daughter to mom, husband to wife, sister to sister, granddaughter to grandma or friend to friend, it's the perfect birthday accessory. TIMELESS ELEGANCE: Discover our birthday gifts for women collection with our meticulously crafted 5 ring necklace. Each piece is a tribute to cherished bonds, made with precious metals—choose from sterling silver or 14K gold vermeil. With a 18” chain, adjustable loop, and the pendant measures .65” in height and 2.3” in width. The interlocking rings of the necklace represent the number of decades she has gracefully adorned. HANDCRAFTED WITH LOVE: This 50th birthday necklace is more than just jewelry; all our rings and necklaces are handcrafted symbols of love and remembrance. Each pendant is meticulously textured by hand, resulting in a uniquely beautiful hammered finish that catches the light and sparkles with every movement. No two pendants are alike, our products are a testament to our commitment to honoring love and family. HEARTFELT PACKAGE: We take pride in the beautiful presentation of our womens birthday gifts. Alongside the stunning necklace, each set includes a blank greeting card and jewelry care guide. Encased in our custom-designed jewelry box, adorned with a satin ribbon, it's more than a gift—it's an experience of love and appreciation. All items are carefully packaged and ready for gifting, ensuring a delightful unboxing experience for the recipient.",
-
-                            "description_en": "MEANINGFUL JEWELRY: Celebrate her 50th birthday with our exquisite 5 Circle Necklace. This elegant piece features five interlocking rings, each representing a decade of cherished memories. It's the perfect gift to honor her milestone, capturing the beauty and significance of her fifty wonderful years. Show her how much she means to you with this timeless keepsake, designed to celebrate a life well-lived. UNFORGETTABLE MILESTONE: Make her journey to turning 50 unforgettable with the perfect gift. Our unique necklaces for women symbolize the endless bond of love and friendship. This timeless piece is an ideal 50th birthday gift for her, celebrating fifty years with elegance. A heartfelt gift from daughter to mom, husband to wife, sister to sister, granddaughter to grandma or friend to friend, it's the perfect birthday accessory. TIMELESS ELEGANCE: Discover our birthday gifts for women collection with our meticulously crafted 5 ring necklace. Each piece is a tribute to cherished bonds, made with precious metals—choose from sterling silver or 14K gold vermeil. With a 18” chain, adjustable loop, and the pendant measures .65” in height and 2.3” in width. The interlocking rings of the necklace represent the number of decades she has gracefully adorned. HANDCRAFTED WITH LOVE: This 50th birthday necklace is more than just jewelry; all our rings and necklaces are handcrafted symbols of love and remembrance. Each pendant is meticulously textured by hand, resulting in a uniquely beautiful hammered finish that catches the light and sparkles with every movement. No two pendants are alike, our products are a testament to our commitment to honoring love and family. HEARTFELT PACKAGE: We take pride in the beautiful presentation of our womens birthday gifts. Alongside the stunning necklace, each set includes a blank greeting card and jewelry care guide. Encased in our custom-designed jewelry box, adorned with a satin ribbon, it's more than a gift—it's an experience of love and appreciation. All items are carefully packaged and ready for gifting, ensuring a delightful unboxing experience for the recipient.",
-
-                            "rate": 4.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193725021226.jpg",
-                            "price": "22000",
-                            "quantity": "6",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372502634.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193725021458.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193725021321.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372502647.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193725021646.jpg",
-                            ],
-                            "brand": "Hope. Love. Shine."
-                        },
+                        
                         {
                             "id": 107,
                             "name_ar": "MPRAINBOW Personalized Women Thick Link Bracelet - Love Quote Name ID Engraved Link Bracelet,Adjustable Watch Band Chain Wristband Jewelry Gifts to Lover Girlfriend Wife Mom Sister",
@@ -3010,7 +2277,7 @@ const data = {
                             "description_en": "Chunky Wrist Bracelet: The chain bracelet is made of 316L stainless steel, maintaining luster and good condition over years without corrosion or rust. It combines classic fashion elements with a touch of beauty, making it a perfect, timeless gift for any modern woman to express her personal style. Available in adjustable sizes and comes with a grey velvet bag for gifting.",
 
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193726771488.jpg",
+                            "photo": "https://i5.walmartimages.com/seo/MPRAINBOW-Personalized-Women-Thick-Link-Bracelet-Love-Quote-Name-ID-Engraved-Adjustable-Watch-Band-Chain-Wristband-Jewelry-Gifts-Lover-Girlfriend-Wif_89eb7cee-2338-4194-bdbb-cca0ad88e304.ca604ba1ec6a54f2ae126319c2ff5bf4.jpeg",
                             "price": "66000",
                             "quantity": "5",
                             "unit": [
@@ -3021,66 +2288,12 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372677466.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193726771302.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193726771437.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372677982.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XzVpODMtIPtIhNh7SO5an7E_kp_8bkIW52YV0f04fIsJv7_aG9_hmz3VZ1eRFoxPwSc&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmPNG_s1IivCRska5zgmuK7v5eAJ5l77pgp3_1Nwpm2QSLbEqerbCdGAzogwS_gYWAQFM&usqp=CAU"
                             ],
                             "brand": "MPRAINBOW"
                         },
-                        {
-                            "id": 108,
-                            "name_ar": "MPRAINBOW Personalized Women Thick Link Bracelet - Love Quote Name ID Engraved Link Bracelet,Adjustable Watch Band Chain Wristband Jewelry Gifts to Lover Girlfriend Wife Mom Sister",
-                            "name_en": "MPRAINBOW Personalized Women Thick Link Bracelet - Love Quote Name ID Engraved Link Bracelet,Adjustable Watch Band Chain Wristband Jewelry Gifts to Lover Girlfriend Wife Mom Sister",
-                            "description_ar": "Gold Bracelet set: Bracelet with Cubic Zirconia & Adjustable Bracelet, can be worn individually or together, featuring a fashionable design to keep you at the forefront of style. Perfect Gift: This Watch Band Chain Wristband is a timeless and unique gift, perfect for modern women looking to showcase their personal style. Chic and stunning on the wrist, it’s ideal for gifting to mom, daughter, sister, wife, niece, aunt, girlfriend, or yourself. Occasions: This chain link bracelet is versatile, suitable for daily wear or special occasions like Birthdays, Graduation, Mother’s Day, Father’s Day, Easter, Halloween, Thanksgiving, Christmas, back-to-school, team gifts, Communion, Christening, and more. Material: Made of 316L stainless steel, gold plated to ensure long-lasting color that won't tarnish, turn black, or cause skin irritation. Hypoallergenic, with a high-polished surface for smooth and comfortable wear. After service: Comes with a grey velvet bag, perfect for gift giving. Please feel free to contact us if you have any issues; we are committed to providing the best assistance possible.",
-
-                            "description_en": "Gold Bracelet set: Bracelet with Cubic Zirconia & Adjustable Bracelet, can be worn individually or together, featuring a fashionable design to keep you at the forefront of style. Perfect Gift: This Watch Band Chain Wristband is a timeless and unique gift, perfect for modern women looking to showcase their personal style. Chic and stunning on the wrist, it’s ideal for gifting to mom, daughter, sister, wife, niece, aunt, girlfriend, or yourself. Occasions: This chain link bracelet is versatile, suitable for daily wear or special occasions like Birthdays, Graduation, Mother’s Day, Father’s Day, Easter, Halloween, Thanksgiving, Christmas, back-to-school, team gifts, Communion, Christening, and more. Material: Made of 316L stainless steel, gold plated to ensure long-lasting color that won't tarnish, turn black, or cause skin irritation. Hypoallergenic, with a high-polished surface for smooth and comfortable wear. After service: Comes with a grey velvet bag, perfect for gift giving. Please feel free to contact us if you have any issues; we are committed to providing the best assistance possible.",
-
-                            "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193729561142.jpg",
-                            "price": "56000",
-                            "quantity": "4",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193729561595.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372956737.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193729561243.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719372956501.jpg",
-                            ],
-                            "brand": "MPRAINBOW"
-                        },
-                        {
-                            "id": 109,
-                            "name_ar": "Boho Colorful Beaded Choker Necklaces - 2pcs Summer Layered Chokers Necklace Women Beach Surfer Trendy Jewelry Gifts",
-                            "name_en": "Boho Colorful Beaded Choker Necklaces - 2pcs Summer Layered Chokers Necklace Women Beach Surfer Trendy Jewelry Gifts",
-                            "description_ar": "Colorful Beaded Necklace: This cute necklace is made of colorful artificial turquoise beads and a natural shell heart, 18k gold plated, nickel-free and lead-free, ensuring no harm to the skin, no rust, and comfort for sensitive skin. It comes with 2 gold-plated necklaces that can be worn separately, together, or with other styles, making it easy to match for daily wear or parties. Beautifully packaged and ready for giving, these summer boho necklaces are perfect for accessorizing during activities like surfing, swimming, or relaxing in the sun. The stainless steel choker necklace is 15.35 inches long with a 1.96-inch extension, adjustable to wear tighter as a choker or looser as a necklace. We deeply value every customer's shopping experience and are available anytime to provide quick solutions to any questions about this women's gold jewelry.",
-
-                            "description_en": "Colorful Beaded Necklace: This cute necklace is made of colorful artificial turquoise beads and a natural shell heart, 18k gold plated, nickel-free and lead-free, ensuring no harm to the skin, no rust, and comfort for sensitive skin. It comes with 2 gold-plated necklaces that can be worn separately, together, or with other styles, making it easy to match for daily wear or parties. Beautifully packaged and ready for giving, these summer boho necklaces are perfect for accessorizing during activities like surfing, swimming, or relaxing in the sun. The stainless steel choker necklace is 15.35 inches long with a 1.96-inch extension, adjustable to wear tighter as a choker or looser as a necklace. We deeply value every customer's shopping experience and are available anytime to provide quick solutions to any questions about this women's gold jewelry.",
-
-                            "rate": 3,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193731081390.jpg",
-                            "price": "200",
-                            "quantity": "30",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193731081176.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373108494.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193731081737.jpg"
-                            ],
-                            "brand": "MPRAINBOW"
-                        },
+                        
                         {
                             "id": 110,
                             "name_ar": "Cuff Tennis Bracelets for Women - Adjustable 8mm Cubic Zirconia Dainty Classic Tennis Bracelet Fashion Jewelry",
@@ -3090,7 +2303,7 @@ const data = {
                             "description_en": "Sparkling Tennis Bracelets: These cubic zirconia tennis bracelets from MPRAINBOW Jewelry boast flawless stones and a superior sparkle, crafted with durable, hypoallergenic materials and an adjustable cuff design for comfort, making them perfect for any occasion.",
 
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193732071020.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Eo6M-D06BuT-alnKGoY0PuJyxw2RPFswWA&s",
                             "price": "32000",
                             "quantity": "5",
                             "unit": [
@@ -3101,10 +2314,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/171937320765.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373207542.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193732071196.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193732071849.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl6RDsaKbXRuzHOPXKWiaHY8qQFDL6_xVeG0wxK81XSS_8NVlQnY6WeKzHE8vN1V6yPNU&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YsShPqQH_D1oiSr1P4s14PrbIB_-JuFt9iHbAV2SfGh6N-L5x1MRmhLXGNKIXGchMRU&usqp=CAU"
                             ],
                             "brand": "MPRAINBOW"
                         },
@@ -3116,7 +2327,7 @@ const data = {
                             "description_en": "COMFORTABLE RAIN JACKET: The Columbia Girls Switchback II Jacket is a hooded waterproof rain coat with elastic cuffs, and a drop tail, designed to keep your child cozy and dry. ADVANCED TECHNOLOGY: This winter rain jacket features our waterproof Hydroplus 100% nylon shell designed to keep active youth dry and protected in even the hardest of downpours. MODERN CLASSIC FIT: When the weather is on the edge, this all-weather coat is great for everyday use, with easy fit and comfortable range of motion. PROTECTIVE HOOD: Pull the hood up or throw it back, she'll find versatile shelter on the go. HANDY FEATURES: This waterproof jacket for girls includes elastic cuffs, a drop tail, and reflective detail.",
 
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719373654585.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/41-tYLLrLCL._AC_SY580_.jpg",
                             "price": "300",
                             "quantity": "22",
                             "unit": [
@@ -3127,10 +2338,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193736541623.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373654734.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373654601.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193736541694.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCrziS-CYB5d-l3TtJ_RCYD3p9iRBwYjM-M6Rhk1WFY6YmpqNEZQcnO0L3Op0ECbXeJM&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREJOGLNdeYqzOIirNwOEQN5n76CQNDMrijwxW9dRxqBKFId1MRGTsMDy43k4oSeArL9Qs&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVyZVRh1gKoICGLjD1mrOoZRj77gYZs0UGJBBkMF4H1vCzpBIJmvXmnB9BPwZxQImlBzI&usqp=CAU"
                             ],
                             "brand": "Columbia"
                         },
@@ -3143,7 +2353,7 @@ const data = {
                             "description_en": "SUPERB VALUE IN A STOCK-UP 12-PACK - Fill her sock drawer with a value 10-pack of pretty pastels. STRETCH TO FIT - A touch of spandex helps these ankle socks gently conform to her foot...and stay in place. SLEEK AND SMOOTH - The non-cushioned design means no bulk, just comfort. MARKED FOR CONVENIENCE - The Hanes logo and sizing are marked under the toe to help in laundry sorting. STAY-IN-PLACE RIBBED TOP - A narrow ribbed top helps these ankle socks stay comfortably in place. QUALITY FABRIC - A soft blend of 97% polyester with 2% stretchy, shape-holding spandex and 1% other fibers.",
 
                             "rate": 3.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193738271920.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR63oWoiTMqFQfpKGceinSavF0gRSwTSTmZgw&s",
                             "price": "160",
                             "quantity": "50",
                             "unit": [
@@ -3154,11 +2364,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193738271804.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373827196.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193738271224.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193738271131.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193738271284.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXGZFcq8iDoE2v9RbakAQhSFQpSPhi-WBBB0O5CwNvIIk72978ugWY98APASw8_85Sd4&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPz_ttJM8rZEyJuT1NH7tjDrxkIH4JxKrNTO2uXTkSrXvuAZ6UAwKEFqZ8kGmQAT0bQw&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXGZFcq8iDoE2v9RbakAQhSFQpSPhi-WBBB0O5CwNvIIk72978ugWY98APASw8_85Sd4&usqp=CAU"
                             ],
                             "brand": "Hanes"
                         },
@@ -3171,7 +2379,7 @@ const data = {
                             "description_en": "BE A DISNEY PRINCESS: Get ready for blissful dreams with Belle, Ariel, Elsa, and more with these adorable night pajamas. Send your little princess to bed dreaming about castles, adventures, and fun. Officially licensed Disney merchandise. CUTE DISNEY PAJAMAS: These fun pajamas for girls come in a variety of close-fitting top and bottoms styles and feature charming graphics and bright colors. These cute pajamas for toddler girls and big girls are available in sizes 2–8. COMFORTABLE SLEEPWEAR: The easy on-and-off design makes bedtime a snap for your little one. Tapered and cuffed footless pants or shorts leave feet free for easy playing. These pajamas are durable, fun to wear, and comfortable year-round. EASY CARE: Made from 100% cotton with expert stitching for added durability, these pajamas will last through many nights of bedtime adventures. For best results, wash with mild detergent on a gentle cycle and tumble dry on low. SAFETY & COMFORT: To ensure maximum comfort, choose the right size for your child to avoid clothing that is too long or too loose. These pajamas are manufactured from high-quality materials and made in accordance with all clothing safety standards.",
 
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193739621659.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/51u2mZKbciL._AC_.jpg",
                             "price": "300",
                             "quantity": "100",
                             "unit": [
@@ -3182,10 +2390,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193739621385.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193739621263.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373962649.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719373962487.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjc_DGyNZRm7Ia-IIQbL2_KRQBJprNUaqB7J6VYlYbI74qr67QXL8Hnk41kztgNa2xB8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCsqKoNFY_4lqGMPizR_mCPtp-ifFIxreonhhR7hx96kYb5sr804pKqpTvYTNhA4_I1W8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDcEoXnb9G_xk3GDuswfWyCvEMuCVmRhl6lzm6MEAZgUWW2VAWO_TfM07dY_y3i2Da9c&usqp=CAU"
                             ],
                             "brand": "Disney"
                         },
@@ -3197,7 +2404,7 @@ const data = {
 
                             "description_en": "❤[Excellent Material & Perfect Size] - Size: 70.7X27.5in/ 180 x 70cm, Material: Bubble Chiffon (100% polyester label), soft, light, comfortable, and breathable. Elegant design with delicate sewing, suitable for various occasions. Ideal gift for birthdays, weddings, and holidays. Hand wash separately, avoid direct sunlight.",
                             "rate": 3,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193743001629.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/71g-DbG+hzL._AC_UY1000_.jpg",
                             "price": "60",
                             "quantity": "120",
                             "unit": [
@@ -3208,41 +2415,13 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193743001606.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193743001780.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193743001880.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374300940.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374300155.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjjiPiwFMVcqdAvL3d4SPtI4J0nbFwlA9bp9x-7BjUyGlMXoJzyoYGvxcnBeMgoR1jH8&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYV88FrCs57p3Ispa6DUQVJOG6_QSc1_6j-FMzhpO531riFG8xGzMGx5DvL3iWeA2O5k&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhNliT1ePr4KXmWu4BGER8NJ9qrDq9vyUIqoEtgjaRTyRkQbYeesC1Jq43Ajn5ZgeymiY&usqp=CAU"
                             ],
                             "brand": "Yeieeo"
                         },
-                        {
-                            "id": 115,
-                            "name_ar": "Yeieeo Women's Stretch Under Scarf Hijab Cap Solid Color Hijab Tube 1pc/2pcs/4pcs Under Caps for Hijabs",
-                            "name_en": "Yeieeo Women's Stretch Under Scarf Hijab Cap Solid Color Hijab Tube 1pc/2pcs/4pcs Under Caps for Hijabs",
-                            "description_ar": "Fabric The fabric of this cap is polyester fiber. It’s soft, elastic and super comfortable. Size and types 12.2in.×8.6in.(22cm×31cm).Types: black, white, gray, black+white, black+gray. Usage and Function There are many ways to use this cap. It can be used as primer cap, chemotherapy cap, face mask, neck gaiter, balaclava, hood, hair band, wristband, etc. It is equivalent to buying 6 pieces for one item, which is really a bargain. Besides, it has the functions of windproof, sun protection, warm and protection. Applications Daily life, shopping, running, cycling, hiking, climbing, sports, fitness, parties, racing, motorcycle competitions, etc. Gift If you don't know what gift to give to friends or family, you can take this cap into account. And then you can introduce its magical usage to your friend/family, he will be surprised.",
-
-                            "description_en": "Fabric The fabric of this cap is polyester fiber. It’s soft, elastic and super comfortable. Size and types 12.2in.×8.6in.(22cm×31cm).Types: black, white, gray, black+white, black+gray. Usage and Function There are many ways to use this cap. It can be used as primer cap, chemotherapy cap, face mask, neck gaiter, balaclava, hood, hair band, wristband, etc. It is equivalent to buying 6 pieces for one item, which is really a bargain. Besides, it has the functions of windproof, sun protection, warm and protection. Applications Daily life, shopping, running, cycling, hiking, climbing, sports, fitness, parties, racing, motorcycle competitions, etc. Gift If you don't know what gift to give to friends or family, you can take this cap into account. And then you can introduce its magical usage to your friend/family, he will be surprised.",
-
-                            "rate": 3,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17193744761944.jpg",
-                            "price": "30",
-                            "quantity": "60",
-                            "unit": [
-                                {
-                                    "id": 1,
-                                    "name_en": "zevizuwyb@mailinator.com",
-                                    "name_ar": "Kylynn Carroll"
-                                }
-                            ],
-                            "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374476390.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374476171.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374476639.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193744761764.jpg"
-                            ],
-                            "brand": "Yeieeo"
-                        },
+                       
                         {
                             "id": 116,
                             "name_ar": "4 PCS Muslim Women Soft Premium Solid Chiffon Hijab Scarves Shawl Long Scarf Wrap Scarves with Gift Box",
@@ -3252,7 +2431,7 @@ const data = {
                             "description_en": "Idea gift: Perfect Stitching, With a gift box, Lightweight, breathable, soft, warm scarves shawls are ideal for giving gifts to mothers, girlfriends, lovers, sisters, and classmates on Mother's Day, Christmas, birthdays, Valentine's Day, Anniversary, New year, Ramadan Day etc. Multi-function: They can be used as scarves, shawls, headscarves, veils, stole, etc. They are widely used to meet your different needs on different occasions: windshield, keep warmth, and prevent direct sunlight on your skin. Material: Chiffon, The materials is super soft, comfortable and Smooth, it is a perfect daily scarf for spring, summer, fall and winter from day to night. Weight: 150g per scarf, very lightweight and cozy to wrap around your neck and over your shoulder or head. Size: 68.9 x 27.6 / 175 x 70cm This size is suitable for both scarf and shawl.",
 
                             "rate": 3.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1719374820108.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/31yU+SOrWmL._AC_SY580_.jpg",
                             "price": "90",
                             "quantity": "300",
                             "unit": [
@@ -3263,12 +2442,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374821728.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193748211561.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193748211650.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193748211232.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/1719374821190.jpg",
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17193748211578.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVRGQ2Kn-nrdO9Ad5B984_W6CJasW98doVgcj4UYorjrd2C-UjfpCFg8_guUeyvvBf88&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PtFx2SehYYCNT87VYE1M9i3V_RdpGsrEf0VOmmg3S7SGwULvkbxi7YEb1QW2ftKdQCE&usqp=CAU",
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsyef52WozY_Ax_ab9zzlLb_L035LjSeOe4fP5RS78gNG1vdqHaDGafkoMiJwGWGJ8j6s&usqp=CAU"
                             ],
                             "brand": "Febfim"
                         },
@@ -3295,7 +2471,7 @@ const data = {
 
                             "description_en": "Every BISSELL purchase helps save pets. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets. Dirt cup capacity - 480 ml. Powerful Cordless Cleaning—powered brush easily cleans hard floors, area rugs, and other hard-to-reach places. Battery lasts for up to 60 minutes of powered cleaning. Charge Time: 12 hours. Lightweight and versatile—perfect for picking up daily dirt and messes from floors, under furniture, and other hard-to-reach places. Features an easy-to-empty dirt cup, easy-glide rubber wheels, and an adjustable metal handle.",
                             "rate": 3.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718782926412.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAwgmX9N5zwbDJpRB4O6ysGjcqEFs8jJj5Mg&s",
                             "price": "3600",
                             "quantity": "20",
                             "unit": [
@@ -3306,9 +2482,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187829261095.jpg",
- "https://mohmed.testworks.top/public/uploads/product/gallery/17187829261346.jpg",
-  "https://mohmed.testworks.top/public/uploads/product/gallery/17187829261978.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqKsm7urFozmbCPvgVvBcU52NbygllJZMKOFN3rM7Tl8fxfXr_d3MyunMUjeJT81O8OD8&usqp=CAU",
+ "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb5JeJjlQw35CkxLXXhigVI0bKBDs31HjJvUddXp9MGJsoCI6ZFQfmMUKfTbQKRWS9wM0&usqp=CAU",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFX1OYFAYpsxtAltOyZOSQHQ-gFk-Qdxjt8TE9L2x3n-IRQ-dXQbsy2s6M_AzKx5YYS_4&usqp=CAU"
                             ],
                             "brand": "Bissell"
                         },
@@ -3320,7 +2496,7 @@ const data = {
                             "description_en": "EVERY PURCHASE SAVES PETS. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets. SWIVEL STEERING FOR MAXIMUM MANEUVERABILITY. Makes cleaning around furniture and other obstacles easy. Filter replacement every 6 months. TRIPLE ACTION BRUSH ROLL. Loosens, lifts and removes embedded pet hair. MULTI-SURFACE CLEANING WITH SCATTER-FREE TECHNOLOGY. Stop the scatter when tackling dry pet messes on hard surfaces. EDGE-TO-EDGE CLEANING. Tackle pet hair, dirt, and debris along edges and in corners. SPECIALIZED PET TOOLS INCLUDED. Comes with Pet TurboEraser tool to clean stairs, upholstery and more. EASY EMPTY DIRT TANK. Opens at the bottom with the press of a button, so cleaning up after cleanup is quick and mess-free.",
 
                             "rate": 4.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718783124540.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsdXcS0d8gMI8pAMGFSN-CXxYs4HoJHRY34g&s",
                             "price": "21400",
                             "quantity": "3",
                             "unit": [
@@ -3331,10 +2507,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187831241353.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718783124598.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187831241252.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187831241762.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGVZ3m15ABClvg8oal6bO2Fhww74dQ7HsZxBYHijOoTO_6j2X90bxaIPn4WlryrX225ik&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFTg0A4YNHGPgxFpSx8x4WWbFP30KHXOkb3QLrEAfKw0ndSZfzpHIqv_SO1j2Z5uBiSPs&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaE-ez7zxJkmXoixItDQe99DBMzXPZBgei8fNsF0w62vFrOT6lJCnxswKcMkSyF1SrxQE&usqp=CAU"
                             ],
                             "brand": "Bissell"
                         },
@@ -3347,7 +2522,7 @@ const data = {
                             "description_en": "EVERY PURCHASE SAVES PETS. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets. UP TO 50% BETTER CLEANING WITH HYDROSTEAM TECHNOLOGY. Steam, powerful suction and OXY formula remove set-in stains and tough, stuck-on, oily messes from carpet, upholstery and other surfaces. 3 CLEANING MODES. SteamWash for tough, oily messes; Steam for refreshing upholstery and cleaning tile and grout; and Wash for enzyme-based stains like pet accidents. FAST DRYING. Dries upholstery in about 25 minutes1 so you can enjoy clean, dry furniture quicker. MULTI-SURFACE VERSATILITY. Tackle tough stains and dirt on carpets, upholstery, stairs and auto interiors with the 5 , Tough Stain Tool. Unlock hard surface cleaning with the Multi-Surface Tool for cleaning tile and grout and even sneakers. EASY TO USE. Dual-tank system with 64 oz. clean tank capacity and large easy to remove dirty tank. PERMANENT STAIN REMOVAL. Includes BISSELL PET PRO OXY Spot and Stain Urine Eliminator with StainProtect formula, our most powerful portable formula for permanent stain removal and preventing future stains. INCLUDES: 5” Tough Stain Tool, Multi-Surface Tool, BISSELL PET PRO OXY Spot and Stain Urine Eliminator with StainProtect formula, and 3-year limited warranty",
 
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187833001880.jpeg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUojVhczv0TpiAzUNsyPuL5ftWYE3dQK2D4A&s",
                             "price": "16000",
                             "quantity": "2",
                             "unit": [
@@ -3358,10 +2533,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187833001526.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718783300627.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187833001896.jpeg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/171878330069.jpeg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDQ1EfEYwkoBtgHQ1ssEYbsKcxrtk4wFV1vKImH8tYO9OMKEFt6hwRf5nTP-UL-8YAyPQ&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ079hCsPRjMoVrlA8Wrt76plPxKvJgHyyRbw_AD8bIWJ1Asjq72qITE_lvFsl45Kn90do&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoqWpqIzmV57fYTrDLsx4UEJQi3WAs9qhMbK7dnm4VKt2uDYihIY6hjRFRSj6H8w-a7O4&usqp=CAU"
                             ],
                             "brand": "Bissell"
                         },
@@ -3374,7 +2548,7 @@ const data = {
                             "description_en": "EVERY PURCHASE SAVES PETS. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets. THREE DYNAMIC CLEANING MODES. Cyclonic dry vacuum mode, powered spinning wet mop mode, or dual-action vac and mop mode. CYCLONIC SUCTION. Powerful hard floor vacuum picks up dry debris like pet hair, crumbs, and dirt. SPINNING MOP PADS. Powered spinning mop pads and fresh cleaning solution does the scrubbing for you. LAY-FLAT DESIGN AND 90º EDGE CLEANING. Maneuverable, lightweight design lets you vacuum and mop hard floors under low furniture and right to the room's edge. CORDLESS CONVENIENCE. 25.9V lithium-ion battery provides up to 20 minutes of cordless cleaning run time in vacuum + mop mode. 70 minutes in mop-only mode. SAFE FOR ALL SEALED HARD FLOORS. Clean sealed hardwood, tile, linoleum, laminate, and vinyl floors. Not for use on area rugs or carpet. EASY MACHINE MAINTENANCE. Dry tank technology keeps the tank dry for easy emptying and clean-out.",
 
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718783526936.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_9mBCF-LT2RGA-YJf5l-P33csvTxT7g0V_Q&s",
                             "price": "22560",
                             "quantity": "6",
                             "unit": [
@@ -3385,11 +2559,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187835261769.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187835261837.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187835261443.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718783526329.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187835261452.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdyhOALjTYeC6_HQC9peCLOXLl3zfmyiyhQzi_Y5yjNbp3rEWaSrjAFPNi_9HPuuJUDtc&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HiTmu75YEjwdWWmZelfi97BGdqiwslHZpqMfi6VauW9w5oHvUaNcfeXzu1pgnQRknJ0&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDriOYhXrNoafRm_5JzZRfLyNg9P3A6e4RZzzVNdO1QZFFKTSyG_F3s6mDQYBN0GvKokE&usqp=CAU"
                             ],
                             "brand": "Bissell"
                         },
@@ -3402,7 +2574,7 @@ const data = {
                             "description_en": "Powerful, convenient, and easy to use. Powerful suction makes it great for quick pick ups with multipurpose versatility. Versatile cleaning three machines in one: A stick vacuum, handle vacuum, and stair vacuum. With a crevice tool for furniture and a floor nozzle for stairs. Clean hard floors and surface dirt on carpets and area rugs. Surface type: Counter tops, sealed hard floors, low pile carpet. Dirt cup capacity: 0.67 liter. Power Cord Length 15'.",
 
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718783683972.jpg",
+                            "photo": "https://m.media-amazon.com/images/I/61VHmI4i7rL._AC_UF894,1000_QL80_.jpg",
                             "price": "6900",
                             "quantity": "2",
                             "unit": [
@@ -3413,12 +2585,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187836831076.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/171878368399.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718783683918.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187836831289.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187836831553.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187836831157.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMrx5on0YHxFmjsR48EArUKXB12SzpMQUEti45Vh4TnOVj_I9jM4VNJ2YlpOD-qKoHqI&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShj1P8gwZlXNYqiVI4_A8JvAiB9t4DlyrlziSm2cF9Yac5QDLBtRwNofjr185jEvhk48g&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTbGmu5Gemv0pR9ymsT8tGoaMCBPM1RNXJ1cJv4z1vgwTATPl4X_hTtjrXSSQi49HZlpE&usqp=CAU"
                             ],
                             "brand": "Bissell"
                         },
@@ -3431,7 +2600,7 @@ const data = {
                             "description_en": "Every BISSELL purchase helps save pets. BISSELL proudly supports BISSELL Pet Foundation and its mission to help save homeless pets. Perfect for quick, quiet cleanups of everyday messes like crumbs, pet hair, cereal, dirt, and more. Safe and effective multi-surface cleaning on carpets, rugs, and hard floors. Compact, lightweight design that's easy to use and store. Features Dual Rotating Brush Rolls that pick up large and small debris on forward and return passes. Design is PVC-free, features parts made of 100% recycled plastic, and requires no electricity or wasteful disposable cleaning products. Power Source - Cordless.",
 
                             "rate": 4,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718783794917.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0bgBElnuCdvCb83LWzfFXVT4J28jB78HSw&s",
                             "price": "15000",
                             "quantity": "2",
                             "unit": [
@@ -3442,9 +2611,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187837941364.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187837941726.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187837941351.jpg"
+                                "https://m.media-amazon.com/images/I/912DFZnZzaL._AC_UF350,350_QL80_.jpg",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMlcO1URovjoA31cvnkvpI4nJ8rV8LQ6vL0lJiZbj2REB7Mi-LXNFuHiAgQmfa-HjHiT0&usqp=CAU"
                             ],
                             "brand": "Bissell"
                         },
@@ -3456,7 +2624,7 @@ const data = {
                             "description_ar": "18 Cubic Feet 74 D x 35 W x 31  H Adjustable Shelves, Touch Control Counter-Depth French Door",
                             "description_en": "18 Cubic Feet 74 D x 35 W x 31  H Adjustable Shelves, Touch Control Counter-Depth French Door",
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/1718784146455.jpg",
+                            "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4DFwTBMDUAPX3Y1geP6ZZaVuPH51BMzwoNg&s",
                             "price": "30000",
                             "quantity": "12",
                             "unit": [
@@ -3467,13 +2635,9 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187841461139.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187841461451.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718784146399.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187841461045.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718784146995.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718784146535.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187841461527.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVUfFT5PjYdSFsF_VhssYYbQHGY5mRnIUWsar8D7qb8ICvo_TG3aXoWDzSILzxcTZiqfk&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeJBsrulHtd61Klz1EKmS6LAWaH4aq88_JiNo8KI98h6pMY7EZsN32IyYYRycwtPHn20M&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGaZYeb5Xad_Db6X9bFztP46w-MtRNEV11baAckzy_g0W3k-odIrUZTlbV0mQjjMB9D6s&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -3486,7 +2650,7 @@ const data = {
                             "description_en": "23 Cubic Feet French Door Water Dispenser Counter Depth Stainless Steel",
 
                             "rate": 5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187852511977.jpg",
+                            "photo": "https://cdn11.bigcommerce.com/s-ad6dymslsc/images/stencil/1280x1280/products/26457/68856/rf23bb8600ap-samsung-36-bespoke-counter-depth-4-door-french-door-refrigerator-custom-panel-69__47838_60200__28921.1709651398.jpg?c=1",
                             "price": "32000",
                             "quantity": "7",
                             "unit": [
@@ -3497,14 +2661,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                                "https://mohmed.testworks.top/public/uploads/product/gallery/17187852511078.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718785251502.jpg",
- "https://mohmed.testworks.top/public/uploads/product/gallery/1718785251208.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187852511365.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187852511273.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187852511371.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187852511523.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718785251896.jpg"
+                                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFcEjj2LQqPqfn31jOG4ifZ6VwIJbEQO7XPgPHyNBshn9kWbY20hQWonMGLvsXu2gd5I&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ifmQnYM99IC6GtIpoziAbr3ZHqNz80i0MQIZs2HnWAgSCARHp8DWouZzPfpQ9iZZvVM&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         },
@@ -3517,7 +2675,7 @@ const data = {
                             "description_en": "The SAMSUNG RF18A5101SG is an 18 Cu. Ft. Smart Counter Depth French Door Refrigerator, featuring a sleek black stainless steel finish. Its counter depth design seamlessly integrates with your kitchen, providing a streamlined look and ample storage space. Key features include Wi-Fi connectivity for remote monitoring and control via the SmartThings app, compatibility with voice assistants like Alexa and Google Assistant, and advanced cooling technology with Twin Cooling Plus® for optimal freshness. This ENERGY STAR® certified refrigerator offers flexible storage with adjustable shelves, humidity-controlled crispers, and a convenient ice maker. The fingerprint-resistant finish ensures easy maintenance, while bright LED lighting illuminates the interior. With dimensions of 70 height, 33.25  width, and 28.25 depth, the SAMSUNG RF18A5101SG combines style, smart functionality, and efficiency, making it a perfect fit for any modern kitchen.",
 
                             "rate": 4.5,
-                            "photo": "https://mohmed.testworks.top/public/uploads/product/17187855391501.jpg",
+                            "photo": "https://image-us.samsung.com/SamsungUS/home/home-appliances/refrigerators/pdp/02022021/galery/black/RF18A5101SG_Black_01_SCOM.jpg?$product-details-jpg$",
                             "price": "23000",
                             "quantity": "15",
                             "unit": [
@@ -3528,13 +2686,8 @@ const data = {
                                 }
                             ],
                             "images": [
-                               "https://mohmed.testworks.top/public/uploads/product/gallery/17187855391621.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187855391472.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187855391024.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/171878553947.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187855391203.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/17187855391479.jpg",
-"https://mohmed.testworks.top/public/uploads/product/gallery/1718785539628.jpg"
+                               "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrcyM2ReSLersVhB9-_L1tGWNv9B7G7kBBWmVXyfvYF4jJojgddgzBwpOkQMBZ6U96rSY&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCj-b0CoRbTHIDshBjcky9adghukv6zVatEwlmJe8gDsw8fMaAO7xss_zergry7P2_yj4&usqp=CAU"
                             ],
                             "brand": "Samsung"
                         }

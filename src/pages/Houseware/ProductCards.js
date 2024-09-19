@@ -74,7 +74,7 @@ const ProductCards = (props) => {
   return (
     <div className="house_ware">
       <div class="pro">
-      <img className='plum_img' src={photo} />
+      <img className='plum_img' src={photo}  alt='product_img'/>
       <div class="des">
         <h3><Link to={`/housewares/${id}`}>{name_en.substring(0, 60)}</Link></h3>
           <div class="star">

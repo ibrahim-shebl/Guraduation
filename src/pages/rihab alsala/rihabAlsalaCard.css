@@ -37,7 +37,9 @@
     width: calc(100% - 60px);
     transition:  0.3s;
     border-radius: 10px;
+    height: 400px !important;
   }
+   
   .rihab .box:hover img {
     filter: grayscale(100%);
   }

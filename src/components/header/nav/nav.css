@@ -5,7 +5,7 @@
 
 .nav nav ul li{position: relative; margin-top: 0;}
 .nav nav ul li button{text-transform: capitalize !important; padding: 21px 20px !important; color: #3bb77e !important; border-radius: 0px !important; }
-.nav nav ul li button a{text-decoration: none !important; color: var(--navtitle) !important;  font-size: 19px !important; font-weight: 700;}
+.nav nav ul li button a{text-decoration: none !important; color: var(--navtitle) !important;  font-size: 23px ; font-weight: 700;}
 
 .nav .part3 .phNo svg{ font-size: 45px !important; opacity: 0.8;}
 .nav .part3 .phNo h3{ font-size:32px !important; line-height: 35px !important;}
@@ -28,13 +28,60 @@ nav .dropdown_menu li button:hover{background: var(--buttonHover) !important; }
 .phNo span {
     color: var(--svgproducthover);
 }
- 
-@media (max-width: 1300px) {
+@media (min-width: 1222px) and (max-width: 1300px) {
+  .nav nav ul li button a {
+      font-size: 21px !important;
+      font-weight: bold;
+  }
+  .nav nav ul li button {
+    padding: 18px 16px !important;
+  }
+}
+@media (min-width: 1025px) and (max-width: 1223px) {
+  .nav nav ul li button a {
+      font-size: 15px !important;
+      font-weight: bold;
+  }
+  
+  .nav nav ul li button {
+    padding: 18px 16px !important;
+  }
+}
+@media (max-width: 1024px) {
+  .nav nav ul li button a {
+      font-size: 15px !important;
+      font-weight: bold;
+  }
+  .nav nav ul li button {
+    padding: 18px 16px !important;
+  }
+}
+@media (min-width: 992px) {
+  /* .part3 {
+    display: none !important;
+  } */
+  /* .part2 {
+    width: 100%;
+  } */
+}
+/* @media (max-width: 1024px) {
+  .nav nav ul li button a {
+      font-size: 8px !important;
+      font-weight: bold;
+  }
+}
+@media (min-width: 1279px) and (max-width: 1300px) {
+  .nav nav ul li button a {
+      font-size: 14.5px !important;
+      font-weight: bold;
+  }
+} */
+/* @media (max-width: 1300px) {
     .nav{border-bottom: none !important}
     .nav nav ul li button a {
       display: flex;
       flex-wrap: wrap;
       
     }
-  }
+  } */
   

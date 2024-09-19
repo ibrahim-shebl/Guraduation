@@ -7,7 +7,7 @@ import './Plumbingcard.css'
 import CommonSection from './common-section/CommonSection'
 const Plumbing = () => {
   const [pageNumber, setPageNumber] = useState(0);
-  const productPerPage = 8;
+  const productPerPage = 6;
   const visitedPage = pageNumber * productPerPage;
   const plumbProducts = products.filter(item => item.category === "plumbing");
   const displayPage = plumbProducts.slice(

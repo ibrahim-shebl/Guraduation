@@ -3,6 +3,8 @@ import './factoriesAuction.css'
 import './framework.css'
 import { Link } from 'react-router-dom'
 import img1 from '../../assets/images/me.jpg'
+import img2 from '../../assets/images/profile (4).jpg'
+import img3 from '../../assets/images/profile (1).jpg'
 import nav_link from '../../assets/data/profile'
 const profileData = [
     {
@@ -29,7 +31,7 @@ const profileData = [
         programmingLanguage: "Php",
         yearsOfExperience: "fresh",
         desc: "Storing customer data in the database",
-        profileImg: img1
+        profileImg: img2
     },
     {
         name: "Ahmed Esmail",
@@ -42,7 +44,7 @@ const profileData = [
         programmingLanguage: "Php",
         yearsOfExperience: "fresh",
         desc: "Communicate with merchants",
-        profileImg: img1
+        profileImg: img3
     },
 ];
 const Profile = () => {

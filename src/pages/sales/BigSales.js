@@ -9,7 +9,6 @@ import { Link } from 'react-router-dom';
 import ReactPaginate from 'react-paginate';
 
 const BigSales = () => {
-
     const [user_email, setUserEmail] = useState(null);
     const [quantity, setQuantity] = useState(1);
     const dispatch = useDispatch();
@@ -30,7 +29,7 @@ const BigSales = () => {
             .then(response => response.json())
             .then(data => {
                 if (data && data.data) {
-                    setProducts(data.data); // Set products directly from 'data' array
+                    setProducts(data.data);
                 } else {
                     console.error('Invalid response format from API');
                 }
@@ -54,7 +53,6 @@ const BigSales = () => {
             if (!response.ok) {
                 throw new Error('Error adding item to cart');
             }
-
         } catch (error) {
             console.error('Error adding item to cart:', error);
         }
@@ -87,6 +85,16 @@ const BigSales = () => {
         setPageNumber(selected);
     };
 
+    const truncateString = (str, num) => {
+        return str.length > num ? str.slice(0, num) + "..." : str;
+    };
+
+    const [expandedProduct, setExpandedProduct] = useState(null);
+
+    const toggleProductName = (productId) => {
+        setExpandedProduct(expandedProduct === productId ? null : productId);
+    };
+
     return (
         <>
             <CommonSection title="30% discount on all products." />
@@ -97,11 +105,13 @@ const BigSales = () => {
                         <div key={product.id} className='bg-white h-auto border-[1px] border-gray-200 py-8 z-30 shadow-none hover:shadow-testShadow duration-200 gap-4 flex flex-col relative'>
                             <span className='text-xs capitalize italic absolute top-2 right-2 text-gray-500'>30% discount</span>
                             <div className='w-full h-auto flex items-center justify-center relative group'>
-                                <img className='w-52 h-64 object-contain' src={product.photo} alt='productimg' />
+                                <img className='w-52 h-64 object-contain' src={product.photo} alt="product_img" />
                             </div>
                             <div className='px-4 z-10 bg-white'>
                                 <div className='flex items-center justify-between'>
-                                    <Link to={`/bigSale/${product.id}`}><h2 className='font-titleFont tracking-wide text-lg text-amazon_blue font-medium'>{product.name_en.substring(0, 50)}</h2></Link>
+                                    <h2 className='font-titleFont tracking-wide text-lg text-amazon_blue font-medium cursor-pointer' onClick={() => toggleProductName(product.id)}>
+                                        {expandedProduct === product.id ? product.name_en : truncateString(product.name_en, 50)}
+                                    </h2>
                                     <p className='text-sm text-gray-600 font-semibold'>{(product.price * 0.7).toFixed(2)} EGP</p>
                                 </div>
                                 <div>

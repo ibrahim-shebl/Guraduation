@@ -79,7 +79,7 @@ const RihabAlsalaCards = (props) => {
            
             <div className="box">
               <div className="data">
-                <img className='plum_img' src={photo} />
+                <img src={photo} alt="product_img"/>
               </div>
               <div className="des">
                 <h3><Link to={`/rihAbalsala/${id}`}>{name_en}</Link></h3>

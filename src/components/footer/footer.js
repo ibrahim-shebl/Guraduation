@@ -2,16 +2,10 @@ import React from 'react';
 import './footer.css';
 import Logo from '../../assets/images/logo-ibid.png';
 import { Link } from 'react-router-dom';
-import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
-import HeadphonesOutlinedIcon from '@mui/icons-material/HeadphonesOutlined';
 import EmailOutlinedIcon from '@mui/icons-material/EmailOutlined';
 import WatchLaterOutlinedIcon from '@mui/icons-material/WatchLaterOutlined';
-import FacebookOutlinedIcon from '@mui/icons-material/FacebookOutlined';
-import TwitterIcon from '@mui/icons-material/Twitter';
-import InstagramIcon from '@mui/icons-material/Instagram';
-import YouTubeIcon from '@mui/icons-material/YouTube';
 import footer_link from '../../assets/data/foorer';
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+
 const Footer = () => {
     return (
         <>

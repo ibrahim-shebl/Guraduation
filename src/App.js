@@ -4,7 +4,6 @@ import './App.css';
 import './responsive.css'
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Header from './components/header/header';
-import Footer from './components/footer/Footer';
 import Home from './pages/Home/index';
 import Listing from './pages/Listing';
 import NotFound from './pages/NotFound';
@@ -42,6 +41,7 @@ import LatestAuction from './pages/Auctions/LatestAuction';
 import LatestAuctionDetails from './pages/Auctions/LatestAuctionDetails';
 import AuctionForm from './pages/Auctions/AuctionForm';
 import BigSaleDetails from './pages/sales/BigSaleDetails';
+import Footer from './components/footer/Footer';
 
 
 

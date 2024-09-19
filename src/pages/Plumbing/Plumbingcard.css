@@ -13,6 +13,9 @@
     width: 350px;
     height: 340px !important;
 }
+.plum_content h3 {
+    cursor: pointer;
+}
 .plumb .box .plum_content h3 a{
 font-size: 1.25rem !important;
 color: var(--title);

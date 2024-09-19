@@ -7,7 +7,7 @@ import PerfumCard from "./PerfumCard";
  
 const Perfum = () => {
     const [pageNumber, setPageNumber] = useState(0);
-    const productPerPage = 8;
+    const productPerPage = 6;
     const visitedPage = pageNumber * productPerPage;
     const housewareProducts = products.filter(item => item.category === "perfume");
     const displayPage = housewareProducts.slice(

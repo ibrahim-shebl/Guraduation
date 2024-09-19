@@ -128,15 +128,3 @@ header .headerSearch .search input {
         margin-left: 10px !important;
     }
 }
-@media (max-width: 1024px) {
-    .nav nav ul li button a {
-        font-size: 8px !important;
-        font-weight: bold;
-    }
-  }
-  @media (min-width: 1279px) and (max-width: 1300px) {
-    .nav nav ul li button a {
-        font-size: 15px !important;
-        font-weight: bold;
-    }
-}

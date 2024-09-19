@@ -69,7 +69,7 @@ const PerfumCard = (props) => {
      
   return(
           <div className="project-card">
-            <img className="plum_img" src={photo} alt="image" />
+            <img className="plum_img" src={photo} alt="product_img" />
             <h2 className="project-title"><Link to={`/perfume/${id}`}>{name_en}</Link></h2>
             <div className="pro-details">
               <p>{price} EGP</p>

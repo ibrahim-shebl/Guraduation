@@ -9,7 +9,7 @@ import { useState } from 'react';
 
 const Nav = (props) => {
 
-     
+
     const [navData, setNavData] = useState([]);
     const [isOpenNav, setIsOpenNav] = useState(false);
     const [windowWidth, setWindowWidth] = useState(window.innerWidth);
@@ -41,7 +41,7 @@ const Nav = (props) => {
             <div className={`nav d-flex align-items-center ${isOpenNav === true && 'click'}`}>
                 <div className='container-fluid'>
                     <div className='row position-relative'>
-                        <div className='col-sm-10 part2 position-static'>
+                        <div className='col-sm-12 part2 position-static'>
                             <nav className={isOpenNav === true ? 'open' : ''}>
                                 <ul className='list list-inline mb-0'>
                                     <li className='list-inline-item'>
@@ -53,9 +53,13 @@ const Nav = (props) => {
                                         navData.map((item, index) => {
                                             return (
                                                 <li className='list-inline-item' key={index}>
-                                                    <Button onClick={() => openDropdownFun(index)}><a href={`${windowWidth > 992 ? `/cat/${item.cat_name.toLowerCase()}` : '#'}`}
-                                                        onClick={() => sessionStorage.setItem('cat', item.cat_name.toLowerCase())}
-                                                    >{item.cat_name}  <KeyboardArrowDownIcon className={`${openDropdownMenu === true && openDropdownMenuIndex === index && 'rotateIcon'}`} /></a></Button>
+                                                    <Button onClick={() => openDropdownFun(index)}>
+                                                        <Link to={windowWidth > 992 ? `/cat/${item.cat_name.toLowerCase()}` : '#'}>
+                                                            {item.cat_name}
+                                                            <KeyboardArrowDownIcon className={`${openDropdownMenu === true && openDropdownMenuIndex === index && 'rotateIcon'}`} />
+                                                        </Link>
+                                                    </Button>
+
                                                     {
                                                         item.items.length !== 0 &&
                                                         <div className={`dropdown_menu ${openDropdownMenu === true && openDropdownMenuIndex === index && 'open'}`}>
@@ -66,14 +70,12 @@ const Nav = (props) => {
                                                                         return (
                                                                             <li key={index_}>
                                                                                 <Button onClick={props.closeNav}>
-                                                                                    <a href={`/cat/${item.cat_name.toLowerCase()}/${item_.cat_name.replace(/\s/g, '-').toLowerCase()}`}
-                                                                                        onClick={() => sessionStorage.setItem('cat', item.cat_name.toLowerCase())}>
-                                                                                        {
-                                                                                            item_.cat_name
-                                                                                        }
-                                                                                    </a>
+                                                                                    <Link to={`/cat/${item.cat_name.toLowerCase()}/${item_.cat_name.replace(/\s/g, '-').toLowerCase()}`}>
+                                                                                        {item_.cat_name}
+                                                                                    </Link>
                                                                                 </Button>
                                                                             </li>
+
                                                                         )
                                                                     })
                                                                 }
@@ -97,33 +99,33 @@ const Nav = (props) => {
                                     </li>
 
 
-                                  
+
                                     <li className='list-inline-item'>
                                         <Button><Link to="/plumbing">Plumbing</Link></Button>
                                     </li>
-                                    
+
                                     <li className='list-inline-item'>
                                         <Button><Link to="/perfume">Perfumes</Link></Button>
                                     </li>
                                     <li className='list-inline-item'>
-                                        <Button><Link to = '/cart'>Cart</Link></Button>
+                                        <Button><Link to='/cart'>Cart</Link></Button>
                                     </li>
-                                     
+
                                     <li className='list-inline-item'>
                                         <Button><Link to='/about'>About</Link></Button>
                                     </li>
                                     <li className='list-inline-item'>
                                         <Button><Link to='/contact'>Contact</Link></Button>
                                     </li>
-                                    
+
                                 </ul>
 
-                                 
+
 
                             </nav>
                         </div>
 
-                        <div className='col-sm-2 part3 d-flex align-items-center'>
+                        {/* <div className='col-sm-2 part3 d-flex align-items-center'>
                             <div className='phNo d-flex align-items-center ml-auto'>
                                 <span><HeadphonesOutlinedIcon /></span>
                                 <div className='info ml-3'>
@@ -131,7 +133,7 @@ const Nav = (props) => {
                                     <p className='mb-0'>Support Center</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
